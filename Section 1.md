@@ -12,8 +12,10 @@ What is the benefit of having a core curriculum in which each student deeply stu
 
 ## Mission Statement
 Ouachita Hills College exists to provide a Christ-centered, character-oriented education, which equips students to be successful in their chosen professions and to be active soul-winners.
+
 ## Vision Statement
 The vision of Ouachita Hills College is to demonstrate the power of implementing God’s counsel to the Seventh-day Adventist Church in the field of educational endeavor by providing an environment that fosters the rounded development described in those counsels. In addition to being aptly prepared for their chosen profession, our students are enabled to cultivate habits of deep Bible study, practical work, and compassionate witnessing.
+
 ## Objectives
 Ouachita Hills College leadership and staff work together to reach the following objectives:
 
@@ -35,15 +37,19 @@ To help our students excel in their chosen profession...
 The family of OHC, while striving for moral excellence, is conscious of its limitations. The faculty aims to prepare a class of students that will one day surpass their teachers in their qualifications for ministry.
 
 Our college has been given a focus. “Success in any line demands a definite aim. He who would achieve true success in life must keep steadily in view the aim worthy of his endeavor. Such an aim is set before the youth of today. The heaven-appointed purpose of taking the gospel to the world in this generation is the noblest that can appeal to any human being” Education, 262. This is our goal.
+
 ## Operating Principles
 Ouachita Hills College is operated by members of the Seventh-day Adventist Church. We accept the entire Bible as divinely inspired. We also believe in one God and accept Jesus Christ as the Savior of humankind. We honor the seventh-day Sabbath and await Christ’s second return.
+
 ## Description of Our Campus
-Ouachita Hills College, operated by Ouachita Ministries, Inc. (a supporting ministry of the Seventh-day Adventist Church), is located on 421 acres on the outskirts of Amity, Arkansas. Ouachita Hills Academy also shares the campus. An orchard, a vineyard, and a large garden beautify the grounds in the spring. The grounds are graced with several ponds, the Antoine River, a greenhouse, cabinet shop, auto shop, and other structures related to the practical arts. A complete picture of the beauty of our home can only be gained by making a personal visit. All are welcome. 
-## Degrees Offered*
+Ouachita Hills College, operated by Ouachita Ministries, Inc. (a supporting ministry of the Seventh-day Adventist Church), is located on 421 acres on the outskirts of Amity, Arkansas. Ouachita Hills Academy also shares the campus. An orchard, a vineyard, and a large garden beautify the grounds in the spring. The grounds are graced with several ponds, the Antoine River, a greenhouse, cabinet shop, auto shop, and other structures related to the practical arts. A complete picture of the beauty of our home can only be gained by making a personal visit. All are welcome.
+
+## Degrees Offered\*
 The following degrees may be earned through Ouachita Hills College:
-* Associate of Arts in Personal Evangelism 
-* Bachelor of Arts in Biblical Studies 
-* Bachelor of Arts in Theology 
+
+* Associate of Arts in Personal Evangelism
+* Bachelor of Arts in Biblical Studies
+* Bachelor of Arts in Theology
 * Bachelor of Arts in Christian Business Management
 * Bachelor of Arts in Elementary Christian Education**
 * Bachelor of Arts in Secondary Christian Education**
