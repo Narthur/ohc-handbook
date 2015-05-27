@@ -103,24 +103,10 @@ Although every effort is made to be accurate in listing course offerings, OHC re
 
 ## Course Load Tiers
 
-<table>
-	<tr>
-		<td>Part-time</td>
-		<td>1-5 credit hours</td>
-	</tr>
-	<tr>
-		<td>Half-time</td>
-		<td>6-11 credit hours</td>
-	</tr>
-	<tr>
-		<td>Full-time</td>
-		<td>12-17 credit hours</td>
-	</tr>
-	<tr>
-		<td>Overload*</td>
-		<td>18 or more credit hours</td>
-	</tr>
-</table>
+|Part-time |1-5 credit hours
+|Half-time |6-11 credit hours
+|Full-time |12-17 credit hours
+|Overload* |18 or more credit hours
 
 *Students wishing to take an overload of 18 hours or more must have a minimum GPA of 3.0 for the previous semester and obtain permission by petitioning the Academic Affairs Committee. This is normally granted only to students in their senior year.
 
@@ -169,24 +155,10 @@ One semester hour equals fifteen 50-minute class periods per semester (Three clo
 
 Class standing is determined at the beginning of each semester as follows:
 
-<table>
-	<tr>
-		<td>Freshmen</td>
-		<td>0–23 hours completed</td>
-	</tr>
-	<tr>
-		<td>Sophomores</td>
-		<td>24–55 hours completed</td>
-	</tr>
-	<tr>
-		<td>Juniors</td>
-		<td>56–89 hours completed</td>
-	</tr>
-	<tr>
-		<td>Seniors</td>
-		<td>90+ hours completed</td>
-	</tr>
-</table>
+|Freshmen   |0–23 hours completed
+|Sophomores |24–55 hours completed
+|Juniors    |56–89 hours completed
+|Seniors    |90+ hours completed
 
 ## Double Major
 
