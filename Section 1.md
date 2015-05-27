@@ -20,16 +20,19 @@ The vision of Ouachita Hills College is to demonstrate the power of implementing
 Ouachita Hills College leadership and staff work together to reach the following objectives:
 
 To develop high Christian character in our students...
+
 * By encouraging students to cultivate a dynamic, personal, saving relationship with Jesus through personal devotional time, corporate worship, classroom instruction, and mentoring by staff.
 * By fostering a balanced development of the mental, physical, spiritual, and social powers.
 * By blending organizational structure with personal freedom to promote self-government, in order to honor God.
 
 To equip students to be active soul winners...
+
 * By engaging every student in soul-winning experiences such as canvassing, mission trips, and church assignments that include preaching, teaching, and providing leadership in worship services.
 * By teaching principles of reliable hermeneutics as relate to the Bible and Spirit of Prophecy.
 * Promote a spirit of dedication and self-sacrifice.
 
 To help our students excel in their chosen profession...
+
 * By providing excellence in academics without sacrificing principles.
 * By infusing dependable biblical instruction and principles across all disciplines.
 * By equipping students to be capable and faithful workers in their chosen professions.
