@@ -49,76 +49,23 @@ Late registration: Permission to register late must be obtained from the Academi
 
 OHC uses the semester system. Grade points are awarded for each class that has been passed. Grade points for a given class are the product of the grade, on a four-point scale as noted below, and the semester hours earned in the class. The key below will help interpret grade reports and evaluate grade-point average (GPA).
 
-<table>
-	<tr>
-		<td>A</td>
-		<td>4.00</td>
-	</tr>
-	<tr>
-		<td>A-</td>
-		<td>3.67</td>
-	</tr>
-	<tr>
-		<td>B+</td>
-		<td>3.33</td>
-	</tr>
-	<tr>
-		<td>B</td>
-		<td>3.00</td>
-	</tr>
-	<tr>
-		<td>B-</td>
-		<td>2.67</td>
-	</tr>
-	<tr>
-		<td>C+</td>
-		<td>2.33</td>
-	</tr>
-	<tr>
-		<td>C</td>
-		<td>2.00</td>
-	</tr>
-	<tr>
-		<td>C-</td>
-		<td>1.67</td>
-	</tr>
-	<tr>
-		<td>D+</td>
-		<td>1.33</td>
-	</tr>
-	<tr>
-		<td>D</td>
-		<td>1.00</td>
-	</tr>
-	<tr>
-		<td>D-</td>
-		<td>0.67</td>
-	</tr>
-	<tr>
-		<td>F</td>
-		<td>0.00</td>
-	</tr>
-	<tr>
-		<td>I</td>
-		<td>Incomplete</td>
-	</tr>
-	<tr>
-		<td>W</td>
-		<td>Withdrawal</td>
-	</tr>
-	<tr>
-		<td>NC</td>
-		<td>Non-credit</td>
-	</tr>
-	<tr>
-		<td>P</td>
-		<td>Pass</td>
-	</tr>
-	<tr>
-		<td>AU</td>
-		<td>Audit</td>
-	</tr>
-</table>
+|A    |4.00
+|A-   |3.67
+|B+   |3.33
+|B    |3.00
+|B-   |2.67
+|C+   |2.33
+|C    |2.00
+|C-   |1.67
+|D+   |1.33
+|D    |1.00
+|D-   |0.67
+|F    |0.00
+|I    |Incomplete
+|W    |Withdrawal
+|NC   |Non-credit
+|P    |Pass
+|AU   |Audit
 
 ## Grade Requirements
 
