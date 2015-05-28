@@ -1,4 +1,4 @@
-# Ministry Information
+# Ministries
 
 ## Soul-Winning at OHC
 

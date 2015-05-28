@@ -1,7 +1,7 @@
-# Academic Information
+# Academics
 ## Introduction
 
-“True education means more than taking a certain course of study. It is broad. It includes the harmonious development of all the physical powers and the mental faculties. It teaches the love and fear of God, and is a preparation for the faithful discharge of all of life’s duties” (*Education*, 13).
+> “True education means more than taking a certain course of study. It is broad. It includes the harmonious development of all the physical powers and the mental faculties. It teaches the love and fear of God, and is a preparation for the faithful discharge of all of life’s duties” (*Education*, 13).
 
 ## Suggested Course Load
 
@@ -9,18 +9,11 @@ Students pursuing a degree at OHC should complete 30-33 semester hours per year 
 
 It is recommended that ESL students take a lighter course load in their first semester at OHC in order to help them adjust to the language differences.
 
+The Admissions Committee may require students to take Foundations of English and/or Foundations of Math classes.
+
 ## Transfer Credit
 
 Credits toward a degree may be granted for satisfactory work completed at accredited, degree-granting institutions. The Registrar of OHC must approve all credits. An official transcript must be submitted for transfer of credits. Only courses in which a student has received a grade of C or better are accepted. A maximum of 70 semester hours can be accepted from the community college level for students pursuing a Bachelor’s degree.
-
-## Academic Appeals Procedure
-
-Students who feel they have been treated unfairly in regard to their academic programs are entitled to an appeal for an impartial review and reconsideration of their cases. Procedures to be followed are:
-
-* Students should first go to their teacher to determine the basis of the grade.
-* Submit to your instructor a precise, detailed letter of appeal. In your letter you should make reference to the course grading criteria. (Note: Grades higher than a “C” may not be disputed; unless it is demonstrated to have a significant effect on the final class grade.)
-* Students who wish to make further appeal concerning a grade are responsible for demonstrating that the given grade does not reflect academic merit, or is a result of computational or clerical error.
-* If a satisfactory decision has not been reached, the case may be presented to the OHC Academic Affairs Committee. Students will be invited to present their cases in writing. The decision of the committee is final.
 
 ## Challenge Exams
 
@@ -37,13 +30,17 @@ Ouachita Hills College makes provision for knowledge gained in other than tradit
 
 ## Credit for Life Experience
 
-Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
+Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual, available in the Registrar's Office. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
 
 ## Registration
 
-Students are expected to register during the scheduled registration periods designated in the school calendar. Registration is complete only after they have finished all procedures and returned registration forms to the Business Office. Students may not register in absentia or for another student. All students are required to participate in the orientation activities.
+Students are expected to register during the scheduled registration periods designated in the school calendar. Registration is complete only after they have finished all registration procedures and made financial arrangements in the Business Office. Students may not register in absentia or for another student. All students are required to participate in the orientation activities.
 
 Late registration: Permission to register late must be obtained from the Academic Affairs Committee. Students failing to register during the scheduled registration periods will be charged a late registration fee of $50. The course load of a late registrant may be reduced according to the amount of class work missed. No student may register after two weeks of the semester have elapsed. Exceptions may be made for the intensive classes which have not begun prior to the late registration deadline.
+
+## Grade Reports
+
+Grade reports are given to students at the end of each semester. Students should check their grade reports carefully. If a student believes any part of the report is incorrect, he or she has three months to appeal. Appeals should be made first to the instructor, and then, as necessary, to the Academic Affairs Committee. Only the end-of-semester grades are recorded on the permanent grade transcript. Semester grade reports will only be released to students who have regular admission status.
 
 ## Grading System
 
@@ -55,6 +52,10 @@ OHC uses the semester system. Grade points are awarded for each class that has b
 |B    |3.00 |D    |1.00 |P    |Pass
 |B-   |2.67 |D-   |0.67 |AU   |Audit
 |C+   |2.33 |F    |0.00
+
+## Incomplete Grades
+
+An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an F if the class work is not finished in the prescribed time.
 
 ## Grade Requirements
 
@@ -70,6 +71,10 @@ No course with a grade below C- may count toward an emphasis or a minor.
 
 A student whose cumulative grade point average falls below 2.0 will be placed on academic probation. A student on academic probation will not be allowed to register late for the semester, but must be present at the registration time stated on the schedule (available online at www.ohc.org). While on probation the student will be allowed to enroll for no more than an additional 12 hours. When the student has completed the 12 hours and the cumulative grade point average is at 2.5 or above, academic probation will be removed. However, if the problem is not corrected within that period, dismissal procedures may be implemented. The Academic Affairs Committee may review individual cases to determine the action most appropriate to the student’s situation.
 
+## Plagiarism
+
+Students are expected to complete their own work and acknowledge the work of others when necessary with appropriate footnotes and/or direct textual references using quotation marks. Late work is highly preferred to plagiarism or cheating, which are serious academic offenses. Work that has been plagiarized will result in a zero for the assignment, a meeting with the instructor and/or other staff members, and a notation on the student's file.
+
 ## Repeating a Course
 
 All grade point averages for admission, academic standing, and graduation are calculated based on hours attempted, except that a student may repeat a course in which he or she has received a grade of D or F. In such cases, when calculating the grade point average, the hours and quality points earned on the second effort will be used.
@@ -79,6 +84,15 @@ A course in which a student has earned a C may be repeated only with permission 
 ## Grade Change
 
 A grade may be changed by the teacher during a 6-month period from the date the grade was issued. Grades are changed only to correct an error made in determining or recording the grade. If a student is not satisfied with the grade he received for a class, the student has 90 days to contest the grade. After that time the grade will be final.
+
+## Academic Appeals Procedure
+
+Students who feel they have been treated unfairly in regard to their academic programs are entitled to an appeal for an impartial review and reconsideration of their cases. Procedures to be followed are:
+
+* Students should first go to their teacher to determine the basis of the grade.
+* Submit to your instructor a precise, detailed letter of appeal. In your letter you should make reference to the course grading criteria. (Note: Grades higher than a “C” may not be disputed; unless it is demonstrated to have a significant effect on the final class grade.)
+* Students who wish to make further appeal concerning a grade are responsible for demonstrating that the given grade does not reflect academic merit, or is a result of computational or clerical error.
+* If a satisfactory decision has not been reached, the case may be presented to the OHC Academic Affairs Committee. Students will be invited to present their cases in writing. The decision of the committee is final.
 
 ## Honesty
 
@@ -101,30 +115,24 @@ Although every effort is made to be accurate in listing course offerings, OHC re
 
 ## Academic Advising
 
-Academic advisors assist individual students and help them understand and meet academic requirements for a degree, but the students themselves are responsible for understanding and fulfilling the requirements. If requirements are not satisfied, the degree will be withheld pending adequate fulfillment. Thus, it is essential that students become familiar with all requirements and remain currently informed throughout their college career.
+Academic advisors assist students by helping them understand and meet academic requirements for a degree, but the students themselves are responsible for understanding and fulfilling the requirements. If requirements are not satisfied, the degree will be withheld pending adequate fulfillment. Thus, it is essential that students become familiar with all requirements and remain currently informed throughout their college career.
 
-## Withdrawal from a Course
+Students are required to meet with their academic advisors during registration. Returning students must meet with their academic advisors prior to preregistering.
 
-To make program changes, students must obtain the appropriate change of registration form in the library, obtain the necessary signatures indicating approval of the change (advisor, teacher, and registrar), and return the form to the Registrar’s Office.
+## Adding or Dropping a Course
 
-The signed form will become effective on the date it is returned to the registrar. In order for the withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date). Grades for unofficial course withdrawals will be recorded as an F on the academic transcript.
+To add or drop a course, students must complete the Change of Registration form available in the library and submit it to the Registrar's Office. The signed form will become effective on the date it is returned to the registrar.
+
+In order for a withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date.) Grades for unofficial course withdrawals will be recorded as an F on the academic transcript.
 
 There are two withdrawal deadlines on the academic calendar:
 
-* The first withdrawal deadline is for withdrawing from a class with a full refund. 
-* The second deadline is for withdrawing from the class without the withdrawal being recorded on the student’s transcript. 
+* Deadline for withdrawing from a class with a full refund and no "W" on transcript: Two weeks after classes begin.
+* Deadline for withdrawing from a class without the withdrawal being recorded as an "F" on the student’s transcript: Two weeks before finals.
 
-When a student drops a class before the first deadline stated on the academic calendar, the class is deleted off the student’s record. A grade of “W” is issued when a student drops the class after the second deadline specified on the academic calendar. The grade for any withdrawal after the final withdrawal deadline will automatically be “F.”
+When a student drops a class before the first deadline stated on the academic calendar, the class is removed from the student’s record. A grade of “W” is issued when a student drops the class after the first deadline specified on the academic calendar. The grade for any withdrawal after the final deadline is an “F.”
 
-Due to course scheduling challenges OHC is unable to offer all courses every year. Therefore students should be aware that dropping a course could add significant length to their degree program.
-
-## Grade Reports
-
-Grade reports are given to students at the end of each semester. Students should check their grade reports carefully. If a student believes any part of the report is incorrect, he or she has three months to appeal. Appeals should be made first to the instructor, and then, as necessary, to the Academic Affairs Committee. Only the end-of-semester grades are recorded on the permanent grade transcript. Semester grade reports will only be released to students who have regular admission status.
-
-## Incomplete Grades
-
-An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an F if the class work is not finished in the prescribed time.
+Due to scheduling challenges OHC is unable to offer every course, every year. Therefore students should be aware that dropping a course could add significant length to their degree program.
 
 ## Concurrent Enrollment
 
@@ -134,7 +142,9 @@ Any course taken at another institution while a student is enrolled at OHC (by c
 
 In some instances, a student may want to audit a course. If space is available, the student may attend the class and listen to the lectures and discussions. No exams, quizzes, papers, or projects will be required of an auditing student except at the discretion of the teacher. No credit is given. No change from credit to audit may be made after the last day to withdraw from a course.
 
-Some courses may be audited only at the full tuition rate. Where a course has enrollment limits, students taking the course for credit will be given priority. Auditing students must understand the instructor is under no obligation to evaluate their work and/or performance. Audits may be recorded on transcripts. Proficiency exams may not be taken after a course is audited.
+Where a course has enrollment limits, students taking the course for credit will be given priority. Auditing students must understand the instructor is under no obligation to evaluate their work and/or performance. Audits may be recorded on transcripts. Proficiency exams may not be taken after a course is audited.
+
+Some courses, included all vocational classes, may only be audited at the full tuition rate.
 
 ## Study Load
 
@@ -198,3 +208,7 @@ It follows that since students at Ouachita Hills College engage actively in the 
 A student who is out of harmony with the policies of the college, who is uncooperative, and whose attitude gives evidence of an unresponsive nature may be asked to withdraw without specific charge.
 
 Each student is expected to acquaint himself with the standards of conduct published in the Ouachita Hills College Handbook. Interim announcements of policies adopted by the administration are of equal force with those listed in the official publications.
+
+## Accreditation
+
+OHC is not an accredited institution. However the school is in the process of establishing an Articulation Agreement with Andrews University. Please contact the registrar for the latest developments.
