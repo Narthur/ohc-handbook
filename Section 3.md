@@ -208,3 +208,7 @@ It follows that since students at Ouachita Hills College engage actively in the 
 A student who is out of harmony with the policies of the college, who is uncooperative, and whose attitude gives evidence of an unresponsive nature may be asked to withdraw without specific charge.
 
 Each student is expected to acquaint himself with the standards of conduct published in the Ouachita Hills College Handbook. Interim announcements of policies adopted by the administration are of equal force with those listed in the official publications.
+
+## Accreditation
+
+OHC is not an accredited institution. However the school is in the process of establishing an Articulation Agreement with Andrews University. Please contact the registrar for the latest developments.
