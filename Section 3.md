@@ -39,7 +39,7 @@ Ouachita Hills College makes provision for knowledge gained in other than tradit
 
 ## Credit for Life Experience
 
-Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual, available in the registrar's office. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
+Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual, available in the Registrar's Office. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
 
 ## Registration
 
@@ -107,20 +107,20 @@ Academic advisors assist students by helping them understand and meet academic r
 
 Students are required to meet with their academic advisors during registration. Returning students must meet with their academic advisors prior to preregistering.
 
-## Withdrawal from a Course
+## Adding or Dropping a Course
 
-To make program changes, students must obtain the appropriate change of registration form in the library, obtain the necessary signatures indicating approval of the change (advisor, teacher, and registrar), and return the form to the Registrar’s Office.
+To add or drop a course, students must complete the Change of Registration form available in the library and submit it to the Registrar's Office. The signed form will become effective on the date it is returned to the registrar.
 
-The signed form will become effective on the date it is returned to the registrar. In order for the withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date). Grades for unofficial course withdrawals will be recorded as an F on the academic transcript.
+In order for a withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date.) Grades for unofficial course withdrawals will be recorded as an F on the academic transcript.
 
 There are two withdrawal deadlines on the academic calendar:
 
-* The first withdrawal deadline is for withdrawing from a class with a full refund. 
-* The second deadline is for withdrawing from the class without the withdrawal being recorded on the student’s transcript. 
+* Deadline for withdrawing from a class with a full refund and no "W" on transcript: Two weeks after classes begin.
+* Deadline for withdrawing from a class without the withdrawal being recorded as an "F" on the student’s transcript: Two weeks before finals.
 
-When a student drops a class before the first deadline stated on the academic calendar, the class is deleted off the student’s record. A grade of “W” is issued when a student drops the class after the second deadline specified on the academic calendar. The grade for any withdrawal after the final withdrawal deadline will automatically be “F.”
+When a student drops a class before the first deadline stated on the academic calendar, the class is removed from the student’s record. A grade of “W” is issued when a student drops the class after the first deadline specified on the academic calendar. The grade for any withdrawal after the final deadline is an “F.”
 
-Due to course scheduling challenges OHC is unable to offer all courses every year. Therefore students should be aware that dropping a course could add significant length to their degree program.
+Due to scheduling challenges OHC is unable to offer every course, every year. Therefore students should be aware that dropping a course could add significant length to their degree program.
 
 ## Grade Reports
 
