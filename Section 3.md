@@ -1,13 +1,15 @@
 # Academic Information
 ## Introduction
 
-“True education means more than taking a certain course of study. It is broad. It includes the harmonious development of all the physical powers and the mental faculties. It teaches the love and fear of God, and is a preparation for the faithful discharge of all of life’s duties” (*Education*, 13).
+> “True education means more than taking a certain course of study. It is broad. It includes the harmonious development of all the physical powers and the mental faculties. It teaches the love and fear of God, and is a preparation for the faithful discharge of all of life’s duties” (*Education*, 13).
 
 ## Suggested Course Load
 
 Students pursuing a degree at OHC should complete 30-33 semester hours per year to finish their Associate program in two years or their Bachelor’s program in four.
 
 It is recommended that ESL students take a lighter course load in their first semester at OHC in order to help them adjust to the language differences.
+
+The Admissions Committee may require students to take Foundations of English and/or Foundations of Math classes.
 
 ## Transfer Credit
 
@@ -37,11 +39,11 @@ Ouachita Hills College makes provision for knowledge gained in other than tradit
 
 ## Credit for Life Experience
 
-Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
+Students who have satisfactorily completed at least 24 semester hours with Ouachita Hills College may apply for credit for life experience by submitting a portfolio, along with a nonrefundable portfolio evaluation fee. Students must prepare a portfolio in accordance with the criteria established in the Student Portfolio Manual, available in the registrar's office. The portfolio must show evidence of student learning which is relevant to academic goals and which is gained through experience over a reasonable period of time. Credits awarded for life experience are limited to a maximum of 24 semester hours for baccalaureate degrees and 12 semester hours for associate degrees. Credits granted based on a combination of portfolio and challenge examinations may not exceed 30 hours for baccalaureate degrees and 18 hours for associate degrees. Life experience credits will be recorded as “pass” credits. For more information, please contact the OHC Registrar. There is a Portfolio Assessment Fee of $50 and a recording fee (per hour awarded) of $35.
 
 ## Registration
 
-Students are expected to register during the scheduled registration periods designated in the school calendar. Registration is complete only after they have finished all procedures and returned registration forms to the Business Office. Students may not register in absentia or for another student. All students are required to participate in the orientation activities.
+Students are expected to register during the scheduled registration periods designated in the school calendar. Registration is complete only after they have finished all registration procedures and made financial arrangements in the Business Office. Students may not register in absentia or for another student. All students are required to participate in the orientation activities.
 
 Late registration: Permission to register late must be obtained from the Academic Affairs Committee. Students failing to register during the scheduled registration periods will be charged a late registration fee of $50. The course load of a late registrant may be reduced according to the amount of class work missed. No student may register after two weeks of the semester have elapsed. Exceptions may be made for the intensive classes which have not begun prior to the late registration deadline.
 
