@@ -9,7 +9,7 @@
 	
 	Possess an equivalent diploma.
 
-	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 450 and no score below 410 on any of the five tests.
+	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 2050 and no score below 410 on any of the five tests.
 
 3. The applicant must have a secondary school grade point
 	average of a minimum of 2.5 on a 4.0 scale.
