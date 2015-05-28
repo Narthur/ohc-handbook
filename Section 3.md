@@ -71,6 +71,10 @@ No course with a grade below C- may count toward an emphasis or a minor.
 
 A student whose cumulative grade point average falls below 2.0 will be placed on academic probation. A student on academic probation will not be allowed to register late for the semester, but must be present at the registration time stated on the schedule (available online at www.ohc.org). While on probation the student will be allowed to enroll for no more than an additional 12 hours. When the student has completed the 12 hours and the cumulative grade point average is at 2.5 or above, academic probation will be removed. However, if the problem is not corrected within that period, dismissal procedures may be implemented. The Academic Affairs Committee may review individual cases to determine the action most appropriate to the student’s situation.
 
+## Plagiarism
+
+Students are expected to complete their own work and acknowledge the work of others when necessary with appropriate footnotes and/or direct textual references using quotation marks. Late work is highly preferred to plagiarism or cheating, which are serious academic offenses. Work that has been plagiarized will result in a zero for the assignment, a meeting with the instructor and/or other staff members, and a notation on the student's file.
+
 ## Repeating a Course
 
 All grade point averages for admission, academic standing, and graduation are calculated based on hours attempted, except that a student may repeat a course in which he or she has received a grade of D or F. In such cases, when calculating the grade point average, the hours and quality points earned on the second effort will be used.
@@ -138,7 +142,9 @@ Any course taken at another institution while a student is enrolled at OHC (by c
 
 In some instances, a student may want to audit a course. If space is available, the student may attend the class and listen to the lectures and discussions. No exams, quizzes, papers, or projects will be required of an auditing student except at the discretion of the teacher. No credit is given. No change from credit to audit may be made after the last day to withdraw from a course.
 
-Some courses may be audited only at the full tuition rate. Where a course has enrollment limits, students taking the course for credit will be given priority. Auditing students must understand the instructor is under no obligation to evaluate their work and/or performance. Audits may be recorded on transcripts. Proficiency exams may not be taken after a course is audited.
+Where a course has enrollment limits, students taking the course for credit will be given priority. Auditing students must understand the instructor is under no obligation to evaluate their work and/or performance. Audits may be recorded on transcripts. Proficiency exams may not be taken after a course is audited.
+
+Some courses, included all vocational classes, may only be audited at the full tuition rate.
 
 ## Study Load
 
