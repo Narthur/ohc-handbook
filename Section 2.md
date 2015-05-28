@@ -5,9 +5,11 @@
 
 2. The student must have completed one of the following:
 
-	a. Graduated from a secondary school. 
-	b.	Possess an equivalent diploma.
-	c.	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 450 and no score below 410 on any of the five tests.
+	Graduated from a secondary school. 
+	
+	Possess an equivalent diploma.
+
+	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 450 and no score below 410 on any of the five tests.
 
 3. The applicant must have a secondary school grade point
 	average of a minimum of 2.5 on a 4.0 scale.
@@ -17,15 +19,12 @@
 	minimum of 400 on each individual score on the
 	Scholastic Aptitude Test (SAT).
 
-5. Students from foreign countries must meet one of the
-	following:
+5. Students from foreign countries must meet one of the following:
 
-	a. Completion of grades 7-12 in English in an English-
+	Completion of grades 7-12 in English in an English-
 	speaking country.
-	b. Have a minimum of one of the following:
-		* TOEFL score of 550 (190 on a computer based		score or 79 on an internet based score).
-		* Michigan Test of English score of 80%.
-		* ACT English score of 17.
+
+	Have at least a TOEFL score of 550 (190 on a computer based		score or 79 on an internet based score), Michigan Test of English score of 80%, or ACT English score of 17.
 
 All students are expected to uphold the policies and standards of Ouachita Hills College as a Seventh-day Adventist institution. OHC reserves the right to deny admission based on its inability to meet the student’s educational needs and objectives.
 
