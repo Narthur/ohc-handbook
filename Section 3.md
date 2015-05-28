@@ -103,7 +103,7 @@ Although every effort is made to be accurate in listing course offerings, OHC re
 
 ## Academic Advising
 
-Academic advisors assist individual students and help them understand and meet academic requirements for a degree, but the students themselves are responsible for understanding and fulfilling the requirements. If requirements are not satisfied, the degree will be withheld pending adequate fulfillment. Thus, it is essential that students become familiar with all requirements and remain currently informed throughout their college career.
+Academic advisors assist students by helping them understand and meet academic requirements for a degree, but the students themselves are responsible for understanding and fulfilling the requirements. If requirements are not satisfied, the degree will be withheld pending adequate fulfillment. Thus, it is essential that students become familiar with all requirements and remain currently informed throughout their college career.
 
 ## Withdrawal from a Course
 
