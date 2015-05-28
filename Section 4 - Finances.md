@@ -49,7 +49,7 @@ If the student is found to be eligible for the Bible-Work Scholarship Program, t
 
 ## Other Matching Scholarships
 
-For other evangelism ministries (such as Messiah’s Mansion) OHC will match 25% of approved program earnings up to a maximum of $500. This will be applied to the student’s account if the following requirements are met:
+For other evangelism ministries (such as Messiah’s Mansion) OHC will match 25% of approved program earnings up to a maximum of $500 per semester. This will be applied to the student’s account if the following requirements are met:
 
 * All earnings from the ministry are paid directly to OHC 
 * The student takes part in the OHC canvassing programs during the school year
