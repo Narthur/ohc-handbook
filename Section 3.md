@@ -49,23 +49,12 @@ Late registration: Permission to register late must be obtained from the Academi
 
 OHC uses the semester system. Grade points are awarded for each class that has been passed. Grade points for a given class are the product of the grade, on a four-point scale as noted below, and the semester hours earned in the class. The key below will help interpret grade reports and evaluate grade-point average (GPA).
 
-|A    |4.00
-|A-   |3.67
-|B+   |3.33
-|B    |3.00
-|B-   |2.67
-|C+   |2.33
-|C    |2.00
-|C-   |1.67
-|D+   |1.33
-|D    |1.00
-|D-   |0.67
-|F    |0.00
-|I    |Incomplete
-|W    |Withdrawal
-|NC   |Non-credit
-|P    |Pass
-|AU   |Audit
+|A    |4.00 |C    |2.00 |I    |Incomplete
+|A-   |3.67 |C-   |1.67 |W    |Withdrawal
+|B+   |3.33 |D+   |1.33 |NC   |Non-credit
+|B    |3.00 |D    |1.00 |P    |Pass
+|B-   |2.67 |D-   |0.67 |AU   |Audit
+|C+   |2.33 |F    |0.00
 
 ## Grade Requirements
 
