@@ -9,7 +9,7 @@
 	
 	Possess an equivalent diploma.
 
-	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 450 and no score below 410 on any of the five tests.
+	Successfully completed the U.S. General Education Development (GED) exam with a minimum total of 2050 and no score below 410 on any of the five tests.
 
 3. The applicant must have a secondary school grade point
 	average of a minimum of 2.5 on a 4.0 scale.
@@ -42,7 +42,7 @@ Homeschooled students need to meet all General Admissions Requirements.
 
 ## Admission of Transfer Students
 
-Students transferring from other recognized colleges or universities must have a miminum cumulative grade point average of 2.0. Students transferring to OHC with fewer than 24 semester credits (or 36 quarter credits) will be considered for admission on the basis of a combination of scores from their secondary school records and previous college work.
+Students transferring from other recognized colleges or universities must have a miminum cumulative grade point average of 2.5 in major subjects. Students transferring to OHC with fewer than 24 semester credits (or 36 quarter credits) will be considered for admission on the basis of a combination of scores from their secondary school records and previous college work.
 
 ## Admission Status Clarification
 
@@ -51,7 +51,7 @@ Provisional Status is a temporary admission that may be assigned by the Admissio
 * A student’s provisional status remains in effect until all official papers are received by OHC or until the conditional time period is concluded.
 * Acceptance will be withdrawn at the end of the conditional time period if admission requirements remain unmet.
 * An unconditional acceptance will be granted when all admission requirements are met (official papers are received).
-* Ouachita Hills College will not issue transcripts or grade reports to a student who is on conditional acceptance status, even if the student’s account is paid in full. Ouachita Hills College will not issue a transcript for any student (current or past) who is missing official transcripts.
+* Ouachita Hills College will not issue transcripts or grade reports to a student who has outstanding debt, is on conditional acceptance status, or is missing official transcripts from former schools.
 
 Academic Probation Status is an admission status that may be assigned by the Admissions Committee to a student who has a below minimum GPA or ACT/SAT score. A student on Academic Probation Status may only take up to 12 hours until he has a current GPA of at least 2.0. Academic Probation Status will automatically be removed when a student has maintained a GPA of at least 2.5 for one semester.
 
@@ -59,13 +59,13 @@ Academic Probation Status is an admission status that may be assigned by the Adm
 
 The Admissions Committee considers an applicant as soon as his application file is complete. A complete application will include the following:
 
-* A completed application form (may be completed and submitted on-line: www.ohc.org)
-* Three references – submitted directly by teacher, pastor, and employer (may be completed and submitted on-line: www.ohc.org)
-* Official secondary school transcript or GED (Note: this is waived if the student has earned an associate or higher degree from a recognized college or university).
-* Official transcripts from each college or university attended. Official transcripts are those issued and sealed by the school, college, or university and received by OHC in a sealed envelope. If the seal of the envelope is broken before reaching the admissions office, it is not considered to be an official transcript. Notarized or certified true-copy-of-original certificates or educational documents issued by a non-U.S. institution may be accepted. If the document is in a language other than English, a certified translation into English must be provided.
-* SAT or ACT scores.
+1. A completed application form (may be completed and submitted on-line: www.ohc.org)
+2. Three references submitted directly by teacher, pastor, and employer. References must be sent directly from your references in order to keep their responses confidential. Online reference forms are available at ohc.org.
+3. Official secondary school transcript or GED (Note: this is waived if the student has earned an associate or higher degree from a recognized college or university).
+4. Official transcripts from each college or university attended. Official transcripts are those issued and sealed by the school, college, or university and received by OHC in a sealed envelope. If the seal of the envelope is broken before reaching the admissions office, it is not considered to be an official transcript. Notarized or certified true-copy-of-original certificates or educational documents issued by a non-U.S. institution may be accepted. If the document is in a language other than English, a certified translation into English must be provided.
+5. SAT or ACT scores.
 •	English Test scores (TOEFL or Michigan Test of English or ACT) and a summary of the student’s educational background if the student is from a non-English speaking country.
-* Mail all application materials with a $25 check application fee (application fee is waived if application is submitted online) to the address on the front cover. All materials submitted become the property of OHC and cannot be returned or forwarded to another institution.
+6. Submit all application materials online at ohc.org. Applications submitted by mail must include a $25 mail application fee. All materials submitted become the property of OHC and cannot be returned or forwarded to another institution.
 
 ## Returning Students
 
