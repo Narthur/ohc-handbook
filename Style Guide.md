@@ -1,5 +1,9 @@
 # Style Guide
 
+## First Rule of Style
+
+Always be consistent.
+
 ## Lists
 
 Limit lists to one level of depth.
