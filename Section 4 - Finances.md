@@ -1,4 +1,4 @@
-# Financial Information
+# Finances
 ## Introduction
 
 Ouachita Hills College is a nonprofit institution sponsored and operated by Ouachita Ministries, Inc. OHC supports its operations strictly through tuition income, industries, and contributions. OHC does not participate in any state or federal educational assistance programs or veteran’s-assistance programs. No government loans are accepted.

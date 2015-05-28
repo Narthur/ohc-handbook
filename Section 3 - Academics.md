@@ -1,4 +1,4 @@
-# Academic Information
+# Academics
 ## Introduction
 
 > “True education means more than taking a certain course of study. It is broad. It includes the harmonious development of all the physical powers and the mental faculties. It teaches the love and fear of God, and is a preparation for the faithful discharge of all of life’s duties” (*Education*, 13).

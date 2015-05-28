@@ -1,4 +1,4 @@
-# Admissions Information
+# Admissions
 ## General Admissions Requirements
 
 1. The applicant must have a desire to be a committed disciple of Jesus Christ.
