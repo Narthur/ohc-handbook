@@ -2,12 +2,14 @@
 
 The handbook for Ouachita Hills College in Amity, Arkansas.
 
-## Without Push Access
+[Markdown Syntax Documentation](http://daringfireball.net/projects/markdown/syntax)
+
+## Change Without Push Access
 
 * [Report an issue](https://github.com/Narthur/ohc-handbook/issues) ([guide](https://guides.github.com/features/issues/))
 * Fork the repo, make changes, and then submit a pull request ([guide](https://guides.github.com/activities/forking/))
 
-## With Push Access
+## Change With Push Access
 
 * Edit a file online
 * Clone the repo and edit locally, then push changes back
