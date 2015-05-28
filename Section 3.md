@@ -15,15 +15,6 @@ The Admissions Committee may require students to take Foundations of English and
 
 Credits toward a degree may be granted for satisfactory work completed at accredited, degree-granting institutions. The Registrar of OHC must approve all credits. An official transcript must be submitted for transfer of credits. Only courses in which a student has received a grade of C or better are accepted. A maximum of 70 semester hours can be accepted from the community college level for students pursuing a Bachelor’s degree.
 
-## Academic Appeals Procedure
-
-Students who feel they have been treated unfairly in regard to their academic programs are entitled to an appeal for an impartial review and reconsideration of their cases. Procedures to be followed are:
-
-* Students should first go to their teacher to determine the basis of the grade.
-* Submit to your instructor a precise, detailed letter of appeal. In your letter you should make reference to the course grading criteria. (Note: Grades higher than a “C” may not be disputed; unless it is demonstrated to have a significant effect on the final class grade.)
-* Students who wish to make further appeal concerning a grade are responsible for demonstrating that the given grade does not reflect academic merit, or is a result of computational or clerical error.
-* If a satisfactory decision has not been reached, the case may be presented to the OHC Academic Affairs Committee. Students will be invited to present their cases in writing. The decision of the committee is final.
-
 ## Challenge Exams
 
 With the approval of the OHC Academic Affairs Committee, students may be allowed to take challenge exams for certain courses. Up to 6 hours of credit may be granted for exams. This is in addition to hours granted for challenging classes in the practical arts. Challenge exams may be taken under any of the following conditions:
@@ -47,6 +38,10 @@ Students are expected to register during the scheduled registration periods desi
 
 Late registration: Permission to register late must be obtained from the Academic Affairs Committee. Students failing to register during the scheduled registration periods will be charged a late registration fee of $50. The course load of a late registrant may be reduced according to the amount of class work missed. No student may register after two weeks of the semester have elapsed. Exceptions may be made for the intensive classes which have not begun prior to the late registration deadline.
 
+## Grade Reports
+
+Grade reports are given to students at the end of each semester. Students should check their grade reports carefully. If a student believes any part of the report is incorrect, he or she has three months to appeal. Appeals should be made first to the instructor, and then, as necessary, to the Academic Affairs Committee. Only the end-of-semester grades are recorded on the permanent grade transcript. Semester grade reports will only be released to students who have regular admission status.
+
 ## Grading System
 
 OHC uses the semester system. Grade points are awarded for each class that has been passed. Grade points for a given class are the product of the grade, on a four-point scale as noted below, and the semester hours earned in the class. The key below will help interpret grade reports and evaluate grade-point average (GPA).
@@ -57,6 +52,10 @@ OHC uses the semester system. Grade points are awarded for each class that has b
 |B    |3.00 |D    |1.00 |P    |Pass
 |B-   |2.67 |D-   |0.67 |AU   |Audit
 |C+   |2.33 |F    |0.00
+
+## Incomplete Grades
+
+An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an F if the class work is not finished in the prescribed time.
 
 ## Grade Requirements
 
@@ -81,6 +80,15 @@ A course in which a student has earned a C may be repeated only with permission 
 ## Grade Change
 
 A grade may be changed by the teacher during a 6-month period from the date the grade was issued. Grades are changed only to correct an error made in determining or recording the grade. If a student is not satisfied with the grade he received for a class, the student has 90 days to contest the grade. After that time the grade will be final.
+
+## Academic Appeals Procedure
+
+Students who feel they have been treated unfairly in regard to their academic programs are entitled to an appeal for an impartial review and reconsideration of their cases. Procedures to be followed are:
+
+* Students should first go to their teacher to determine the basis of the grade.
+* Submit to your instructor a precise, detailed letter of appeal. In your letter you should make reference to the course grading criteria. (Note: Grades higher than a “C” may not be disputed; unless it is demonstrated to have a significant effect on the final class grade.)
+* Students who wish to make further appeal concerning a grade are responsible for demonstrating that the given grade does not reflect academic merit, or is a result of computational or clerical error.
+* If a satisfactory decision has not been reached, the case may be presented to the OHC Academic Affairs Committee. Students will be invited to present their cases in writing. The decision of the committee is final.
 
 ## Honesty
 
@@ -121,14 +129,6 @@ There are two withdrawal deadlines on the academic calendar:
 When a student drops a class before the first deadline stated on the academic calendar, the class is removed from the student’s record. A grade of “W” is issued when a student drops the class after the first deadline specified on the academic calendar. The grade for any withdrawal after the final deadline is an “F.”
 
 Due to scheduling challenges OHC is unable to offer every course, every year. Therefore students should be aware that dropping a course could add significant length to their degree program.
-
-## Grade Reports
-
-Grade reports are given to students at the end of each semester. Students should check their grade reports carefully. If a student believes any part of the report is incorrect, he or she has three months to appeal. Appeals should be made first to the instructor, and then, as necessary, to the Academic Affairs Committee. Only the end-of-semester grades are recorded on the permanent grade transcript. Semester grade reports will only be released to students who have regular admission status.
-
-## Incomplete Grades
-
-An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an F if the class work is not finished in the prescribed time.
 
 ## Concurrent Enrollment
 
