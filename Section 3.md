@@ -105,6 +105,8 @@ Although every effort is made to be accurate in listing course offerings, OHC re
 
 Academic advisors assist students by helping them understand and meet academic requirements for a degree, but the students themselves are responsible for understanding and fulfilling the requirements. If requirements are not satisfied, the degree will be withheld pending adequate fulfillment. Thus, it is essential that students become familiar with all requirements and remain currently informed throughout their college career.
 
+Students are required to meet with their academic advisors during registration. Returning students must meet with their academic advisors prior to preregistering.
+
 ## Withdrawal from a Course
 
 To make program changes, students must obtain the appropriate change of registration form in the library, obtain the necessary signatures indicating approval of the change (advisor, teacher, and registrar), and return the form to the Registrar’s Office.
