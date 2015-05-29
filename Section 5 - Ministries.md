@@ -8,25 +8,27 @@ Many students have the opportunity to work with neighboring churches by preachin
 
 The students take an active role in evangelism pre-work throughout the country while canvassing, and nearby in door-to-door work and giving of Bible studies.
 
-## Why Is Canvassing Emphasized at OHC?
+## Why Canvassing?
 
-The program at OHC prepares students to serve the Lord at home or abroad. Every gospel worker will benefit from the experience of selling Christian literature door-to-door. “Those who give evidence that they are truly converted, and who take up the canvassing work, will see that it is the best preparation for other lines of missionary labor” Testimonies, vol. 6, 330.
+The program at OHC prepares students to serve the Lord at home or abroad. Every gospel worker will benefit from the experience of selling Christian literature door-to-door. “Those who give evidence that they are truly converted, and who take up the canvassing work, will see that it is the best preparation for other lines of missionary labor” (*Testimonies,* vol. 6, 330).
 
-Evangelistic canvassing is especially valuable to those who are preparing to enter the Lord’s work as pastors and evangelists. “Those who are fitting for the ministry can engage in no other work which will give them so large an experience as will the canvassing work. All who want an opportunity for true ministry, and who will give themselves unreservedly to the Lord, will find in the canvassing work opportunities to speak upon many things that pertain to the future immortal life” Review and Herald, November 7, 1899.
+Evangelistic canvassing is especially valuable to those who are preparing to enter the Lord’s work as pastors and evangelists. 
 
-For these reasons, canvassing is not just an extracurricular activity. All students are required to spend ten weeks total in a canvassing program, either during one summer or one academic school year, prior to graduation. Those choosing a deeper level of involvement may find that they can graduate nearly debt-free.
+> “Those who are fitting for the ministry can engage in no other work which will give them so large an experience as will the canvassing work. All who want an opportunity for true ministry, and who will give themselves unreservedly to the Lord, will find in the canvassing work opportunities to speak upon many things that pertain to the future immortal life” (*Review and Herald,* November 7, 1899).
+
+For these reasons, canvassing is not just an extracurricular activity. All students are required to spend at least ten weeks total in a canvassing program, either during one summer or one academic school year, prior to graduation. Those choosing a deeper level of involvement may find that they can graduate nearly debt-free.
 
 ## Medical Missionary Training
 
-We believe Christ has called His disciples to completely restore the image of God in man—soul, body and spirit (1 Thessalonians 5:23). For this reason, “every gospel worker should feel that to teach the principles of healthful living is a part of his appointed work” Evangelism, 526.
+OHC believes Christ has called His disciples to completely restore the image of God in man—soul, body and spirit (1 Thessalonians 5:23). For this reason, “every gospel worker should feel that to teach the principles of healthful living is a part of his appointed work” (*Evangelism,* 526).
 
-Because medical missionary work is the “right, helping hand of the gospel, to open doors for the proclamation of the message” (Evangelism, 526), it is our goal to enable students to incorporate health evangelism into their ministry.
+Because medical missionary work is the “right, helping hand of the gospel, to open doors for the proclamation of the message” (*Evangelism,* 526), OHC seeks to enable students to incorporate health evangelism into their ministry.
 
-While we do not offer a degree in health education at this time, health courses are offered. Further training is provided through active outreach in the community by conducting various health evangelism programs (Cooking Schools, Stress Seminars, Natural Healing Seminars).
+While OHC does not offer a degree in health education, health courses are available. Further training is provided through active community outreach in the form of cooking schools, stress management workshops, natural healing seminars, and other health evangelism programs.
 
-## Mission Trip Participation
+## Mission Trips
 
-OHC provides an opportunity each year during the winter break for students to participate in a mission trip. Because we believe this is an important opportunity, students participating in the Canvassing or Bible Work Scholarship Programs would be exempt from the Winter L.E./Bible Work Program once during their college education without having to meet the required $5,000 to register for the spring semester. This exemption would be allowed after the student has been in attendance for at least one full year.
+During each winter break OHC students have the opportunity to participate in a mission trip. Because of this opportunity's importance, students participating in the Canvassing or Bible Work Scholarship Programs are exempt from the Winter L.E./Bible Work Program once during their college education without having to meet the required $5,000 to register for the spring semester. This exemption becomes available after the student has been in attendance for at least one full year.
 
 ## Community Service Day
 
@@ -38,9 +40,9 @@ Students are assigned to the various churches based on talents, church needs, sk
 
 ## Prison Ministries
 
-The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern have started visiting the prisoners there every Sabbath and love for the OHC students to be a part of this special ministry. 
+The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern have started visiting the prisoners there every Sabbath and invite OHC students to be a part of this special ministry. 
 
-To participate in the prison ministry team, the student must:
+To participate in the prison ministry team, a student must:
 
 * be at least 18 years of age
 * have a valid form of identification (driver’s license, passport, etc.)
