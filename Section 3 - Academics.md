@@ -79,7 +79,7 @@ Students are expected to complete their own work and acknowledge the work of oth
 
 All grade point averages for admission, academic standing, and graduation are calculated based on hours attempted, except that a student may repeat a course in which he or she has received a grade of D or F. In such cases, when calculating the grade point average, the hours and quality points earned on the second effort will be used.
 
-A course in which a student has earned a C may be repeated only with permission of that department chair and the Academic Affairs Committee. Students who have earned a grade of D in a core, cognate, or area of emphasis class, must repeat the class. Or they may take another course in the same area with the consent of the major advisor. If a student takes a course and then repeats it, only the last grade earned will be used in calculating the GPA. Except as specified in certain course descriptions, students may not receive credit for a course more than once.
+A course in which a student has earned a C may be repeated only with permission of that department chair and the Academic Affairs Committee. A student who has earned a grade of C- in a core, cognate, or area of emphasis class must repeat the class. Or they may take another course in the same area with the consent of the major advisor. If a student takes a course and then repeats it, only the last grade earned will be used in calculating the GPA. Except as specified in certain course descriptions, students may not receive credit for a course more than once.
 
 ## Grade Change
 
