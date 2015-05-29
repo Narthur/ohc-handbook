@@ -17,7 +17,7 @@ Credits toward a degree may be granted for satisfactory work completed at accred
 
 ## Challenge Exams
 
-With the approval of the OHC Academic Affairs Committee, students may be allowed to take challenge exams for certain courses. Up to 6 hours of credit may be granted for exams. This is in addition to hours granted for challenging classes in the practical arts. Challenge exams may be taken under any of the following conditions:
+With the approval of the OHC Academic Affairs Committee, students may be allowed to take challenge exams for certain general education requirements. Up to 6 hours of credit may be granted for exams. This is in addition to hours granted for challenging classes in the practical arts. Challenge exams may be taken under any of the following conditions:
 
 * The student has already taken the course or similar courses at another institution. 
 * The student maintains at least a 3.75 GPA.
@@ -79,7 +79,7 @@ Students are expected to complete their own work and acknowledge the work of oth
 
 All grade point averages for admission, academic standing, and graduation are calculated based on hours attempted, except that a student may repeat a course in which he or she has received a grade of D or F. In such cases, when calculating the grade point average, the hours and quality points earned on the second effort will be used.
 
-A course in which a student has earned a C may be repeated only with permission of that department chair and the Academic Affairs Committee. Students who have earned a grade of D in a core, cognate, or area of emphasis class, must repeat the class. Or they may take another course in the same area with the consent of the major advisor. If a student takes a course and then repeats it, only the last grade earned will be used in calculating the GPA. Except as specified in certain course descriptions, students may not receive credit for a course more than once.
+A course in which a student has earned a C may be repeated only with permission of that department chair and the Academic Affairs Committee. A student who has earned a grade of C- in a core, cognate, or area of emphasis class must repeat the class. Or they may take another course in the same area with the consent of the major advisor. If a student takes a course and then repeats it, only the last grade earned will be used in calculating the GPA. Except as specified in certain course descriptions, students may not receive credit for a course more than once.
 
 ## Grade Change
 
