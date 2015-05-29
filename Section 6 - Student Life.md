@@ -105,7 +105,7 @@ We meet together, as a college body, to welcome the Sabbath. The timing and loca
 
 ## Residence Hall Policies
 
-Men are not to be in the ladies’ living quarters or women in the men’s living quarters at any time unless a staff-sponsored activity is scheduled there. 
+Men are not to be in the ladies’ living quarters or women in the men’s living quarters at any time except as part of a staff-sponsored, dean-approved activity.
 
 Student rooms are to be kept in a neat and orderly fashion. Residence-hall deans and assistants will periodically check the order of rooms, especially in preparation for the Sabbath. 
 
@@ -321,3 +321,7 @@ Because we want to encourage you to build a library of Spirit of Prophecy books,
 ## Library Policies
 
 All books checked out from the Ouachita Hills library must be returned within three (3) weeks. Fees will be charged for late and/or damaged books.
+
+## Office Policies
+
+Office areas are to be used exclusively for work and related activities.
