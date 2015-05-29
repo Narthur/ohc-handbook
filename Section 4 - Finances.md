@@ -9,11 +9,11 @@ Students are billed for room and board on a per-semester basis. Absences from th
 
 Per Semester Charge:
 
-|Room Charge                            |$738
-|Boarding Charge                        |$1,400
-|Tuition (12-17 hrs)                    |$3,366
-|Less than 12 hrs or greater than 17 hrs|$280.50 per credit hour
-|Correspondence Course                  |$155 per credit hour
+|Room Charge          |$738
+|Boarding Charge      |$1,400
+|Tuition (12-17 hrs)  |$3,366
+|< 12 hrs or > 17 hrs |$280.50 / credit hr
+|Correspondence Course|$155 / credit hr
 
 Contact the Student Finance Office for other fees and rates.
 
