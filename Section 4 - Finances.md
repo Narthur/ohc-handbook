@@ -83,4 +83,4 @@ Tuition refunds are subject to the following schedule:
 
 ## Transcript Requests
 
-Students requesting a transcript should send a written request (via email to registrar@ohc.org, or mail to Registrar, PO Box 170, Amity, AR 71921). All subsequent transcripts will be $5.
+Students requesting a transcript should send a written request (via email to registrar@ohc.org, or mail to Registrar, PO Box 170, Amity, AR 71921). First transcript will cost $5.00; all subsequent transcripts are free. Transcripts are not available to students with unpaid accounts.
