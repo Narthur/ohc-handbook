@@ -47,6 +47,10 @@ In order to be eligible for the Bible-Work Scholarship Program, the following re
 
 If the student is found to be eligible for the Bible-Work Scholarship Program, their earnings will be matched dollar for dollar up to $1,000 per semester. The student will receive money for food, tithe, and offerings from the scholarship funds paid to OHC.
 
+## Recruitment Scholarship Program
+
+OHC will credit a student's account $500 for every additional student recruited who completes two semesters.
+
 ## Other Matching Scholarships
 
 For other evangelism ministries (such as Messiah’s Mansion) OHC will match 25% of approved program earnings up to a maximum of $500 per semester. This will be applied to the student’s account if the following requirements are met:
@@ -68,7 +72,14 @@ Fees may be paid by using cash, check, or credit card. Credit card transactions 
 
 ## Tuition Refund
 
-Tuition refunds are subject to various factors. For specific information concerning a tuition refund, please see personnel in the Student Finance Office.
+Tuition refunds are subject to the following schedule:
+
+|Class Days |Tuition
+|-----------|-----------
+|1-15       |Full refund
+|16-27      |70% refund
+|28-38      |40% refund
+|39+        |No refund
 
 ## Transcript Requests
 
