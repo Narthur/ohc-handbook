@@ -292,7 +292,7 @@ Violations will be dealt with by the Administrative Committee and may result in 
 ## Special Events
 ### College Retreat
 
-At the beginning of each semester college students and staff get together for a spiritual retreat. It is a time to fellowship, network and get to know one another as we begin a new year/semester.
+At the beginning of each semester college students and staff come together for a spiritual retreat. It is a time to fellowship, network and get to know one another as we begin a new semester.
 
 ### Faculty Home Vespers
 
