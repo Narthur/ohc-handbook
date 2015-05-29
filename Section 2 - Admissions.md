@@ -24,11 +24,15 @@
 	Completion of grades 7-12 in English in an English-
 	speaking country.
 
-	Have a TOEFL score of 550 (190 on a computer based score or 79 on an internet based score).
+	Have a TOEFL score of 520 (190 on a computer based score or 68 on an internet based score).
 
-	Have a Michigan Test of English score of 80%.
+	Have a Michigan Test score of 80.
 
-	Have an ACT English score of 17.
+	Have an ACT English score of 18. 
+	
+	Have an SAT critical reading score of 430.
+	
+Foundations in English will be required for all students who have not met these same ACT/SAT requirements, or who have demonstrated the need for the class.	
 
 All students are expected to uphold the policies and standards of Ouachita Hills College as a Seventh-day Adventist institution. OHC reserves the right to deny admission based on its inability to meet the student’s educational needs and objectives.
 
@@ -64,8 +68,8 @@ The Admissions Committee considers an applicant as soon as his application file 
 3. Official secondary school transcript or GED (Note: this is waived if the student has earned an associate or higher degree from a recognized college or university).
 4. Official transcripts from each college or university attended. Official transcripts are those issued and sealed by the school, college, or university and received by OHC in a sealed envelope. If the seal of the envelope is broken before reaching the admissions office, it is not considered to be an official transcript. Notarized or certified true-copy-of-original certificates or educational documents issued by a non-U.S. institution may be accepted. If the document is in a language other than English, a certified translation into English must be provided.
 5. SAT or ACT scores.
-•	English Test scores (TOEFL or Michigan Test of English or ACT) and a summary of the student’s educational background if the student is from a non-English speaking country.
-6. Submit all application materials online at ohc.org. Applications submitted by mail must include a $25 mail application fee. All materials submitted become the property of OHC and cannot be returned or forwarded to another institution.
+6. English Test scores (TOEFL or Michigan Test of English, ACT or SAT) and a summary of the student’s educational background if the student is from a non-English speaking country.
+7. Submit all application materials online at ohc.org. Applications submitted by mail must include a $25 mail application fee. All materials submitted become the property of OHC and cannot be returned or forwarded to another institution.
 
 ## Returning Students
 
