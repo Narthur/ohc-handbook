@@ -26,9 +26,9 @@ Because medical missionary work is the “right, helping hand of the gospel, to 
 
 While OHC does not offer a degree in health education, health courses are available. Further training is provided through active community outreach in the form of cooking schools, stress management workshops, natural healing seminars, and other health evangelism programs.
 
-## Mission Trip Participation
+## Mission Trips
 
-OHC provides an opportunity each year during the winter break for students to participate in a mission trip. Because we believe this is an important opportunity, students participating in the Canvassing or Bible Work Scholarship Programs would be exempt from the Winter L.E./Bible Work Program once during their college education without having to meet the required $5,000 to register for the spring semester. This exemption would be allowed after the student has been in attendance for at least one full year.
+During each winter break OHC students have the opportunity to participate in a mission trip. Because of this opportunity's importance, students participating in the Canvassing or Bible Work Scholarship Programs are exempt from the Winter L.E./Bible Work Program once during their college education without having to meet the required $5,000 to register for the spring semester. This exemption becomes available after the student has been in attendance for at least one full year.
 
 ## Community Service Day
 
