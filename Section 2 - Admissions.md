@@ -24,11 +24,15 @@
 	Completion of grades 7-12 in English in an English-
 	speaking country.
 
-	Have a TOEFL score of 550 (190 on a computer based score or 79 on an internet based score).
+	Have a TOEFL score of 520 (190 on a computer based score or 68 on an internet based score).
 
-	Have a Michigan Test of English score of 80%.
+	Have a Michigan Test score of 80.
 
-	Have an ACT English score of 17.
+	Have an ACT English score of 18. 
+	
+	Have an SAT critical reading score of 430.
+	
+Foundations in English will be required for all students who have not met these same ACT/SAT requirements, or who have demonstrated the need for the class.	
 
 All students are expected to uphold the policies and standards of Ouachita Hills College as a Seventh-day Adventist institution. OHC reserves the right to deny admission based on its inability to meet the student’s educational needs and objectives.
 
