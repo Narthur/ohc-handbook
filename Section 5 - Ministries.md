@@ -36,7 +36,7 @@ Each semester, the faculty and students of OHC have the opportunity to serve the
 
 ## Churches
 
-Students are assigned to the various churches based on talents, church needs, skills, and other factors. The students have opportunities to minister to the churches and their home communities through active involvement in the services and outreach plans of each church. 
+Students are assigned to local churches based on talents, church needs, skills, and other factors. The students have opportunities to minister to the churches and their home communities through active involvement in the services and outreach plans of each church. 
 
 ## Prison Ministries
 
