@@ -20,11 +20,11 @@ For these reasons, canvassing is not just an extracurricular activity. All stude
 
 ## Medical Missionary Training
 
-We believe Christ has called His disciples to completely restore the image of God in man—soul, body and spirit (1 Thessalonians 5:23). For this reason, “every gospel worker should feel that to teach the principles of healthful living is a part of his appointed work” Evangelism, 526.
+OHC believes Christ has called His disciples to completely restore the image of God in man—soul, body and spirit (1 Thessalonians 5:23). For this reason, “every gospel worker should feel that to teach the principles of healthful living is a part of his appointed work” (*Evangelism,* 526).
 
-Because medical missionary work is the “right, helping hand of the gospel, to open doors for the proclamation of the message” (Evangelism, 526), it is our goal to enable students to incorporate health evangelism into their ministry.
+Because medical missionary work is the “right, helping hand of the gospel, to open doors for the proclamation of the message” (*Evangelism,* 526), OHC seeks to enable students to incorporate health evangelism into their ministry.
 
-While we do not offer a degree in health education at this time, health courses are offered. Further training is provided through active outreach in the community by conducting various health evangelism programs (Cooking Schools, Stress Seminars, Natural Healing Seminars).
+While OHC does not offer a degree in health education, health courses are available. Further training is provided through active community outreach in the form of cooking schools, stress management workshops, natural healing seminars, and other health evangelism programs.
 
 ## Mission Trip Participation
 
