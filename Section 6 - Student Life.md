@@ -1,9 +1,9 @@
 # Student Life
 ## Introduction
 
-Ouachita Hills College, as a Seventh-day Adventist institution of higher learning, desires to maintain high Christian standards of integrity, courtesy, dedication, and accomplishment. In order to achieve this ideal, the spiritual devotion as well as the lifestyle and academic achievements of each student should be consistent with Scriptural principles. All that is to be done should be done “heartily as to the Lord, and not unto men, knowing that of the Lord, ye shall receive the reward of the inheritance, for ye serve the Lord Christ” Colossians 3:23–24.
+Ouachita Hills College, as a Seventh-day Adventist institution of higher learning, desires to maintain high Christian standards of integrity, courtesy, dedication, and accomplishment. In order to achieve this ideal, the spiritual devotion as well as the lifestyle and academic achievements of each student should be consistent with Scriptural principles. All should be done “heartily as to the Lord, and not unto men, knowing that of the Lord, ye shall receive the reward of the inheritance, for ye serve the Lord Christ” (Colossians 3:23–24).
 
-OHC has established guidelines and principles to promote harmony and order. We believe these principles reflect the love and holiness of the God we serve.
+OHC has established guidelines and principles to promote harmony and order. OHC believes these principles reflect the love and holiness of the God we serve.
 
 ## Guidelines on Dress
 
