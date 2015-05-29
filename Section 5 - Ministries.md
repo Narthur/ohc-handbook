@@ -8,13 +8,15 @@ Many students have the opportunity to work with neighboring churches by preachin
 
 The students take an active role in evangelism pre-work throughout the country while canvassing, and nearby in door-to-door work and giving of Bible studies.
 
-## Why Is Canvassing Emphasized at OHC?
+## Why Canvassing?
 
-The program at OHC prepares students to serve the Lord at home or abroad. Every gospel worker will benefit from the experience of selling Christian literature door-to-door. “Those who give evidence that they are truly converted, and who take up the canvassing work, will see that it is the best preparation for other lines of missionary labor” Testimonies, vol. 6, 330.
+The program at OHC prepares students to serve the Lord at home or abroad. Every gospel worker will benefit from the experience of selling Christian literature door-to-door. “Those who give evidence that they are truly converted, and who take up the canvassing work, will see that it is the best preparation for other lines of missionary labor” (*Testimonies,* vol. 6, 330).
 
-Evangelistic canvassing is especially valuable to those who are preparing to enter the Lord’s work as pastors and evangelists. “Those who are fitting for the ministry can engage in no other work which will give them so large an experience as will the canvassing work. All who want an opportunity for true ministry, and who will give themselves unreservedly to the Lord, will find in the canvassing work opportunities to speak upon many things that pertain to the future immortal life” Review and Herald, November 7, 1899.
+Evangelistic canvassing is especially valuable to those who are preparing to enter the Lord’s work as pastors and evangelists. 
 
-For these reasons, canvassing is not just an extracurricular activity. All students are required to spend ten weeks total in a canvassing program, either during one summer or one academic school year, prior to graduation. Those choosing a deeper level of involvement may find that they can graduate nearly debt-free.
+> “Those who are fitting for the ministry can engage in no other work which will give them so large an experience as will the canvassing work. All who want an opportunity for true ministry, and who will give themselves unreservedly to the Lord, will find in the canvassing work opportunities to speak upon many things that pertain to the future immortal life” (*Review and Herald,* November 7, 1899).
+
+For these reasons, canvassing is not just an extracurricular activity. All students are required to spend at least ten weeks total in a canvassing program, either during one summer or one academic school year, prior to graduation. Those choosing a deeper level of involvement may find that they can graduate nearly debt-free.
 
 ## Medical Missionary Training
 
