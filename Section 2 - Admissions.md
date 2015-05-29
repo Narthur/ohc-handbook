@@ -68,7 +68,7 @@ The Admissions Committee considers an applicant as soon as his application file 
 3. Official secondary school transcript or GED (Note: this is waived if the student has earned an associate or higher degree from a recognized college or university).
 4. Official transcripts from each college or university attended. Official transcripts are those issued and sealed by the school, college, or university and received by OHC in a sealed envelope. If the seal of the envelope is broken before reaching the admissions office, it is not considered to be an official transcript. Notarized or certified true-copy-of-original certificates or educational documents issued by a non-U.S. institution may be accepted. If the document is in a language other than English, a certified translation into English must be provided.
 5. SAT or ACT scores.
-•	English Test scores (TOEFL or Michigan Test of English or ACT) and a summary of the student’s educational background if the student is from a non-English speaking country.
+6. English Test scores (TOEFL or Michigan Test of English, ACT or SAT) and a summary of the student’s educational background if the student is from a non-English speaking country.
 6. Submit all application materials online at ohc.org. Applications submitted by mail must include a $25 mail application fee. All materials submitted become the property of OHC and cannot be returned or forwarded to another institution.
 
 ## Returning Students
