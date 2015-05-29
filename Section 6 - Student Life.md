@@ -5,22 +5,37 @@ Ouachita Hills College, as a Seventh-day Adventist institution of higher learnin
 
 OHC has established guidelines and principles to promote harmony and order. OHC believes these principles reflect the love and holiness of the God we serve.
 
-## Guidelines on Dress
+## Dress
 
-“No education can be complete that does not teach right principles in regard to dress. Without such teaching, the work of education is too often retarded or perverted” Education, 246.
+> “No education can be complete that does not teach right principles in regard to dress. Without such teaching, the work of education is too often retarded or perverted” (*Education,* 246).
 
-The aim of dress standards at OHC is based upon the principle that what we wear influences the heart as well as reflects what is in it. We desire that each student and staff member dress in such a way as to reflect the righteousness of Christ. Clothing should therefore be neat, clean, modest, and appropriate on or off campus. For “a person’s character is judged by his style of dress. In dress, as in all things, it is our privilege to honor our Creator” Education, 248. 
+OHC's dress standards are based on the principle that what a person wears influences as well as reflects his heart. OHC desires that each student and staff member dress in such a way as to reflect the righteousness of Christ. Clothing should therefore be neat, clean, modest, and appropriate on or off campus. For “a person’s character is judged by his style of dress. In dress, as in all things, it is our privilege to honor our Creator” (*Education,* 248). 
 
-Church Attire: Men should wear dress or khaki type slacks, lapel-collared shirts and ties, or turtle necks. Suits are strongly recommended. Ladies should wear modest dresses or skirts. Shirts and blouses should have sleeves. Wear your very best for the King of kings and Lord of lords.
+### General Guidelines
 
-Classroom and Ministry Attire: Men should wear dress or khaki type slacks, lapel-collared shirts, non-collared dress shirts, or sweaters. Ladies should wear modest dresses or skirts. All shirts and blouses worn should have sleeves.
+**Designs & Logos:** Choose the best when wearing T-shirts with designs or logos. Wear only those bearing slogans that are consistent with our high and holy calling as Seventh-day Adventist Christians.
 
-Recreational Attire: Whether a student is in the residence hall or relaxing outdoors, he should follow heavenly principles that will please God and help other students avoid temptation through what they see others wearing. For inspirational guidelines in this area, please read Messages to Young People, 345-360. In most instances for ladies—skirts, dresses, and culottes are most desirable. For activities when a skirt would be immodest or provide inadequate protection for the legs, feminine style (non-jean style) slacks and long blouses are appropriate.
-In order to uphold the Lord’s principles of modesty and simplicity in dress, no mini-attire is allowed on campus. Skirts should cover the entire knee when standing or sitting.
-Choose the best when wearing T-shirts with designs or logos. Wear only those bearing slogans that are consistent with our high and holy calling as Seventh-day Adventist Christians. Undershirts are not appropriate to wear in public. If worn under a shirt, please keep the outer shirt buttoned.
-Necklaces, rings, arm/leg bracelets, leather or string bands, earrings and similar kinds of jewelry and decorations are not to be worn. Colorful cosmetics and nail polish are not to be used. Hair should be its natural color.
+**Undershirts:** Undershirts are not appropriate to wear in public. If worn under a shirt, please keep the outer shirt buttoned.
 
-“True education does not ignore the value of scientific knowledge or literary acquirements, but above information, it values power; above power, goodness; above intellectual acquirements, character”  Education, 225.
+**Etcetera:** Necklaces, rings, arm/leg bracelets, leather or string bands, earrings and similar kinds of jewelry and decorations are not to be worn. Colorful cosmetics and nail polish are not to be used. Hair should be its natural color.
+
+### Guidelines for Men
+
+**Church Attire:** Men should wear dress or khaki type slacks, lapel-collared shirts and ties, or turtle necks. Suits are strongly recommended.
+
+**Classroom & Ministry Attire:** Men should wear dress or khaki type slacks, lapel-collared shirts, non-collared dress shirts, or sweaters. All pants need to fit the waist with no more than a one-inch excess. They should not be baggy or have long crotches. Shirts with front buttons should be worn buttoned to within one button of the collar.
+
+**Recreational Attire:** Whether a student is in the residence hall or relaxing outdoors, he should follow heavenly principles that will please God and help other students avoid temptation through what they see others wearing. For further insight, see *Messages to Young People,* 345–360.
+
+### Guidelines for Women
+
+**Church Attire:** Please wear nice Sabbath clothes and dress shoes. These should not be the same clothes that students wear to class. Wear your best for the King of kings and Lord of lords.
+
+**Classroom & Ministry Attire:** Dresses and skirts must be long enough to cover the knee when standing or sitting. Slits should begin below the bottom of the knee (regardless of whether the slit is on the side, back, or front), and should be sewn to that point, not pinned. Skirts should be loose enough to be able to turn around the body easily.
+
+**Recreational Attire:** Whether a student is in the residence hall or relaxing outdoors, she should follow heavenly principles that will please God and help other students avoid temptation through what they see others wearing. For further insight, see *Messages to Young People,* 345–360. In most instances, skirts, dresses, and culottes are most desirable. These must be long enough to cover the knee when standing or sitting. For activities where a skirt would be immodest or provide inadequate leg protection, feminine style (non-jean style) slacks and long blouses are appropriate.
+
+> “True education does not ignore the value of scientific knowledge or literary acquirements, but above information, it values power; above power, goodness; above intellectual acquirements, character”  (*Education*, 225).
 
 ## Social Relationships
 
