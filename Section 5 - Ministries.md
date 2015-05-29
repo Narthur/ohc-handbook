@@ -40,9 +40,9 @@ Students are assigned to the various churches based on talents, church needs, sk
 
 ## Prison Ministries
 
-The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern have started visiting the prisoners there every Sabbath and love for the OHC students to be a part of this special ministry. 
+The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern have started visiting the prisoners there every Sabbath and invite OHC students to be a part of this special ministry. 
 
-To participate in the prison ministry team, the student must:
+To participate in the prison ministry team, a student must:
 
 * be at least 18 years of age
 * have a valid form of identification (driver’s license, passport, etc.)
