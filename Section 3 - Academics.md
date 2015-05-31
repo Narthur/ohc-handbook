@@ -46,6 +46,7 @@ Grade reports are given to students at the end of each semester. Students should
 
 OHC uses the semester system. Grade points are awarded for each class that has been passed. Grade points for a given class are the product of the grade, on a four-point scale as noted below, and the semester hours earned in the class. The key below will help interpret grade reports and evaluate grade-point average (GPA).
 
+|-----|-----|-----|-----|-----|----------
 |A    |4.00 |C    |2.00 |I    |Incomplete
 |A-   |3.67 |C-   |1.67 |W    |Withdrawal
 |B+   |3.33 |D+   |1.33 |NC   |Non-credit
