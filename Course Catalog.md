@@ -514,6 +514,7 @@ Schools |2
 Classroom |10
 
 |Choose one Area of Emphasis or two minors: ||
+|-----------------|---------------------------
 |Area of Emphasis |18-29 Hours
 |Minor 1          |18-24 Hours
 |Minor 2          |18-24 Hours
