@@ -18,7 +18,7 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 ## Production
 
-1. Run `bash compile.sh` within a local copy of the repository
+1. Run `bash compile_markdown.sh` within a local copy of the repository
 2. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `handbook.md` into InDesign template
 
 ## Technologies
