@@ -1,4 +1,4 @@
-# Ouachita Hills College Religion Department
+# Religion Department
 
 The religion department of Ouachita Hills College exists to assist every student in 
 developing a well-rounded, functional, and personal relationship with the Creator God as 
@@ -34,7 +34,7 @@ learning methods, as well as the provision of numerous opportunities to practice
 # Bachelor In Biblical Studies
 ## General education requirements
 
-|Religion |                                    |22 hours
+|Religion                                     ||22 hours
 |---------|------------------------------------|--------
 |RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
@@ -46,423 +46,437 @@ learning methods, as well as the provision of numerous opportunities to practice
 |RLGN 360 |Prophetic Guidance                  |3
 |RELT 380 |Issues in Contemporary Theology     |2
 
-|Social Sciences |                                                 |12 hours
-|----------------|-------------------------------------------------|--------
-|HIST 325        |History of Christianity I                        |3
-|HIST 326        |History of Christianity II                       |3
-|PSYC 105        |Intro to Psychology from a Christian Perspective |3
-|SOCI 212        |Sociology, the Family and the Adventist Home     |3
+|Social Sciences                                           ||12 hours
+|---------|-------------------------------------------------|--------
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
+|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
-|English / Communication |                                                          |12 / 15 hours
-|------------------------|----------------------------------------------------------|-------------
-|\*CMME 105              |Introduction to Oral Communication for Christian Students |3
-|†CPTR 107               |Intro to Computers for Christian Professionals            |3
-|\*ENGL 101              |Composition for Christian Students                        |3
-|\*ENGL 102              |Research and Literature for Christian Students            |3
-|\*ENGL 330              |Advanced Expository Writing for Christian Students        |3
+|English / Communication                                              ||12 / 15 hours
+|-----------|----------------------------------------------------------|-------------
+|\*CMME 105 |Introduction to Oral Communication for Christian Students |3
+|†CPTR 107  |Intro to Computers for Christian Professionals            |3
+|\*ENGL 101 |Composition for Christian Students                        |3
+|\*ENGL 102 |Research and Literature for Christian Students            |3
+|\*ENGL 330 |Advanced Expository Writing for Christian Students        |3
 
-|Sciences & Mathematics |                                                            |12 hours
-|-----------------------|------------------------------------------------------------|--------
-|BIOL 140               |The Human Body in Health and Disease for Christian Students |4
-|HLSC 110               |Healthier Living for Christian Students                     |2
-|BIOL 311               |A Scientific Study of Creation for Christian Students       |2
-|MATH 113               |Personal Finance for Christian Students                     |1
-|MATH 114               |Survey of Mathematics for Christian Students                |3
+|Sciences & Mathematics                                               ||12 hours
+|---------|------------------------------------------------------------|--------
+|BIOL 140 |The Human Body in Health and Disease for Christian Students |4
+|HLSC 110 |Healthier Living for Christian Students                     |2
+|BIOL 311 |A Scientific Study of Creation for Christian Students       |2
+|MATH 113 |Personal Finance for Christian Students                     |1
+|MATH 114 |Survey of Mathematics for Christian Students                |3
 
-|Humanities |                                              |11 hours
-|-----------|----------------------------------------------|--------
-|EDUC 210   |Philosophy of Adventist Education             |3
-|ENGL 252   |Comparative Literature for Christian Students |3
-|MUHL 211   |Music in the Church                           |3
-|RELT 385   |Christian Ethics                              |2
+|Humanities                                             ||11 hours
+|---------|----------------------------------------------|--------
+|EDUC 210 |Philosophy of Adventist Education             |3
+|ENGL 252 |Comparative Literature for Christian Students |3
+|MUHL 211 |Music in the Church                           |3
+|RELT 385 |Christian Ethics                              |2
 
-Practical / Applied Arts  |7 hours
+|Practical / Applied Arts                                     ||7 hours
+|-------------|------------------------------------------------|-------
+|\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
+|APTX 110     |Clothing Construction for Christian Students    |1
+|FDNR 115     |Food/Nutrition Arts for Christian students      |1
+|GDES 120     |Basic Graphic Design for Christian Students     |1
+|HLSC 120     |First Aid and CPR for Christian students        |1
+|JOUR 125     |Photography for Christian Students              |1
+|RELB 298     |Colporteur Ministry Field Service II            |3
+|TECH 130     |Electrical Principles and Practices             |1
+|TECH 160     |Carpentry for Christian Students                |1
+|TECH 250     |Auto Mechanics for Christian Students           |1
+|TECH 260     |Woodworking for Christian Students              |1
+
 (Required courses, or life experience/challenge exams)
-|\* AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
-|APTX 110 |Clothing Construction for Christian Students |1
-|FDNR 115 |Food/Nutrition Arts for Christian students |1
-|GDES 120 |Basic Graphic Design for Christian Students |1
-|HLSC 120 |First Aid and CPR for Christian students |1
-|JOUR 125 |Photography for Christian Students |1
-|RELB 298 |Colporteur Ministry Field Service II |3
-|TECH 130 |Electrical Principles and Practices |1
-|TECH 160 |Carpentry for Christian Students |1
-|TECH 250 |Auto Mechanics for Christian Students |1
-|TECH 260 |Woodworking for Christian Students |1
-|Total| |76 hours
+
+|Total |76 hours
+|------|--------
 
 ## Core requirements
 
-|Religi on | |24 hours
-|RELB 307 |Exile & Return: Intro to Old Testament or |3
-|RELB 310 |Hebrew Prophets |3
-|RELB 315 |Pastoral Field Experience |6
-|RELB 345 |Worship & Witness: Intro to New Testament |3
-|RELB 420 |Jewish Apocalyptic Writings: Daniel |3
+|Religion                                            ||24 hours
+|---------|-------------------------------------------|--------
+|RELB 307 |Exile & Return: Intro to Old Testament or  |3
+|RELB 310 |Hebrew Prophets                            |3
+|RELB 315 |Pastoral Field Experience                  |6
+|RELB 345 |Worship & Witness: Intro to New Testament  |3
+|RELB 420 |Jewish Apocalyptic Writings: Daniel        |3
 |RELB 425 |Christian Apocalyptic Writings: Revelation |3
-|RELT 290 |Introduction to Pastoral Counseling |3
-|RELT 335 |Pauline Theology |3
-CHOOSE ONE AREA OF EMPHAS IS OR TWO MINORS :
-|Area of Emphasis| |24-30 hours
-Minor 1 |18-24 hours
-Minor 2 |18-24 hours
-Emphasis / Mi nor Areas:
+|RELT 290 |Introduction to Pastoral Counseling        |3
+|RELT 335 |Pauline Theology                           |3
+
+## Choose One Area of Emphasis or Two Minors:
+
+|-----------------|-----------
+|Area of Emphasis |24-30 hours
+|Minor 1          |18-24 hours
+|Minor 2          |18-24 hours
+
+## Emphasis / Minor Areas:
+
 Biology, Business, Chemistry, Education, English, General Science,
 Mathematics, Social Studies
-|Total| |120-146 hours
-\*Required Course
-†Required for education majors only—passing challenge exam
-fulfills this requirement
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-23
-Bachelor In Theology
-General Education Requirements
-|Religi on| |22 Hours
-|RELB 160 |Jesus and the Gospels |3
+
+|Total |120-146 hours
+|------|-------------
+
+\* Required Course
+† Required for education majors only—passing challenge exam fulfills this requirement
+
+
+# Bachelor In Theology
+## General Education Requirements
+
+|Religion                                     ||22 Hours
+|---------|------------------------------------|--------
+|RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
-|RELB 299 |Colporteur Ministry Instruction |1
-|RELT 180 |The Gospel and the Individual |2
-|RELT 235 |Principles of Bible Instruction |3
-|RELT 250 |Principles of the Christian Faith |3
-|RELT 270 |Adventist Heritage and Mission |3
-|RELT 380 |Issues in Contemporary Theology |2
-|RLGN 360 |Prophetic Guidance |3
-|Social Sciences | |12 Hours
-|HIST 325 |History of Christianity I |3
-|HIST 326 |History of Christianity II |3
+|RELB 299 |Colporteur Ministry Instruction     |1
+|RELT 180 |The Gospel and the Individual       |2
+|RELT 235 |Principles of Bible Instruction     |3
+|RELT 250 |Principles of the Christian Faith   |3
+|RELT 270 |Adventist Heritage and Mission      |3
+|RELT 380 |Issues in Contemporary Theology     |2
+|RLGN 360 |Prophetic Guidance                  |3
+
+|Social Sciences                                           ||12 Hours
+|---------|-------------------------------------------------|--------
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
-|SOCI 212 |Sociology, the Family and the Adventist Home |3
-English / Communication |12 / 15 Hours
-|\*CMME 105 |Introduction to Oral Communication for Christian
-Students |3
-|†CPTR 107 |Intro to Computers for Christian Professionals |3
-|\*ENGL 101 |Composition for Christian Students |3
-|\*ENGL 102 |Research and Literature for Christian Students |3
-|\*ENGL 330 |Advanced Expository Writing for Christian
-Students |3
-Sciences & Mathematics |12 Hours
-|BIOL 140 |The Human Body in Health and Disease for Christian
-Students |4
-|BIOL 311 |A Scientific Study of Creation for Christian
-Students |2
-|HLSC 110 |Healthier Living for Christian Students |2
-|MATH 113 |Personal Finance for Christian Students |1
-|MATH 114 |Survey of Mathematics for Christian Students |3
-|Humanities | |11 Hours
-|EDUC 210 |Philosophy of Adventist Education |3
+|SOCI 212 |Sociology, the Family and the Adventist Home     |3
+
+|English / Communication                                              ||12 / 15 Hours
+|-----------|----------------------------------------------------------|-------------
+|\*CMME 105 |Introduction to Oral Communication for Christian Students |3
+|†CPTR 107  |Intro to Computers for Christian Professionals            |3
+|\*ENGL 101 |Composition for Christian Students                        |3
+|\*ENGL 102 |Research and Literature for Christian Students            |3
+|\*ENGL 330 |Advanced Expository Writing for Christian Students        |3
+
+|Sciences & Mathematics                                               ||12 Hours
+|---------|------------------------------------------------------------|--------
+|BIOL 140 |The Human Body in Health and Disease for Christian Students |4
+|BIOL 311 |A Scientific Study of Creation for Christian Students       |2
+|HLSC 110 |Healthier Living for Christian Students                     |2
+|MATH 113 |Personal Finance for Christian Students                     |1
+|MATH 114 |Survey of Mathematics for Christian Students                |3
+
+|Humanities                                             ||11 Hours
+|---------|----------------------------------------------|--------
+|EDUC 210 |Philosophy of Adventist Education             |3
 |ENGL 252 |Comparative Literature for Christian Students |3
-|MUHL 211 |Music in the Church |3
-|RELT 385 |Christian Ethics |2
-Practical / Applied arts  |7 Hours
+|MUHL 211 |Music in the Church                           |3
+|RELT 385 |Christian Ethics                              |2
+
+|Practical / Applied arts                                    ||7 Hours
+|-------------|-----------------------------------------------|-------
+|\*AGRI 110,1 |Agricultural Arts for Christian Students(I,II) |1,1
+|APTX 110     |Clothing Construction for Christian Students   |1
+|FDNR 115     |Food/Nutrition Arts for Christian Students     |2
+|GDES 120     |Basic Graphic Design for Christian Students    |1
+|HLSC 120     |First Aid and CPR for Christian Students       |1
+|JOUR 125     |Photography for Christian Students             |1
+|RELB 298     |Colporteur Ministry Field Service II           |3
+|TECH 130     |Electrical Principles and Practices            |1
+|TECH 160     |Carpentry for Christian Students               |1
+|TECH 250     |Auto Mechanics for Christian Students          |1
+|TECH 260     |Woodworking for Christian Students             |1
+
 (Required courses, or life experience/ challenge exams)
-\*AGRI 110,1 Agricultural Arts for Christian Students(I,II) |1,1
-|APTX 110 |Clothing Construction for Christian Students |1
-|FDNR 115 |Food/Nutrition Arts for Christian Students |2
-|GDES 120 |Basic Graphic Design for Christian Students |1
-|HLSC 120 |First Aid and CPR for Christian Students |1
-|JOUR 125 |Photography for Christian Students |1
-|RELB 298 |Colporteur Ministry Field Service II |3
-|TECH 130 |Electrical Principles and Practices |1
-|TECH 160 |Carpentry for Christian Students |1
-|TECH 250 |Auto Mechanics for Christian Students |1
-|TECH 260 |Woodworking for Christian Students |1
-|Total| |76 Hours
-Core Requirements
-|Religi on| |50 Hours
-|GREK 201 |New Testament Greek I |4
-|GREK 202 |New Testament Greek II |4
-|BIBL 211 |Biblical Hebrew I |3
-|BIBL 212 |Biblical Hebrew II |3
+
+|Total |76 Hours
+|------|--------
+
+## Core Requirements
+
+|Religion                                                 ||50 Hours
+|---------|------------------------------------------------|--------
+|GREK 201 |New Testament Greek I                           |4
+|GREK 202 |New Testament Greek II                          |4
+|BIBL 211 |Biblical Hebrew I                               |3
+|BIBL 212 |Biblical Hebrew II                              |3
 |RELB 307 |Exile and Return: Intro to the Old Testament or |3
-|RELB 310 |Hebrew Prophets |3
-|RELB 315 |Pastoral Field Experience |6
-|RELB 330 |Public Evangelism |3
-|RELB 345 |Worship and Witness: Intro to New Testament |3
-|RELB 403 |Acts and General Epistles or |3
-|RELT 335 |Pauline Theology |3
-|RELB 420 |Jewish Apocalyptic Writings: Daniel |3
-|RELB 425 |Christian Apocalyptic Writings: Revelation |3
-|RELT 255 |Church Leadership and Management |3
-|RELT 285 |Biblical Theology and the Sanctuary |3
-|RELT 290 |Introduction to Pastoral Counseling |3
-|RELT 308 |Homiletics (Biblical Preaching) |3
-|Total| |126 Hours
+|RELB 310 |Hebrew Prophets                                 |3
+|RELB 315 |Pastoral Field Experience                       |6
+|RELB 330 |Public Evangelism                               |3
+|RELB 345 |Worship and Witness: Intro to New Testament     |3
+|RELB 403 |Acts and General Epistles or                    |3
+|RELT 335 |Pauline Theology                                |3
+|RELB 420 |Jewish Apocalyptic Writings: Daniel             |3
+|RELB 425 |Christian Apocalyptic Writings: Revelation      |3
+|RELT 255 |Church Leadership and Management                |3
+|RELT 285 |Biblical Theology and the Sanctuary             |3
+|RELT 290 |Introduction to Pastoral Counseling             |3
+|RELT 308 |Homiletics (Biblical Preaching)                 |3
+
+|Total |126 Hours
+|------|---------
+
 \*Required Course
+
 †Required for education majors only—passing challenge exam
 fulfills this requirement
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-24
-Ass ociate in Personal Evangelis m
-Core REq uirements
-|Religi on| |35 Hours
-|RELB 160 |Jesus and the Gospels |3
-|RELB 295 |Christian Sales |3
-|RELB 296 |Colporteur Ministry Field Service I |2
-|RELB 298 |Colporteur Ministry Field Service II |3
+
+# Associate in Personal Evangelism
+## Core Requirements
+
+|Religion                                             ||35 Hours
+|---------|--------------------------------------------|--------
+|RELB 160 |Jesus and the Gospels                       |3
+|RELB 295 |Christian Sales                             |3
+|RELB 296 |Colporteur Ministry Field Service I         |2
+|RELB 298 |Colporteur Ministry Field Service II        |3
 |RELB 297 |Philosophy of Student Canvassing Ministries |3
-|RELB 299 |Colporteur Ministry Instruction |1
-|RELB 308 |Homiletics (Biblical Preaching) |3
-|RELB 321 |Personal Evangelism with Field Service I |3
-|RELB 322 |Personal Evangelism with Field Service II |2
-|RELB 420 |Jewish Apocalyptic Writings: Daniel |3
-|RELT 235 |Principles of Bible Instruction |3
-|RELT 250 |Principles of the Christian Faith |3
-|Religion Elective| |3
-social sciences / history |15 Hours
-|HIST 325 |History of Christianity I |3
-|HIST 326 |History of Christianity II |3
-|HIST 404 |Adventist Heritage and Mission |3
+|RELB 299 |Colporteur Ministry Instruction             |1
+|RELB 308 |Homiletics (Biblical Preaching)             |3
+|RELB 321 |Personal Evangelism with Field Service I    |3
+|RELB 322 |Personal Evangelism with Field Service II   |2
+|RELB 420 |Jewish Apocalyptic Writings: Daniel         |3
+|RELT 235 |Principles of Bible Instruction             |3
+|RELT 250 |Principles of the Christian Faith           |3
+|         |Religion Elective                           |3
+
+|Social Sciences / History                                 ||15 Hours
+|---------|-------------------------------------------------|--------
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
+|HIST 404 |Adventist Heritage and Mission                   |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
-|SOCI 212 |Sociology, the Family and the Adventist Home |3
-English / Communication |6 / 9 hours
-|†CPTR 107 |Intro to Computers for Christian Professionals |3
-|\*ENGL 101 |Composition for Christian Students |3
+|SOCI 212 |Sociology, the Family and the Adventist Home     |3
+
+|English / Communication                                   ||6 / 9 hours
+|-----------|-----------------------------------------------|-----------
+|†CPTR 107  |Intro to Computers for Christian Professionals |3
+|\*ENGL 101 |Composition for Christian Students             |3
 |\*ENGL 102 |Research and Literature for Christian Students |3
-|Science | |6 Hours
-|BIOL 140 |The Human Body in Health and Disease for Christian
-Students |4
-|BIOL 311 |A Scientific Study of Creation for Christian
-Students |2
-Education |3 Hours
+
+|Science                                                              ||6 Hours
+|---------|------------------------------------------------------------|-------
+|BIOL 140 |The Human Body in Health and Disease for Christian Students |4
+|BIOL 311 |A Scientific Study of Creation for Christian Students       |2
+
+|Education                                  ||3 Hours
+|---------|----------------------------------|-------
 |EDUC 210 |Philosophy of Adventist Education |3
-Practical / applied arts  |4-5 Hours
+
+|Practical / applied arts                                     ||4-5 Hours
+|-------------|------------------------------------------------|---------
+|\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
+|APTX 110     |Clothing Construction for Christian Students    |1
+|FDNR 115     |Food/Nutrition Arts for Christian Students      |1
+|GDES 120     |Basic Graphic Design for Christian Students     |1
+|HLSC 120     |First Aid and CPR for Christian Students        |1
+|JOUR 125     |Photography for Christian Students              |1
+|TECH 130     |Electrical Principles and Practices             |1
+|TECH 160     |Carpentry for Christian Students                |1
+|TECH 250     |Auto Mechanics for Christian Students           |1
+|TECH 260     |Woodworking for Christian Students              |1
+
 (Required courses, or life experience/challenge exams)
-\*AGRI 110,1 Agricultural Arts for Christian Students (I,II) |1,1
-|APTX 110 |Clothing Construction for Christian Students |1
-|FDNR 115 |Food/Nutrition Arts for Christian Students |1
-|GDES 120 |Basic Graphic Design for Christian Students |1
-|HLSC 120 |First Aid and CPR for Christian Students |1
-|JOUR 125 |Photography for Christian Students |1
-|TECH 130 |Electrical Principles and Practices |1
-|TECH 160 |Carpentry for Christian Students |1
-|TECH 250 |Auto Mechanics for Christian Students |1
-|TECH 260 |Woodworking for Christian Students |1
-Total |69 Hours
+
+|Total |69 Hours
+|------|--------
+
 \*Required Course
-†Required for education majors only—passing challenge exam
-fulfills this requirement
-Ouachit a hills College business
-department
+
+†Required for education majors only—passing challenge exam fulfills this requirement
+
+# Business Department
+
 The Christian Business Management Program offers the opportunity for students to gain a broad set of skills in business
 administration and leadership. Students learn the principles that will equip them to work in both for-profit and non-profit
 organizations. This program has a strong emphasis on Christian business principles that prepares the students to be
 witnesses for Christ in the work place.
+
 The instructors are experienced business professionals who understand the fundamentals of business administration and
 stay current with new ideas and principles. The instructors’ passion is to educate students to do everything both to serve
 the Lord and to strive for excellence. This program is designed for students who would like to be fully equipped to serve
 the Lord and pursue a career in the church, in a supporting ministry, or in the business world.
+
 The courses and programs offered are designed to prepare students for business-related careers and/or for further
 graduate education.
-The objectives of the Business Department of Ouachita Hills College are as follows:
-• Provide ways for students to effectively learn practical business principles, which are used in both for-profit and
+
+## Department Objectives:
+
+* Provide ways for students to effectively learn practical business principles, which are used in both for-profit and
 non-profit organizations.
-• Ingrain in our students the view that business is a service and a sacrificial calling and not a lucrative
+* Ingrain in our students the view that business is a service and a sacrificial calling and not a lucrative
 profession.
-• Challenge students to have high ethical standards that will allow them to be active witnesses in a professional
+* Challenge students to have high ethical standards that will allow them to be active witnesses in a professional
 environment.
-• Provide venues where students have the opportunity to develop problem-solving, critical thinking and
+* Provide venues where students have the opportunity to develop problem-solving, critical thinking and
 communication skills.
-• Encourage students to apply principles from the Bible and the Spirit of Prophecy to resolve business issues.
-• Provide opportunities where students can work on real business cases as they apply concepts learned.
-• Promote a culture where faculty works closely with students to address individual development needs.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-26
-Practical / Applied Arts  |7 Hours
-(Required courses, or life experience/ challenge exams)
-\*AGRI 110,1 Agricultural Arts for Christian Students (I,II) |1,1
-|APTX 110 |Clothing Construction for Christian Students |1
-|FDNR 115 |Food/Nutrition Arts for Christian Students |1
-|GDES 120 |Basic Graphic Design for Christian Students |1
-|HLSC 120 |First Aid and CPR for Christian Students |1
-|JOUR 125 |Photography for Christian Students |1
-|RELB 298 |Colporteur Ministry Field Service II |3
-|TECH 130 |Electrical Principles and Practices for Christian
-Students |1
-|TECH 160 |Carpentry for Christian Students |1
-|TECH 250 |Automotive Basic Maintenance and Repair for
-Christian Students |1
-|TECH 260 |Woodworking for Christian Students |1
-Total |76 Hours
-Core Requirements
-Business  |33 Hours
-|ACCT 211 |Principles of Accounting I for Christian Business
-Professionals |3
-|ACCT 212 |Principles of Accounting II for Christian Business
-Professionals |3
-|BUAD 375 |Business Law and Christian Ethics |3
-|CPTR 210 |Computer Applications for Christian Businesses |3
-|ECON 265 |Principles of Economics I Macro for Christian
-Business Professionals |3
-|ECON 266 |Principles of Economics II Micro for Christian
-Business Professionals |3
-|FNCE 290 |Christian Business Finance |3
-|MGMT 330 |Principles of Christian Management |3
-|MGMT 333 |Christian Personnel Management |3
-|MGMT 485 |Bus Strategy & Policy for Christian Mgmt |3
-|MKTG 210 |Christian Principles of Marketing |3
-Cognates  |11 Hours
-|MATH 310 |Probability and Statistics for Christian Students |4
-|MATH 120 |College Algebra for Christian Students |4
-|RELT 255 |Church Leadership and Management |3
-Electiv es (UPPER Divi sion) |6 Hours
-Total  |126 Hours
-\*Required Course
-†Required for education majors only—passing challenge exam
-fulfills this requirement
-Bachelor in Chris tian Busi ness
-Management
-General Education Requirements
-Religi on  |22 Hours
-|RELB 160 |Jesus and the Gospels |3
+* Encourage students to apply principles from the Bible and the Spirit of Prophecy to resolve business issues.
+* Provide opportunities where students can work on real business cases as they apply concepts learned.
+* Promote a culture where faculty works closely with students to address individual development needs.
+
+# Bachelor in Christian Business Management
+## General Education Requirements
+
+|Religion                                     ||22 Hours
+|---------|------------------------------------|--------
+|RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
-|RELB 299 |Colporteur Ministry Instruction |1
-|RELT 180 |The Gospel and the Individual |2
-|RELT 235 |Principles of Bible Instruction |3
-|RELT 250 |Principles of the Christian Faith |3
-|RELT 270 |Adventist Heritage and Mission |3
-|RELT 380 |Issues in Contemporary Theology |2
-|RLGN 360 |Prophetic Guidance |3
-Social Sciences  |12 Hours
-|HIST 325 |History of Christianity I |3
-|HIST 326 |History of Chirstianity II |3
+|RELB 299 |Colporteur Ministry Instruction     |1
+|RELT 180 |The Gospel and the Individual       |2
+|RELT 235 |Principles of Bible Instruction     |3
+|RELT 250 |Principles of the Christian Faith   |3
+|RELT 270 |Adventist Heritage and Mission      |3
+|RELT 380 |Issues in Contemporary Theology     |2
+|RLGN 360 |Prophetic Guidance                  |3
+
+|Social Sciences                                           ||12 Hours
+|---------|-------------------------------------------------|--------
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Chirstianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
-|SOCI 212 |Sociology, the Family and the Adventist Home |3
-English / Communication  |12 Hours
-|\*CMME 105 |Introduction to Oral Communication for Christian
-Students |3
-|†CPTR 107 |Intro to Computers for Christian Professionals |3
-|\*ENGL 101 |Composition for Christian Students |3
-|\*ENGL 102 |Research and Literature for Christian Students |3
-|\*ENGL 330 |Advanced Expository Writing for Christian
-Students |3
-Sciences & Mathematics |12 Hours
-|BIOL 140 |The Human Body in Health and Disease for Christian
-Students |4
-|BIOL 311 |A Scientific Study of Creation for Christian
-Students |2
-|HLSC 110 |Healthier Living for Christian Students |2
-|MATH 113 |Personal Finance for Christian Students |1
-|MATH 114 |Survey of Mathematics for Christian Students |3
-Humanities  |11 Hours
-|EDUC 210 |Philosophy of Adventist Education |3
-|MUHL 211 |Music in the Church |3
+|SOCI 212 |Sociology, the Family and the Adventist Home     |3
+
+|English / Communication                                              ||12 Hours
+|-----------|----------------------------------------------------------|--------
+|\*CMME 105 |Introduction to Oral Communication for Christian Students |3
+|†CPTR 107  |Intro to Computers for Christian Professionals            |3
+|\*ENGL 101 |Composition for Christian Students                        |3
+|\*ENGL 102 |Research and Literature for Christian Students            |3
+|\*ENGL 330 |Advanced Expository Writing for Christian Students        |3
+
+|Sciences & Mathematics                                               ||12 Hours
+|---------|------------------------------------------------------------|--------
+|BIOL 140 |The Human Body in Health and Disease for Christian Students |4
+|BIOL 311 |A Scientific Study of Creation for Christian Students       |2
+|HLSC 110 |Healthier Living for Christian Students                     |2
+|MATH 113 |Personal Finance for Christian Students                     |1
+|MATH 114 |Survey of Mathematics for Christian Students                |3
+
+|Humanities                                             ||11 Hours
+|---------|----------------------------------------------|--------
+|EDUC 210 |Philosophy of Adventist Education             |3
+|MUHL 211 |Music in the Church                           |3
 |ENGL 252 |Comparative Literature for Christian Students |3
-|RELT 385 |Christian Ethics |2
-Ouachit a hills college educati on
-department
+|RELT 385 |Christian Ethics                              |2
+
+|Practical / Applied Arts                                                    ||7 Hours
+|-------------|---------------------------------------------------------------|-------
+|\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II)                |1,1
+|APTX 110     |Clothing Construction for Christian Students                   |1
+|FDNR 115     |Food/Nutrition Arts for Christian Students                     |1
+|GDES 120     |Basic Graphic Design for Christian Students                    |1
+|HLSC 120     |First Aid and CPR for Christian Students                       |1
+|JOUR 125     |Photography for Christian Students                             |1
+|RELB 298     |Colporteur Ministry Field Service II                           |3
+|TECH 130     |Electrical Principles and Practices for Christian Students     |1
+|TECH 160     |Carpentry for Christian Students                               |1
+|TECH 250     |Automotive Basic Maintenance and Repair for Christian Students |1
+|TECH 260     |Woodworking for Christian Students                             |1
+
+(Required courses, or life experience/ challenge exams)
+
+|Total |76 Hours
+|------|--------
+
+## Core Requirements
+
+|Business                                                                       ||33 Hours
+|---------|----------------------------------------------------------------------|--------
+|ACCT 211 |Principles of Accounting I for Christian Business Professionals       |3
+|ACCT 212 |Principles of Accounting II for Christian Business Professionals      |3
+|BUAD 375 |Business Law and Christian Ethics                                     |3
+|CPTR 210 |Computer Applications for Christian Businesses                        |3
+|ECON 265 |Principles of Economics I Macro for Christian Business Professionals  |3
+|ECON 266 |Principles of Economics II Micro for Christian Business Professionals |3
+|FNCE 290 |Christian Business Finance                                            |3
+|MGMT 330 |Principles of Christian Management                                    |3
+|MGMT 333 |Christian Personnel Management                                        |3
+|MGMT 485 |Bus Strategy & Policy for Christian Mgmt                              |3
+|MKTG 210 |Christian Principles of Marketing                                     |3
+
+|Cognates                                                   ||11 Hours
+|---------|--------------------------------------------------|--------
+|MATH 310 |Probability and Statistics for Christian Students |4
+|MATH 120 |College Algebra for Christian Students            |4
+|RELT 255 |Church Leadership and Management                  |3
+
+|Electives (Upper Division) |6 Hours
+|---------------------------|-------
+
+|Total |126 Hours
+|------|---------
+
+\*Required Course
+
+†Required for education majors only—passing challenge exam fulfills this requirement
+
+# Education Department
+
 The Education Department of Ouachita Hills College is dedicated to providing the most thorough and well-rounded blend
 of theory and practice to turn students into educators. The Education Department strives to take the counsels found in
 the Bible and Spirit of Prophecy and to put those counsels into practice, both in the training of the students and the
 lives of the instructors. The courses offered in this program are designed to prepare each student to achieve professional
 excellence in Christ’s strength and to give each student the necessary tools to reach the hearts and needs of children
 and youth around the world.
-The objectives of the Education Department of Ouachita Hills College are as follows:
-• Equip students to be ministers of education in various denominational venues, such as conference, selfsupporting,
+
+## Department Objectives:
+
+* Equip students to be ministers of education in various denominational venues, such as conference, selfsupporting,
 or missions.
-• Inform students as to beneficial methodology and tools for teaching in Christian schools in the 21st century.
-• Provide appropriate instruction, practice, and feedback in lesson planning and practice teaching.
-• Introduce students to the unique dynamics of the Seventh-day Adventist classroom, especially in the multi-grade
+* Inform students as to beneficial methodology and tools for teaching in Christian schools in the 21st century.
+* Provide appropriate instruction, practice, and feedback in lesson planning and practice teaching.
+* Introduce students to the unique dynamics of the Seventh-day Adventist classroom, especially in the multi-grade
 environment.
-• Promote dedication and self-sacrifice as prerequisites to effective Christian teaching.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
-28
-Bachelor in Secondary Chris tian
-Education\*\*
-(Tw o Mi nors Required)
-General Education Requirements
-Religi on  |22 Hours
-|RELB 160 |Jesus and the Gospels |3
+* Promote dedication and self-sacrifice as prerequisites to effective Christian teaching.
+
+# Bachelor in Secondary Christian Education\*\*
+
+(Two Minors Required)
+
+## General Education Requirements
+
+|Religion                                     ||22 Hours
+|---------|------------------------------------|--------
+|RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
-|RELB 299 |Colporteur Ministry Instruction |1
-|RELT 180 |The Gospel and the Individual |2
-|RELT 235 |Principles of Bible Instruction |3
-|RELT 250 |Principles of the Christian Faith |3
-|RELT 270 |Adventist Heritage and Mission |3
-|RELT 380 |Issues in Contemporary Theology |2
-|RLGN 360 |Prophetic Guidance |3
-Social sciences  |12 Hours
-|HIST 325 |History of Christianity I |3
-|HIST 326 |History of Christianity II |3
+|RELB 299 |Colporteur Ministry Instruction     |1
+|RELT 180 |The Gospel and the Individual       |2
+|RELT 235 |Principles of Bible Instruction     |3
+|RELT 250 |Principles of the Christian Faith   |3
+|RELT 270 |Adventist Heritage and Mission      |3
+|RELT 380 |Issues in Contemporary Theology     |2
+|RLGN 360 |Prophetic Guidance                  |3
+
+|Social sciences                                           ||12 Hours
+|---------|-------------------------------------------------|--------
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
-|SOCI 212 |Sociology, the Family and the Adventist Home |3
-English / communication |15 Hours
-|\*CMME 105 |Introduction to Oral Communication for Christian
-Students |3
-|†CPTR 107 |Intro to Computers for Christian Professionals |3
-|\*ENGL 101 |Composition for Christian Students |3
-|\*ENGL 102 |Research and Literature for Christian Students |3
-|\*ENGL 330 |Advanced Expository Writing for Christian
-Students |3
-Sciences & Mathematics |12 / 13 Hours
-|BIOL 140 |The Human Body in Health and Disease for
-Christian Students |4
-|BIOL 311 |A Scientific Study of Creation for Christian
-Students |2
-|HLSC 110 |Healthier Living for Christian Students |2
-|MATH 113 |Personal Finance for Christian Students |1
-|MATH 114 |Survey of Mathematics for Christian Students or |3
-‡|MATH 120 |College Algebra |4
-Humanities  |11 Hours
+|SOCI 212 |Sociology, the Family and the Adventist Home     |3
+
+|English / communication                                              ||15 Hours
+|-----------|----------------------------------------------------------|--------
+|\*CMME 105 |Introduction to Oral Communication for Christian Students |3
+|†CPTR 107  |Intro to Computers for Christian Professionals            |3
+|\*ENGL 101 |Composition for Christian Students                        |3
+|\*ENGL 102 |Research and Literature for Christian Students            |3
+|\*ENGL 330 |Advanced Expository Writing for Christian Students        |3
+
+|Sciences & Mathematics                                                ||12 / 13 Hours
+|----------|------------------------------------------------------------|-------------
+|BIOL 140  |The Human Body in Health and Disease for Christian Students |4
+|BIOL 311  |A Scientific Study of Creation for Christian Students       |2
+|HLSC 110  |Healthier Living for Christian Students                     |2
+|MATH 113  |Personal Finance for Christian Students                     |1
+|MATH 114  |Survey of Mathematics for Christian Students or             |3
+|‡MATH 120 |College Algebra                                             |4
+
+|Humanities  |11 Hours
 |EDUC 210 |Philosophy of Adventist Education |3
 |MUHL 211 |Music in the Church |3
 |ENGL 252 |Comparative Literature for Christian Students |3
 |RELT 385 |Christian Ethics |2
+
 Practical / Applied Arts  |7 Hours
 (Required courses, or life experience/ challenge exams)
 \*AGRI 110,1 Agricultural Arts for Christian Students (I,II) |1,1
@@ -510,16 +524,11 @@ Arkansas Public School System.
 †Required for education majors only—passing challenge exam
 fulfills this requirement
 ‡ Prerequisite for |Chemistry 1 |& Physics 1
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 29
 Bachelor in Elementary Chris tian
 Education\*\*
@@ -617,19 +626,13 @@ this program does not meet eligibility requirements for teacher
 certification in the State of Arkansas Public School System.
 †Required for education majors only—passing challenge exam
 fulfills this requirement
-Ouachita Hills
-M i n i s t r i e s
+
 A c a d e m Mi nors/Emphases
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 31
 Lis t of Suggested Mi nors
 Bi ology Mi nor / Emphasis  |20/25\* Hours
@@ -723,16 +726,11 @@ Musicians |1-2
 |MUSC 325 |Basic Conducting for Christian Musicians |1
 |MUSC 326 |Instrumental Conducting for Christian Musicians |1
 |MUSC 327 |Choral Conducting for Christian Musicians |1
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 32
 Religi on minor / Emphasis |21/24\* Hours
 |RELB 160 |Jesus and the Gospels |3
@@ -759,19 +757,13 @@ for Christian Schools or |2
 \*\* Classes Required for Emphasis
 \*\*\* Available to Biblical Studies majors only, will not provide
 certification
-Ouachita Hills
-M i n i s t r i e s
+
 A c a d e m Course Descriptions
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 34
 Busi ness Class es
 [ACCT 211] Principles of Accounting I for christian
@@ -861,16 +853,11 @@ school (3)
 An introduction to the teaching profession which includes best
 practices, skills and tools requisite to teaching, characteristics
 of the Christian teacher, and teaching as a soul-winning ministry.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 35
 Students will also spend time in observation and participation in
 actual schoolrooms.
@@ -969,16 +956,11 @@ This class requires students teaching for a full semester in an
 approved Christian secondary school setting under the supervision
 of approved teachers. Prerequisite: All core education courses must
 be completed. Prerequisite: [Satisfactory evaluation of readiness].
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 36
 [eDUC 342] mETHODS IN TEACH ING ELEMENTARY HEALTH AND
 p.E. In the Christian School (2)
@@ -1069,16 +1051,11 @@ features and editorials, the importance of the audience for any
 written communications as well as the values of timeliness,
 objectivity, and fairness critical to any communication career.
 Prerequisite: [ENGL 101].
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 37
 His tory
 [geog 280] cultural geography from a christian
@@ -1170,16 +1147,11 @@ infinite series, Taylor series. Prerequisite: [MATH 170]
 students (3)
 Introduction to partial differentiation, dynamical systems, solutions
 of various types of ordinary differential equations, systems of
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 38
 linear differential equations, the Laplace transform, applications to
 problems in the physical sciences. Prerequisite: [MATH 171]
@@ -1268,16 +1240,11 @@ practical projects in fabricating garments using commercial
 pattern where they will learn principles and techniques of garment
 construction. They will be instructed in cutting, matching and
 sewing a garment.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 39
 [fdnr 115] food/ nutrition arts for christian
 students (1)
@@ -1372,16 +1339,11 @@ selected Old Testament passages.
 First semester focuses on grammar and vocabulary. Second
 semester continues with syntax and includes interpretive
 translation.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 40
 [relb 160] jesus and the gospels (3)
 A comprehensive study of the life and teachings of Jesus unfolded
@@ -1475,16 +1437,11 @@ church’s beginnings in America, |the 1844 |experience, development
 of the Seventh-day Adventist denomination worldwide, with special
 attention being given to the writings of Ellen G. White. Cross-listed
 as HIST 404.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 41
 [RelT 285] biblical theology and the sanctuary (3)
 The earthly sanctuary was a daily enactment of the plan of
@@ -1568,16 +1525,11 @@ A study of the principles governing community and personal health,
 applying these to successful daily living, The course incorporates
 the Seventh-day Adventist philosophy of health as expressed in the
 writings of Ellen White.
-Ouachita Hills
-C o l l e g e
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-M i n i s t r i e s
-Ouachita Hills
-A c a d e m y
-Ouachita Hills
-R e s o u r c e s
+
+
+
+
+
 42
 Sciences - Chemis try
 [chem 101,102] General chemistry I, II for christian
