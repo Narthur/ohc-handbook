@@ -471,29 +471,34 @@ environment.
 |MATH 114  |Survey of Mathematics for Christian Students or             |3
 |‡MATH 120 |College Algebra                                             |4
 
-|Humanities  |11 Hours
-|EDUC 210 |Philosophy of Adventist Education |3
-|MUHL 211 |Music in the Church |3
+|Humanities                                             ||11 Hours
+|---------|----------------------------------------------|--------
+|EDUC 210 |Philosophy of Adventist Education             |3
+|MUHL 211 |Music in the Church                           |3
 |ENGL 252 |Comparative Literature for Christian Students |3
-|RELT 385 |Christian Ethics |2
+|RELT 385 |Christian Ethics                              |2
 
-Practical / Applied Arts  |7 Hours
+|Practical / Applied Arts                                                    ||7 Hours
+|-------------|---------------------------------------------------------------|-------
+|\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II)                |1,1
+|APTX 110     |Clothing Construction for Christian Students                   |1
+|FDNR 115     |Food/Nutrition Arts for Christian Students                     |1
+|GDES 120     |Basic Graphic Design for Christian Students                    |1
+|HLSC 120     |First Aid and CPR for Christian Students                       |1
+|JOUR 125     |Photography for Christian Students                             |1
+|RELB 298     |Colporteur Ministry Field Service II                           |3
+|TECH 130     |Electrical Principles and Practices for Christian Students     |1
+|TECH 160     |Carpentry for Christian Students                               |1
+|TECH 250     |Automotive Basic Maintenance and Repair for Christian Students |1
+|TECH 260     |Woodworking for Christian Students                             |1
+
 (Required courses, or life experience/ challenge exams)
-\*AGRI 110,1 Agricultural Arts for Christian Students (I,II) |1,1
-|APTX 110 |Clothing Construction for Christian Students |1
-|FDNR 115 |Food/Nutrition Arts for Christian Students |1
-|GDES 120 |Basic Graphic Design for Christian Students |1
-|HLSC 120 |First Aid and CPR for Christian Students |1
-|JOUR 125 |Photography for Christian Students |1
-|RELB 298 |Colporteur Ministry Field Service II |3
-|TECH 130 |Electrical Principles and Practices for Christian
-Students |1
-|TECH 160 |Carpentry for Christian Students |1
-|TECH 250 |Automotive Basic Maintenance and Repair for
-Christian Students |1
-|TECH 260 |Woodworking for Christian Students |1
-total �������������������������������������������������������������������� 79 hours
-Core Requirements
+
+|Total |79 hours
+|------|--------
+
+## Core Requirements
+
 Education |30 Hours
 |EDUC 244 |Intro to Teaching in the Christian School |3
 |EDUC 313 |Secondary Methods in Teaching Bible for Christian
@@ -507,10 +512,12 @@ Schools |2
 |EDUC 410 |Christian Education and the Exceptional Child |2
 |EDUC 334 |Directed Teaching in the Christian Secondary
 Classroom |10
-Choose one Area of Emphasis or two minors:
-Area of Emphasis |18-29 Hours
-Minor 1 |18-24 Hours
-Minor 2 |18-24 Hours
+
+|Choose one Area of Emphasis or two minors: ||
+|Area of Emphasis |18-29 Hours
+|Minor 1          |18-24 Hours
+|Minor 2          |18-24 Hours
+
 Emphasis/ Mi nor Areas:
 Biology, Business, Chemistry, English, General Science,
 Mathematics, Music, Religion, History
