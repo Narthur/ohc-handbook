@@ -31,8 +31,8 @@ Prepare students for their unique contribution to the world-wide mission of the 
 assessing and developing their personal aptitudes, skills, and abilities through the use of traditional style didactic
 learning methods, as well as the provision of numerous opportunities to practice and develop these skills.
 
-## Bachelor In Biblical Studies
-### General education requirements
+# Bachelor In Biblical Studies
+## General education requirements
 
 |Religion                                     ||22 Hrs
 |---------|------------------------------------|--------
@@ -95,7 +95,7 @@ learning methods, as well as the provision of numerous opportunities to practice
 |Total |76 hours
 |------|--------
 
-### Core requirements
+## Core requirements
 
 |Religion                                            ||24 Hrs
 |---------|-------------------------------------------|--------
@@ -108,13 +108,13 @@ learning methods, as well as the provision of numerous opportunities to practice
 |RELT 290 |Introduction to Pastoral Counseling        |3
 |RELT 335 |Pauline Theology                           |3
 
-### Choose One Area of Emphasis or Two Minors:
+## Choose One Area of Emphasis or Two Minors:
 
 |Area of Emphasis |24-30 hours
 |Minor 1          |18-24 hours
 |Minor 2          |18-24 hours
 
-### Emphasis / Minor Areas:
+## Emphasis / Minor Areas:
 
 Biology, Business, Chemistry, Education, English, General Science,
 Mathematics, Social Studies
@@ -126,8 +126,8 @@ Mathematics, Social Studies
 † Required for education majors only—passing challenge exam fulfills this requirement
 
 
-## Bachelor In Theology
-### General Education Requirements
+# Bachelor In Theology
+## General Education Requirements
 
 |Religion                                     ||22 Hrs
 |---------|------------------------------------|--------
@@ -190,7 +190,7 @@ Mathematics, Social Studies
 |Total |76 Hours
 |------|--------
 
-### Core Requirements
+## Core Requirements
 
 |Religion                                                 ||50 Hrs
 |---------|------------------------------------------------|--------
@@ -220,8 +220,8 @@ Mathematics, Social Studies
 †Required for education majors only—passing challenge exam
 fulfills this requirement
 
-## Associate in Personal Evangelism
-### Core Requirements
+# Associate in Personal Evangelism
+## Core Requirements
 
 |Religion                                             ||35 Hrs
 |---------|--------------------------------------------|--------
@@ -313,8 +313,8 @@ communication skills.
 * Provide opportunities where students can work on real business cases as they apply concepts learned.
 * Promote a culture where faculty works closely with students to address individual development needs.
 
-## Bachelor in Christian Business Management
-### General Education Requirements
+# Bachelor in Christian Business Management
+## General Education Requirements
 
 |Religion                                     ||22 Hrs
 |---------|------------------------------------|--------
@@ -377,7 +377,7 @@ communication skills.
 |Total |76 Hours
 |------|--------
 
-### Core Requirements
+## Core Requirements
 
 |Business                                                                       ||33 Hrs
 |---------|----------------------------------------------------------------------|--------
@@ -428,11 +428,11 @@ or missions.
 environment.
 * Promote dedication and self-sacrifice as prerequisites to effective Christian teaching.
 
-## Bachelor in Secondary Christian Education\*\*
+# Bachelor in Secondary Christian Education\*\*
 
 (Two Minors Required)
 
-### General Education Requirements
+## General Education Requirements
 
 |Religion                                     ||22 Hrs
 |---------|------------------------------------|--------
@@ -496,7 +496,7 @@ environment.
 |Total |79 hours
 |------|--------
 
-### Core Requirements
+## Core Requirements
 
 |Education                                                               ||30 Hrs
 |---------|---------------------------------------------------------------|--------
@@ -510,13 +510,13 @@ environment.
 |EDUC 410 |Christian Education and the Exceptional Child                  |2
 |EDUC 334 |Directed Teaching in the Christian Secondary Classroom         |10
 
-### Choose one Area of Emphasis or two minors:
+## Choose one Area of Emphasis or two minors:
 
 |Area of Emphasis |18-29 Hours
 |Minor 1          |18-24 Hours
 |Minor 2          |18-24 Hours
 
-### Emphasis / Minor Areas:
+## Emphasis / Minor Areas:
 
 Biology, Business, Chemistry, English, General Science,
 Mathematics, Music, Religion, History
@@ -537,11 +537,11 @@ fulfills this requirement
 
 ‡ Prerequisite for |Chemistry 1 |& Physics 1
 
-## Bachelor in Elementary Christian Education\*\*
+# Bachelor in Elementary Christian Education\*\*
 
 (One Minor Required)
 
-### General Education Requirements
+## General Education Requirements
 
 |Religion                                     ||22 Hrs
 |---------|------------------------------------|--------
@@ -604,7 +604,7 @@ fulfills this requirement
 |Total |79 Hours
 |------|--------
 
-### Core Requirements
+## Core Requirements
 
 |Education                                                                          ||35 Hrs
 |---------|--------------------------------------------------------------------------|--------
@@ -622,13 +622,13 @@ fulfills this requirement
 |EDUC 332 |Directed Teaching in the Christian Elementary Classroom                   |10
 |EDUC 342 |Methods in Teaching Elementary Health & PE in the Christian School        |2
 
-### Choose one area of emphasis or two minors:
+## Choose one area of emphasis or two minors:
 
 |Area of Emphasis |24-30 Hours
 |Minor 1          |18-24 Hours
 |Minor 2          |18-24 Hours
 
-### Emphasis / Minor Areas:
+## Emphasis / Minor Areas:
 
 Biology, Business, Chemistry, English, General Science,
 Mathematics, Music, Religion, History
@@ -661,7 +661,7 @@ fulfills this requirement
 |\*\*EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School or |3
 |             |\*\*Biology Elective (Upper Div)                                        |3
 
-Business Minor / Emphasis                                                                        ||18/24\* Hrs
+|Business Minor / Emphasis                                                                       ||18/24\* Hrs
 |-------------|-----------------------------------------------------------------------------------|-------------
 |ACCT 211     |Principles of Acounting I for Christian Business Professionals                     |3
 |ACCT 212     |Principles of Accounting II for Christian Business Professionals                   |3
