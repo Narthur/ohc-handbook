@@ -18,8 +18,16 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 ## Production
 
+### Content
+
 1. Run `bash compile_markdown.sh` within a local copy of the repository
 2. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `handbook.md` into InDesign template
+
+### Catalog
+
+1. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `Course Catalog.md` into InDesign template
+2. Run [adjustTableWidths](https://gist.github.com/Narthur/ab7ae5fcc6a723e8bf6f) userscript
+3. Make manual table width adjustments as needed
 
 ## Technologies
 
