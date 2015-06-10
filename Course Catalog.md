@@ -34,17 +34,18 @@ learning methods, as well as the provision of numerous opportunities to practice
 # Bachelor In Biblical Studies
 ## General education requirements
 
-|Religion                                     ||22 Hrs
+|Religion                                     ||22-23 Hrs
 |---------|------------------------------------|--------
 |RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
 |RELB 299 |Colporteur Ministry Instruction     |1
-|RELT 180 |The Gospel and the Individual       |2
+|RELT 180 |The Gospel and the Individual OR    |2
+|RELT 285 |Biblical Theology & the Sanctuary   |3
 |RELT 235 |Principles of Bible Instruction     |3
 |RELT 250 |Principles of Christian Faith       |3
 |RELT 270 |Adventist Heritage and Mission      |3
-|RLGN 360 |Prophetic Guidance                  |3
 |RELT 380 |Issues in Contemporary Theology     |2
+|RLGN 360 |Prophetic Guidance                  |3
 
 |Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
@@ -53,21 +54,20 @@ learning methods, as well as the provision of numerous opportunities to practice
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
-|English / Communication                                              ||12/15 Hrs
+|English / Communication                                              ||13 Hrs
 |-----------|----------------------------------------------------------|-------------
-|\*CMME 105 |Introduction to Oral Communication for Christian Students |3
-|†CPTR 107  |Intro to Computers for Christian Professionals            |3
-|\*ENGL 101 |Composition for Christian Students                        |3
-|\*ENGL 102 |Research and Literature for Christian Students            |3
-|\*ENGL 330 |Advanced Expository Writing for Christian Students        |3
+|CMME 105 |Intro to Human Communication for Christian Students       |3
+|ENGL 101 |Composition for Christian Students                        |3
+|ENGL 102 |Research and Literature for Christian Students            |3
+|ENGL 330 |Advanced Expository Writing for Christian Students        |3
+|SLSS 011 |Strategies for Student Success                            |1
 
-|Sciences & Mathematics                                               ||12 Hrs
+|Sciences & Mathematics                                               ||11 Hrs
 |---------|------------------------------------------------------------|--------
 |BIOL 140 |The Human Body in Health and Disease for Christian Students |4
-|HLSC 110 |Healthier Living for Christian Students                     |2
 |BIOL 311 |A Scientific Study of Creation for Christian Students       |2
 |MATH 113 |Personal Finance for Christian Students                     |1
-|MATH 114 |Survey of Mathematics for Christian Students                |3
+|MATH 120 |College Algebra                                             |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -80,37 +80,42 @@ learning methods, as well as the provision of numerous opportunities to practice
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
+|BKPG 101     |Beekeeping for Christian Students               |1
 |FDNR 115     |Food/Nutrition Arts for Christian students      |1
 |GDES 120     |Basic Graphic Design for Christian Students     |1
+|HERB 200     |Herbology for Christian Students                |1
 |HLSC 120     |First Aid and CPR for Christian students        |1
 |JOUR 125     |Photography for Christian Students              |1
+|MASG 225     |Massage for Christian Students                  |1
+|\*PELF 210   |Fitness for Life for Christian Students         |1
 |RELB 298     |Colporteur Ministry Field Service II            |3
-|TECH 130     |Electrical Principles and Practices             |1
+|TECH 130     |Electrical Principles for Christian Students    |1
 |TECH 160     |Carpentry for Christian Students                |1
 |TECH 250     |Auto Mechanics for Christian Students           |1
 |TECH 260     |Woodworking for Christian Students              |1
+|TECH 270     |Heating and A/C for Christian Students          |1
 
-(Required courses, or life experience/challenge exams)
 
-|Total |76 hours
+|Total |76-77 hours
 |------|--------
 
 ## Core requirements
 
-|Religion                                            ||24 Hrs
+|Religion                                            ||27 Hrs
 |---------|-------------------------------------------|--------
-|RELB 307 |Exile & Return: Intro to Old Testament or  |3
+|RELB 307 |Intro to Old Testament OR                  |3
 |RELB 310 |Hebrew Prophets                            |3
 |RELB 315 |Pastoral Field Experience                  |6
-|RELB 345 |Worship & Witness: Intro to New Testament  |3
-|RELB 420 |Jewish Apocalyptic Writings: Daniel        |3
-|RELB 425 |Christian Apocalyptic Writings: Revelation |3
+|RELB 344 |Bible Study & Hermeneutics                 |3
+|RELB 345 |Intro to New Testament                     |3
+|RELB 420 |Daniel                                     |3
+|RELB 425 |Revelation                                 |3
 |RELT 290 |Introduction to Pastoral Counseling        |3
 |RELT 335 |Pauline Theology                           |3
 
 ## Choose One Area of Emphasis or Two Minors:
 
-|Area of Emphasis |24-30 hours
+|Area of Emphasis |23-29 hours
 |Minor 1          |18-24 hours
 |Minor 2          |18-24 hours
 
@@ -119,11 +124,10 @@ learning methods, as well as the provision of numerous opportunities to practice
 Biology, Business, Chemistry, Education, English, General Science,
 Mathematics, Social Studies
 
-|Total |120-146 hours
+|Total |126-151 hours
 |------|-------------
 
 \* Required Course
-† Required for education majors only—passing challenge exam fulfills this requirement
 
 
 # Bachelor In Theology
