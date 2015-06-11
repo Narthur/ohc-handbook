@@ -22,16 +22,17 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 1. Run `bash compile_markdown.sh` within a local copy of the repository
 2. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `handbook.md` into InDesign template
+3. Run [adjustTableWidths](https://gist.github.com/Narthur/ab7ae5fcc6a723e8bf6f) userscript
 
 ### Catalog
 
 1. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `Course Catalog.md` into InDesign template
-2. Run [adjustTableWidths](https://gist.github.com/Narthur/ab7ae5fcc6a723e8bf6f) userscript
-3. Make manual table width adjustments as needed
-4. Convert department title pages to single-column pages:
-  1. Drag B-master before a department title page to create a new page using B-master.
-  2. Click the in port on the first frame of the existing title port and then click in the middle of the new blank page to insert the master frame on the blank page into the main text thread. ([help](https://helpx.adobe.com/indesign/using/threading-text.html#add_a_frame_inside_a_sequence_of_threaded_frames))
-  3. Add a hero image.
+2. Run [TablesToText](https://gist.github.com/Narthur/e7ce4da9083f96110197) userscript
+3. Run [removeDoubleTabs](https://gist.github.com/Narthur/fa5960ef8586b23030c2) userscript
+4. Convert department title pages to single-column pages
+  1. Delete one of the two frames on the page
+  2. Increase the width of the remaining column to the entire width of the page
+  3. Add a hero image
 
 ## Technologies
 
