@@ -46,9 +46,10 @@ learning methods, as well as the provision of numerous opportunities to practice
 |RELT 380 |Issues in Contemporary Theology     |2
 |RLGN 360 |Prophetic Guidance                  |3
 
-|Social Sciences                                           ||9 Hrs
+|Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity                          |3
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
@@ -58,14 +59,14 @@ learning methods, as well as the provision of numerous opportunities to practice
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
-|SLSS 011 |Strategies for Student Success                            |1
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Sciences & Mathematics                                               ||11 Hrs
 |---------|------------------------------------------------------------|--------
 |BIOL 140 |The Human Body in Health and Disease for Christian Students |4
 |BIOL 311 |A Scientific Study of Creation for Christian Students       |2
 |MATH 113 |Personal Finance for Christian Students                     |1
-|MATH 120 |College Algebra                                             |4
+|MATH 120 |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -94,14 +95,14 @@ learning methods, as well as the provision of numerous opportunities to practice
 |TECH 270     |Heating and A/C for Christian Students          |1
 \* Required Course
 
-|Total |73 hours
+|Total |76 hours
 |------|--------
 
 ## Core requirements
 
 |Religion                                            ||27 Hrs
 |---------|-------------------------------------------|--------
-|RELB 307 |Intro to Old Testament OR                  |3
+|RELB 307 |Intro to Old Testament or                  |3
 |RELB 310 |Hebrew Prophets                            |3
 |RELB 315 |Pastoral Field Experience                  |6
 |RELB 344 |Bible Study & Hermeneutics                 |3
@@ -122,9 +123,8 @@ learning methods, as well as the provision of numerous opportunities to practice
 Biology, Business, Chemistry, Education, English, General Science,
 Mathematics, Music, Social Studies
 
-|Total |123-148 hours
+|Total |126-151 hours
 |------|-------------
-
 
 
 # Bachelor In Theology
@@ -142,9 +142,10 @@ Mathematics, Music, Social Studies
 |RELT 380 |Issues in Contemporary Theology     |2
 |RLGN 360 |Prophetic Guidance                  |3
 
-|Social Sciences                                           ||9 Hrs
+|Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity                          |3
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
@@ -154,14 +155,14 @@ Mathematics, Music, Social Studies
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
-|SLSS 011 |Strategies for Student Success                            |1
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Sciences & Mathematics                                               ||11 Hrs
 |---------|------------------------------------------------------------|--------
 |BIOL 140 |The Human Body in Health and Disease for Christian Students |4
 |BIOL 311 |A Scientific Study of Creation for Christian Students       |2
 |MATH 113 |Personal Finance for Christian Students                     |1
-|MATH 120 |College Algebra                                             |4
+|MATH 120 |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -190,7 +191,7 @@ Mathematics, Music, Social Studies
 |TECH 270     |Heating and A/C for Christian Students          |1
 \* Required Course
 
-|Total |73 Hours
+|Total |76 Hours
 |------|--------
 
 ## Core Requirements
@@ -201,13 +202,13 @@ Mathematics, Music, Social Studies
 |GREK 202 |New Testament Greek II                          |4
 |BIBL 211 |Biblical Hebrew I                               |3
 |BIBL 212 |Biblical Hebrew II                              |3
-|RELB 307 |Intro to the Old Testament OR                   |3
+|RELB 307 |Intro to the Old Testament or                   |3
 |RELB 310 |Hebrew Prophets                                 |3
 |RELB 315 |Pastoral Field Experience                       |6
 |RELB 330 |Public Evangelism                               |3
 |RELB 344 |Bible Study & Hermeneutics                      |3
 |RELB 345 |Intro to New Testament                          |3
-|RELB 403 |Acts and General Epistles OR                    |3
+|RELB 403 |Acts and General Epistles or                    |3
 |RELT 335 |Pauline Theology                                |3
 |RELB 420 |Daniel                                          |3
 |RELB 425 |Revelation                                      |3
@@ -216,15 +217,14 @@ Mathematics, Music, Social Studies
 |RELT 290 |Introduction to Pastoral Counseling             |3
 |RELT 308 |Biblical Preaching                              |3
 
-|Total |126 Hours
+|Total |129 Hours
 |------|---------
-
 
 
 # Associate in Personal Evangelism
 ## Core Requirements
 
-|Religion                                             ||35 Hrs
+|Religion                                             ||38 Hrs
 |---------|--------------------------------------------|--------
 |RELB 160 |Jesus and the Gospels                       |3
 |RELB 295 |Christian Sales                             |3
@@ -232,18 +232,20 @@ Mathematics, Music, Social Studies
 |RELB 298 |Colporteur Ministry Field Service II        |3
 |RELB 297 |Philosophy of Student Canvassing Ministries |3
 |RELB 299 |Colporteur Ministry Instruction             |1
-|RELB 308 |Homiletics (Biblical Preaching)             |3
+|RELB 308 |Biblical Preaching                          |3
 |RELB 321 |Personal Evangelism with Field Service I    |3
 |RELB 322 |Personal Evangelism with Field Service II   |2
 |RELB 344 |Bible Study & Hermeneutics                  |3
-|RELB 420 |Daniel                                      |3
+|RELB 420 |Daniel or                                   |3
+|RELB 425 |Revelation                                  |3
 |RELT 235 |Principles of Bible Instruction             |3
 |RELT 250 |Principles of the Christian Faith           |3
-
+|RELT 255 |Church Leadership and Mission               |3
 
 |Social Sciences / History                                 ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity                          |3
+|HIST 325 |History of Christianity I or                     |3
+|HIST 326 |History of Christianity II                       |3
 |HIST 404 |Adventist Heritage and Mission                   |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
@@ -252,7 +254,7 @@ Mathematics, Music, Social Studies
 |-----------|--------------------------------------------------------|-------------
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
-|SLSS 011 |Strategies for Student Success                            |1
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Science                                                              ||6 Hrs
 |---------|------------------------------------------------------------|-------
@@ -263,7 +265,7 @@ Mathematics, Music, Social Studies
 |---------|----------------------------------|-------
 |EDUC 210 |Philosophy of Adventist Education |3
 
-|Practical / Applied Arts                                     ||5 Hrs
+|Practical / Applied Arts                                     ||4 Hrs
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
@@ -282,7 +284,7 @@ Mathematics, Music, Social Studies
 |TECH 270     |Heating and A/C for Christian Students          |1
 \*Required Course
 
-|Total |68 Hours
+|Total |70 Hours
 |------|--------
 
 
@@ -318,11 +320,12 @@ communication skills.
 # Bachelor in Christian Business Management
 ## General Education Requirements
 
-|Religion                                     ||22 Hrs
+|Religion                                     ||25 Hrs
 |---------|------------------------------------|--------
 |RELB 160 |Jesus and the Gospels               |3
 |RELB 296 |Colporteur Ministry Field Service I |2
 |RELB 299 |Colporteur Ministry Instruction     |1
+|RELB 344 |Bible Study and Hermeneutics        |3
 |RELT 180 |The Gospel and the Individual       |2
 |RELT 235 |Principles of Bible Instruction     |3
 |RELT 250 |Principles of the Christian Faith   |3
@@ -330,9 +333,10 @@ communication skills.
 |RELT 380 |Issues in Contemporary Theology     |2
 |RLGN 360 |Prophetic Guidance                  |3
 
-|Social Sciences                                           ||9 Hrs
+|Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity I                        |3
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
@@ -342,14 +346,14 @@ communication skills.
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
-|SLSS 011 |Strategies for Student Success                            |1
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Sciences & Mathematics                                               ||11 Hrs
 |---------|------------------------------------------------------------|--------
 |BIOL 140 |The Human Body in Health and Disease for Christian Students |4
 |BIOL 311 |A Scientific Study of Creation for Christian Students       |2
 |MATH 113 |Personal Finance for Christian Students                     |1
-|MATH 120 |College Algebra                                             |4
+|MATH 120 |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -378,7 +382,7 @@ Practical / Applied Arts                                      ||7 Hrs
 |TECH 270     |Heating and A/C for Christian Students          |1
 \*Required Course
 
-|Total |78 Hours
+|Total |79 Hours
 |------|--------
 
 ## Core Requirements
@@ -402,7 +406,7 @@ Practical / Applied Arts                                      ||7 Hrs
 |MATH 310 |Probability and Statistics for Christian Students |4
 |RELT 255 |Church Leadership and Management                  |3
 
-|Electives (Upper Division) |6 Hours
+|Electives (Upper Division) |3 Hours
 |---------------------------|-------
 
 |Total |122 Hours
@@ -444,18 +448,20 @@ environment.
 |RELT 380 |Issues in Contemporary Theology     |2
 |RLGN 360 |Prophetic Guidance                  |3
 
-|Social Sciences                                           ||9 Hrs
+|Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity                          |3
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
-|English / Communication                                            ||12 Hrs
+|English / Communication                                            ||13 Hrs
 |-----------|--------------------------------------------------------|--------
 |CMME 105 |Introduction to Oral Communication for Christian Students |3
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Sciences & Mathematics                                                ||17 Hrs
 |----------|------------------------------------------------------------|-------------
@@ -464,7 +470,7 @@ environment.
 |†CPTR 107 |Intro to Computers for Christian Professionals              |3
 |MATH 113  |Personal Finance for Christian Students                     |1
 |MATH 114  |Survey of Mathematics for Christian Students                |3
-|MATH 120  |College Algebra                                             |4
+|MATH 120  |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -492,9 +498,9 @@ Practical / Applied Arts                                      ||7 Hrs
 |TECH 260     |Woodworking for Christian Students              |1
 |TECH 270     |Heating and A/C for Christian Students          |1
 \*Required Course
-†passing challenge exam fulfills this requirement 
+†Passing challenge exam fulfills this requirement 
 
-|Total |78 hours
+|Total |82 hours
 |------|--------
 
 ## Core Requirements
@@ -522,7 +528,7 @@ Practical / Applied Arts                                      ||7 Hrs
 Biology, Business, Chemistry, English, General Science,
 Mathematics, Music, Religion, History
 
-|Total |131-156 Hours
+|Total |135-160 Hours
 |------|-------------
 
 \*\*This curriculum is designed to prepare teachers for
@@ -548,18 +554,20 @@ Arkansas Public School System.
 |RELT 380 |Issues in Contemporary Theology     |2
 |RLGN 360 |Prophetic Guidance                  |3
 
-|Social Sciences                                           ||9 Hrs
+|Social Sciences                                           ||12 Hrs
 |---------|-------------------------------------------------|--------
-|HIST 327 |History of Christianity I                        |3
+|HIST 325 |History of Christianity I                        |3
+|HIST 326 |History of Christianity II                       |3
 |PSYC 105 |Intro to Psychology from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
-|English / Communication                                            ||12 Hrs
+|English / Communication                                            ||13 Hrs
 |-----------|--------------------------------------------------------|--------
 |CMME 105 |Introduction to Oral Communication for Christian Students |3
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
+|SLSS 011 |Strategies for Christian Student Success                  |1
 
 |Sciences & Mathematics                                                ||17 Hrs
 |----------|------------------------------------------------------------|-------------
@@ -568,7 +576,7 @@ Arkansas Public School System.
 |†CPTR 107 |Intro to Computers for Christian Professionals              |3
 |MATH 113  |Personal Finance for Christian Students                     |1
 |MATH 114  |Survey of Mathematics for Christian Students                |3
-|MATH 120  |College Algebra                                             |4
+|MATH 120  |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
 |---------|----------------------------------------------|--------
@@ -596,9 +604,9 @@ Practical / Applied Arts                                      ||7 Hrs
 |TECH 260     |Woodworking for Christian Students              |1
 |TECH 270     |Heating and A/C for Christian Students          |1
 \*Required Course
-†passing challenge exam fulfills this requirement
+†Passing challenge exam fulfills this requirement
 
-|Total |78 Hours
+|Total |82 Hours
 |------|--------
 
 ## Core Requirements
@@ -628,7 +636,7 @@ Practical / Applied Arts                                      ||7 Hrs
 Biology, Business, Chemistry, English, General Science,
 Mathematics, Music, Religion, History
 
-|Total |137-148 hours
+|Total |140-165 hours
 |------|-------------
 
 \*\*This curriculum is designed to prepare teachers for
@@ -651,7 +659,7 @@ Arkansas Public School System.
 |BIOL 320     |Principles of Genetics for Christian Students                           |4
 |BIOL 340     |Microbiology for Christian Students                                     |4
 |\*\*BIOL 311 |Scientific Study of Creation for Christian Students                     |2
-|\*\*EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School OR |3
+|\*\*EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School or |3
 |BIOL 348     |Developmental Biology                                                   |3
 
 |Business Minor / Emphasis                                                                       ||18/21\* Hrs
@@ -673,7 +681,7 @@ Arkansas Public School System.
 |CHEM 312     |Organic Chemistry II for Christian Students                             |4
 |CHEM 350     |Biochemistry for Christian Students                                     |4
 |\*\*BIOL 311 |Scientific Study of Creation for Christian Students                     |2
-|\*\*EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School OR |3
+|\*\*EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School or |3
 |             |\*\*Chemistry Elective                                                  |3
 
 |Christian Education Emphasis\*\*\*                                      ||24\* Hrs
@@ -754,7 +762,7 @@ Arkansas Public School System.
 |HIST 404     |Adventist Heritage and Mission                                                |3
 |PLST 250     |American Government from a Christian Perspective                              |3
 |\*\*HIST 450 |Direct Study Elective                                                         |1
-|\*\*EDUC 312 |Methods in Teaching Elementary Bible/ Social Studies for Christian Schools OR |2
+|\*\*EDUC 312 |Methods in Teaching Elementary Bible/ Social Studies for Christian Schools or |2
 |             |\*\*Social Studies Elective                                                   |2
 
 \* Number of Credits for Emphasis
@@ -1068,13 +1076,17 @@ This is the study of the development of the United States from the
 Reconstruction to the present. Emphasis placed on the role of the
 United States in end time events.
 
-### [HIST 327] History of Christianity (3)
-This course will trace the most significant events in the development of
-Christianity from the time of Christ to the Reformation, including the influence
-of the church fathers, the rise of the papacy and on through to the present
-time. It will include the study of the main branches of Protestantism, their
-relation to the state; the Catholic counter reformation; and the evangelical
-movement.
+### [HIST 325] History of Christianity I: Early and Medieval Periods (3)
+The significant trends and events in the development of Christianity 
+from the time of Christ to the Reformation, including a study of the 
+church in relation to the Roman Empire, the influence of the church 
+fathers, Christological controversies, and the rise of the papacy.
+
+### [HIST 326] History of Christianity II: The Reformation and Modern Periods (3)
+This course studies the church from pre-Reformation to the present time; its 
+development in Europe and in America, including the main branches of 
+Protestantism; their relation to the state; the Catholic counter reformation; 
+and the evangelical movement.
 
 ### [HIST 404] Adventist Heritage and Mission (3)
 This course investigates the Seventh-day Adventist church history
@@ -1322,7 +1334,7 @@ framing,” including floor systems, walls, roofs and stairs. Safety
 with power tools and on the job site will be a special focus
 throughout the course.
 
-### [TECH 250] Automotive Basic Maintenance and Repair for Christian Students (1)
+### [TECH 250] Auto Basic Maintenance and Repair for Christian Students (1)
 Introductory study and practice in basic car care, maintenance,
 and repair. Students get lab experience in maintenance and
 service areas of engine lubrication, underhood, undercar, tire and
@@ -1488,7 +1500,7 @@ presenting them. This class is designed to prepare students to be
 effective communicators for Christ and lead audiences in public
 worship.
 
-### [relt 321,322] Personal Evangelism with Field Service I, II (3,2)
+### [RELT 321,322] Personal Evangelism with Field Service I, II (3,2)
 A practical introduction in soul-winning skills: winning friends
 for Christ, recognizing and meeting felt needs, seizing witnessing
 opportunities, and giving personal Bible studies and community
