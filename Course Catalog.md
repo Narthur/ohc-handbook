@@ -1250,9 +1250,30 @@ pattern where they will learn principles and techniques of garment
 construction. They will be instructed in cutting, matching and
 sewing a garment.
 
+### [BKPG 101] Beekeeping for Christian Students (1)
+In this class, students will learn the basics of honey bees and how 
+to care for them. They will learn how to diagnose honey bee diseases 
+and pests and how to treat for them. Also, students will learn the basic 
+anatomy of the honey bee and the impact of honey bees in our world.
+
 ### [FDNR 115] Food / Nutrition Arts for Christian Students (1)
 The study and application of food production principles with
 emphasis on storage, safety, health, preparation, and service.
+
+### [GDES 120] Basic Graphic Design for Christian Students (1)
+This course will be the introduction, study and practice of basic
+design vocabulary, elements, and principles as related to the
+Christian artist. Individual elements of design such as line, shape,
+value, texture, space, size and color will be explored as they relate
+to electronically generated digital formats and print designs.
+Emphasis will be given to the principles of design i.e., balance,
+emphasis, rhythm and unity to analyze the effectiveness of printed
+communications and other related electronic media. Students
+will create basic designs in appropriate software including Adobe
+Illustrator, Photoshop, InDesign, and Keynote/PowerPoint. Students
+must purchase some supplies.
+
+### [HERB 200] Herbology for Christian Students (1)
 
 ### [HLSC 120] First Aid and CPR for Christian Students (1)
 Gives individuals the knowledge and skills necessary to recognize
@@ -1260,6 +1281,16 @@ and provide basic care for breathing, cardiac emergencies, injuries
 and sudden illnesses, including how to use an automated external
 defibrillator (AED) for victims of sudden cardiac arrest, until
 advanced medical personnel arrive and take over.
+
+### [JOUR 125] Photography for Christian Students (1)
+This course is an overview of the history and basic concepts of
+photography and an introduction to photographic equipment and
+basic shooting techniques. Students will also gain an introduction
+to Adobe Photoshop. Students must have their own 35mm digital
+camera with manual capability. Students must purchase some
+supplies. 
+
+### [MASG 225] Basic Massage for Christian Students (1)
 
 ### [RELB 298] Colporteur Field Service II (3)
 An investigation into the skills of persuasion and making friends
@@ -1303,26 +1334,10 @@ bearings.
 In this class, students will learn how to safely operate woodworking
 tools, design, and create several projects.
 
-### [JOUR 125] Photography for Christian Students (1)
-This course is an overview of the history and basic concepts of
-photography and an introduction to photographic equipment and
-basic shooting techniques. Students will also gain an introduction
-to Adobe Photoshop. Students must have their own 35mm digital
-camera with manual capability. Students must purchase some
-supplies.
+### [TECH 270] Heating and A/C for Christian Students (1)
 
-### [GDES 120] Basic Graphic Design for Christian Students (1)
-This course will be the introduction, study and practice of basic
-design vocabulary, elements, and principles as related to the
-Christian artist. Individual elements of design such as line, shape,
-value, texture, space, size and color will be explored as they relate
-to electronically generated digital formats and print designs.
-Emphasis will be given to the principles of design i.e., balance,
-emphasis, rhythm and unity to analyze the effectiveness of printed
-communications and other related electronic media. Students
-will create basic designs in appropriate software including Adobe
-Illustrator, Photoshop, InDesign, and Keynote/PowerPoint. Students
-must purchase some supplies.
+
+
 
 ## Psychology and Sociology
 
@@ -1341,7 +1356,7 @@ available.
 
 ## Religion
 
-### [BIBL 211,212] biblical hebrew i, ii (3,3)
+### [BIBL 211,212] Biblical Hebrew I, II (3,3)
 Introduces the student to the elements of biblical Hebrew and
 equips him with knowledge of grammar and a working vocabulary.
 Biblical |Hebrew 11 |also includes interpretive translation of
@@ -1381,18 +1396,11 @@ information available in the book Publishing Ministry.
 ### [RELB 299] Colporteur Ministry Instruction (1)
 A careful study of the book Colporteur Ministry.
 
-### [RELB 307] Exile and Return: Introduction to the Old Testament (3)
+### [RELB 307] Introduction to the Old Testament (3)
 The narratives, sacred history and revealed religion of Israel are
 explored. A review of the Old Testament’s uniqueness in providing
 an answer to man’s inquiry into the past and its application to the
 contemporary world.
-
-### [RELB 310] Hebrew Prophets (3)
-Generally introduce students to the origin and nature of Hebrew
-prophecy, the Old Testament prophets, their prophetic writings,
-and the major concepts and teachings of prophetic tradition. The
-message of individual prophets will be explored with their impact
-on the Christian today.
 
 ### [RELB 315] Pastoral Field Experience (6)
 Supervised field work under an experienced minister as
@@ -1405,7 +1413,11 @@ This class includes not only instruction by a successful Seventhday
 Adventist evangelist, but also includes hands-on experience in
 planning, preparing for, and conducting an evangelistic effort.
 
-### [RELB 345] Worship and Witness: Introduction to the New Testament (3)
+### [RELB 344] Bible Study and Hermeneutics (3)
+Hermeneutics is the science of discovering and applying important 
+principles for the purpose of faithfully interpreting the Scriptures.
+
+### [RELB 345] Introduction to the New Testament (3)
 A study of nature, history, and background of the New Testament
 with special emphasis on its teachings and theology in its
 application to issues and questions of contemporary man.
@@ -1415,12 +1427,12 @@ This class is an overview of the development of the Christian
 Church through the book of Acts, Acts of the Apostles by E. G. White
 and the letters of James, Peter, John, and Jude.
 
-### [RELB 420] Jewish Apocalyptic Writings: Daniel (3)
+### [RELB 420] Daniel (3)
 This course is a critical and exegetical study of the book of Daniel.
 Special emphasis is placed on end-time eschatology and the role
 of the Seventh-day Adventist Church.
 
-### [RELB 425] Christian Apocalyptic Writings: Revelation (3)
+### [RELB 425] Revelation (3)
 An in depth study of the prophetic book of Revelation. Special
 emphasis is placed on end-time eschatology and the role of the
 Seventh-day Adventist Church.
@@ -1470,7 +1482,7 @@ Seventh-day Adventist Church.
 A study of the ethics, principles, and methods involved in the
 counseling process from a biblical perspective.
 
-### [RELT 308] Homiletics (Biblical Preaching) (3)
+### [RELT 308] Biblical Preaching (3)
 Homiletics is the science of preparing sermons and the art of
 presenting them. This class is designed to prepare students to be
 effective communicators for Christ and lead audiences in public
@@ -1509,7 +1521,7 @@ of her writings today.
 
 ## Sciences - Biology
 
-### [biol 101,102] Anatomy and Physiology I, II for Christian Students (4,4)
+### [BIOL 101,102] Anatomy and Physiology I, II for Christian Students (4,4)
 A study of the fundamentals of human anatomy and physiology.
 The first semester covers basic cytology, histology, the
 musculoskeletal, integumentary, nervous, and endocrine systems.
@@ -1528,28 +1540,38 @@ physiologic mechanisms that maintain each body system. A
 general foundation in the vocabulary of anatomy and physiology is
 a primary part of the course. Normal body structure and function
 are used as the basis to present information on human health and
-disease principles. Emphasis is on the Christian’s responsibility to
-care for his body temple.
+disease principles. This course will also cover basic hydrotherapy and natural 
+remedies for treating diseases. Includes weekly lab.
 
-### [biol 151,152] General Biology I, II for Christian Students (4,4)
+### [BIOL 151,152] General Biology I, II for Christian Students (4,4)
 Study covers general concepts in genetics, taxonomy, behavior,
 ecology, morphology, and physiology of organisms. It includes units
 contrasting creationistic and evolutionistic theories. Includes lab.
 
-### [Bi ol 311] A Scientific Study of Creation for Christian Students (2)
+### [BIOL 311] A Scientific Study of Creation for Christian Students (2)
 Class studies the evidences supporting a creation origin of the
 earth. The approach is scientific rather than biblical.
+
+### [BIOL 320] Principles of Genetics for Christian Students (4)
+This course examines the fundamental principles of genetics and discusses 
+their application in a number of fields of study, including medicine, 
+population genetics, development and biotechnology. Core concepts include 
+genetic inheritance, the structure of genes and regulatory elements, and 
+control of gene expression. Includes weekly lab.
+Prerequisite: [BIOL 151,152]
 
 ### [BIOL 340] Microbiology for Christian Students (4)
 This is a study of microorganisms with emphasis on those of
 medical, industrial and environmental importance. Includes labs.
-Prerequisite: [BIOL 151,152].
+Prerequisite: [BIOL 151,152]
 
-### [HLSC 110] Healthier Living for Christian Students (2)
-A study of the principles governing community and personal health,
-applying these to successful daily living, The course incorporates
-the Seventh-day Adventist philosophy of health as expressed in the
-writings of Ellen White.
+### [BIOL 348] Developmental Biology for Christian Students (3)
+The formation of a complete, multicellular living organism from a single
+cell is a delicate process that was shrouded in mystery until nearly the 
+20th century. Major advances in the fields of embryology and genetics 
+have brought us close to understanding the intricate steps involved in 
+shaping a new life.
+Prerequisite: [BIOL 151,152]
 
 ## Sciences - Chemistry
 
