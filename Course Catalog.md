@@ -358,7 +358,7 @@ communication skills.
 |ENGL 252 |Comparative Literature for Christian Students |3
 |RELT 385 |Christian Ethics                              |2
 
-|Practical / Applied Arts                                     ||7 Hrs
+Practical / Applied Arts                                      ||7 Hrs
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
@@ -370,6 +370,7 @@ communication skills.
 |JOUR 125     |Photography for Christian Students              |1
 |MASG 225     |Massage for Christian Students                  |1
 |\*PELF 210   |Fitness for Life for Christian Students         |1
+|RELB 298     |Colporteur Field Service II                     |3
 |TECH 130     |Electrical Principles for Christian Students    |1
 |TECH 160     |Carpentry for Christian Students                |1
 |TECH 250     |Auto Mechanics for Christian Students           |1
@@ -484,6 +485,7 @@ Practical / Applied Arts                                      ||7 Hrs
 |JOUR 125     |Photography for Christian Students              |1
 |MASG 225     |Massage for Christian Students                  |1
 |\*PELF 210   |Fitness for Life for Christian Students         |1
+|RELB 298     |Colporteur Field Service II                     |3
 |TECH 130     |Electrical Principles for Christian Students    |1
 |TECH 160     |Carpentry for Christian Students                |1
 |TECH 250     |Auto Mechanics for Christian Students           |1
@@ -500,9 +502,9 @@ Practical / Applied Arts                                      ||7 Hrs
 |Education                                                               ||30 Hrs
 |---------|---------------------------------------------------------------|--------
 |EDUC 244 |Intro to Teaching in the Christian School                      |3
-|EDUC 313 |Secondary Methods in Teaching Bible for Christian Schools      |2
-|EDUC 323 |Teaching in the Christian Sec. Classroom                       |3
-|EDUC 353 |Secondary Reading Methods in the Christian School              |2
+|EDUC 313 |Methods in Teaching Secondary Bible for Christian Schools      |2
+|EDUC 323 |Teaching in the Christian Secondary Classroom                  |3
+|EDUC 353 |Methods in Teaching Secondary Reading for Christian Schools    |2
 |EDUC 320 |Integrating Technology in the Curriculum for Christian Schools |2
 |EDUC 324 |Development & Educational Christian Psychology                 |3
 |EDUC 360 |Evaluation in Teaching in the Christian School                 |3
@@ -587,6 +589,7 @@ Practical / Applied Arts                                      ||7 Hrs
 |JOUR 125     |Photography for Christian Students              |1
 |MASG 225     |Massage for Christian Students                  |1
 |\*PELF 210   |Fitness for Life for Christian Students         |1
+|RELB 298     |Colporteur Field Service II                     |3
 |TECH 130     |Electrical Principles for Christian Students    |1
 |TECH 160     |Carpentry for Christian Students                |1
 |TECH 250     |Auto Mechanics for Christian Students           |1
@@ -604,15 +607,15 @@ Practical / Applied Arts                                      ||7 Hrs
 |---------|--------------------------------------------------------------------------|--------
 |EDUC 244 |Intro to Teaching in the Christian School                                 |3
 |EDUC 312 |Methods in Teaching Elementary Bible/Social Studies for Christian Schools |2
-|EDUC 307 |Methods for Teaching Reading/Language Arts in Christian Schools           |4
-|EDUC 318 |Methods in Teaching Elementary Science/ Math in the Christian School      |2
+|EDUC 307 |Methods in Teaching Reading/Language Arts for Christian Schools           |4
+|EDUC 318 |Methods in Teaching Elementary Science/ Math for Christian Schools        |2
 |EDUC 320 |Integrating Technology in the Curriculum for Christian Schools            |2
 |EDUC 322 |Multi-Grade Classroom Techniques for Christian Schools                    |2
 |EDUC 324 |Developmental and Educational Christian Psychology                        |3
-|EDUC 360 |Evaluation in Teaching in the Christian School                            |3
+|EDUC 360 |Evaluation in Teaching for Christian Schools                              |3
 |EDUC 410 |Christian Education and the Exceptional Child                             |2
 |EDUC 332 |Directed Teaching in the Christian Elementary Classroom                   |10
-|EDUC 342 |Methods in Teaching Elementary Health & PE in the Christian School        |2
+|EDUC 342 |Methods in Teaching Elementary Health & PE for Christian Schools          |2
 
 ## Choose one area of emphasis or two minors:
 
@@ -677,12 +680,12 @@ Arkansas Public School System.
 |---------|---------------------------------------------------------------|----------
 |EDUC 210 |Philosophy of Adventist Education                              |3
 |EDUC 244 |Intro to Teaching in the Christian School                      |3
-|EDUC 313 |Secondary Methods in Teaching Bible for Christian Schools      |2
+|EDUC 313 |Methods in Teaching Secondary Bible for Christian Schools      |2
 |EDUC 320 |Integrating Technology in the Curriculum for Christian Schools |2
 |EDUC 323 |Teaching in the Christian Secondary Classroom                  |3
 |EDUC 324 |Developmental & Educational Christian Psychology               |3
 |EDUC 330 |Senior Project                                                 |1
-|EDUC 353 |Secondary Reading Methods In the Christian School              |2
+|EDUC 353 |Methods in Teaching Secondary Reading for Christian Schools    |2
 |EDUC 360 |Evaluation in Teaching in the Christian School                 |3
 |EDUC 410 |Christian Education and the Exceptional Child                  |2
 
@@ -765,18 +768,15 @@ Arkansas Public School System.
 ## Business Classes
 
 ### [ACCT 211] Principles of Accounting I for Christian Business Professionals (3)
-
 This course examines and applies fundamental principles of
 accounting for sole proprietorships and corporations.
 
 ### [ACCT 212] Principles of Accounting II for Christian Business Professionals (3)
-
 In this class, the student will examine and apply the fundamental
 principles for partnerships, corporations, and industrial enterprises.
 Prerequisite : ACCT 211.
 
 ### [BUAD 300] Small Business Management for Christian Business Professionals (3)
-
 Introduces the entrepreneurial concepts. This class provides tools and 
 principles needed to operate a business and ministry. We target students 
 who plan to have their own business or ministry and those who desire to 
@@ -785,7 +785,6 @@ business planning, raising capital, using business information, managing
 employees, and marketing products and services.  
 
 ### [BUAD 375] Business Law and Christian Ethics (3)
-
 Business Law is a survey course designed to introduce legal topics
 and concepts that can and will affect individuals throughout both
 their personal and business lives. Students will explore the legal
@@ -793,21 +792,18 @@ environment, torts, business crimes, contracts, property, and estate
 planning.
 
 ### [CPTR 210] Computer Applications for Christian Businesses (3)
-
 The development of intermediate-level skills in business operating
 systems, word processing and spreadsheet software, and the use
-of the Internet are goals of this course. Also included are computer
+of the internet are goals of this course. Also included are computer
 and data security issues, and computer ethics.
 
 ### [ECON 265] Principles of Economics I Macro for Christian Business Professionals (3)
-
 An introductory course that explores topics such as economic
 growth, inflation, unemployment, fiscal and monetary policies,
 money supply, banking and the banking system within the context
 of major economic theories.
 
 ### [ECON 266] Principles of Economics II Micro for Christian Business Professionals (3)
-
 Microeconomics examines the factors that influence individual
 economic choices and how the choices of various decision makers
 are coordinated by markets. Topics include supply, demand,
@@ -815,11 +811,10 @@ equilibrium, elasticity, costs, and competition models and their
 impact on markets; antitrust and mergers, and income distribution.
 
 ### [FNCE 290] Christian Business Finance (3)
-
 The source and uses of funds required by a business is a
 theoretical framework that the financial manager can use to reach
 decisions within the realities of the financial world. Topics include
-Biblical ethics and principles of financial analysis, estimation funds
+biblical ethics and principles of financial analysis, estimation funds
 requirements, short and long-term loan arrangements, capital
 structure planning, and securities issues. Emphasis will also be
 placed on the management of finances in supporting ministry
@@ -867,7 +862,7 @@ of the Christian teacher, and teaching as a soul-winning ministry.
 Students will also spend time in observation and participation in
 actual schoolrooms.
 
-### [EDUC 307] Methods for Teaching Reading / Language Arts in Christian Schools (4)
+### [EDUC 307] Methods for Teaching Reading / Language Arts for Christian Schools (4)
 This course is a study of methods and materials used in teaching
 all the language arts subjects (phonics, reading, language, writing,
 spelling, and handwriting) in the elementary grades. Emphasis
@@ -879,14 +874,6 @@ opportunities in classroom settings are studied. Materials will be
 collected and evaluated from both an education and a biblical
 perspective. Unit plans as well as a study of individual needs will
 be conducted.
-
-### [EDUC 310] Methods in Teaching Elementary Language Arts for Christian Schools (2)
-This course is a study of methods and materials used in teaching,
-reading, language, spelling, and handwriting in the elementary
-grades. Materials will be collected and evaluated from both an
-educational and a biblical perspective. Unit plans as well as a
-study of individual needs will be conducted. Field experience
-included.
 
 ### [EDUC 312] Methods in Teaching Elementary Bible / Social Studies for Christian Schools (2)
 This is a course designed to provide theory and methodology in
@@ -908,7 +895,7 @@ relevancy of His Word, its accuracy in predicting historical events,
 and the necessity of applying its principles in daily living. Field
 experience included.
 
-### [EDUC 315] Methods for Teaching Elementary Reading in Christian Schools (2)
+### [EDUC 315] Methods for Teaching Elementary Reading for Christian Schools (2)
 Varied approaches and resources for teaching reading with
 application opportunities in classroom settings are studied.
 Emphasis is on the scope and sequence of teaching various
@@ -916,7 +903,7 @@ reading skills as well as the biblical principles to use when
 choosing reading material for the classroom. Field experience
 included.
 
-### [EDUC 318] Methods in Teaching Elementary Science / Math in the Christian School (2)
+### [EDUC 318] Methods in Teaching Elementary Science / Math for Christian Schools (2)
 This class emphasizes the understanding of science and math from
 a personal and social perspective. Use of the unit plan, problem solving,
 learning center approaches, and creation-science models
@@ -963,7 +950,7 @@ approved Christian secondary school setting under the supervision
 of approved teachers. Prerequisite: All core education courses must
 be completed. Prerequisite: [Satisfactory evaluation of readiness].
 
-### [EDUC 342] Methods in Teaching Elementary Health and P.E. in the Christian School (2)
+### [EDUC 342] Methods in Teaching Elementary Health and P.E. for Christian Schools (2)
 This course focuses on theory, techniques and management
 strategies for the teaching of Health and Physical Education in the
 multi-grade setting, with an emphasis on counsel given in the
@@ -971,7 +958,7 @@ Spirit of Prophecy and a goal of lifelong healthful living practices.
 Students will design lesson plans and gain experience in practice
 teaching of Health and P.E.
 
-### [EDUC 353] Secondary Reading Methods in the Christian School (2)
+### [EDUC 353] Methods in Teaching Secondary Reading for Christian Schools (2)
 Examines methods and material of teaching reading in secondary
 content areas. Emphasis will be given to the use of biblical
 principles for selecting reading materials.
@@ -1004,7 +991,7 @@ Instruction will be given in the processes of oral expression with
 practice in various aspects of public speaking within a ministry
 setting.
 
-### [EN GL 001] Foundations in English for Christian Students (3)
+### [ENGL 001] Foundations in English for Christian Students (3)
 This course introduces students to basic structures and vocabulary
 of the English language through the skills of reading, writing,
 speaking, and listening. Students learn strategies in order to
@@ -1022,7 +1009,7 @@ essays.
 ### [ENGL 102] Research and Literature for Christian Students (3)
 A writing course designed to teach the student how to plan,
 organize and write a research paper using MLA format.
-Prerequisite: [ENGL 101].
+Prerequisite: [ENGL 101]
 
 ### [ENGL 148] Advanced Grammar for Christian Students (3)
 An analysis of the English language according to traditional,
@@ -1034,21 +1021,20 @@ certification in English.
 ### [ENGL 252] Comparative Biblical, American and British Literature (3)
 A survey of literature designed to provide the student with
 opportunity to read, analyze, evaluate, compare and discuss the
-works of American, English, and biblical authors. Prerequisite:
-
-### [ENGL 102]
+works of American, English, and biblical authors.
+Prerequisite: [ENGL 102]
 
 ### [ENGL 320] John Milton and His Christian Epic (3)
 This course will briefly survey Milton’s life, times, and literary works.
 Then the course will be given over to a careful reading and study of
 his epic poem, Paradise Lost. The student’s grade will be based on
-completing the written assignments and a 10 page term paper.
+completing the written assignments and a 10-page term paper.
 
 ### [ENGL 330] Advanced Expository Writing for Christian Students (3)
 An advanced writing course designed to improve critical
 reading, thinking and writing skills. Description, reporting,
 explanation, process analysis and persuasion will be explored.
-Prerequisite: [ENGL 101].
+Prerequisite: [ENGL 101]
 
 ### [JOUR 250] Journalism for Christian Students (3)
 Basics of journalistic writing for various media (i.e. newspapers,
@@ -1056,7 +1042,14 @@ radio, and television), public relations, press releases, basic
 features and editorials, the importance of the audience for any
 written communications as well as the values of timeliness,
 objectivity, and fairness critical to any communication career.
-Prerequisite: [ENGL 101].
+Prerequisite: [ENGL 101]
+
+### [SLSS 011] Strategies for Christian Student Success (1)
+This course introduces strategies for effective study in the college 
+academic environment. Core concepts include goal setting, time 
+management, note-taking strategies, learning styles, and principles of 
+learning and memory.
+Required for all new college students and transfer students with <2.50 GPA.
 
 ## History
 
@@ -1075,17 +1068,13 @@ This is the study of the development of the United States from the
 Reconstruction to the present. Emphasis placed on the role of the
 United States in end time events.
 
-### [HIST 325] History of Christianity I: Early and Medieval Periods (3)
-The significant trends and events in the development of Christianity
-from the time of Christ to the Reformation, including a study of the
-church in relation to the Roman Empire, the influence of the church
-fathers, Christological controversies, and the rise of the papacy.
-
-### [HIST 326] History of Christianity II: The Reformation and Modern Periods (3)
-This course studies the church from pre-Reformation to the present
-time; its development in Europe and in America, including the main
-branches of Protestantism; their relation to the state; the Catholic
-counter reformation; and the evangelical movement.
+### [HIST 327] History of Christianity (3)
+This course will trace the most significant events in the development of
+Christianity from the time of Christ to the Reformation, including the influence
+of the church fathers, the rise of the papacy and on through to the present
+time. It will include the study of the main branches of Protestantism, their
+relation to the state; the Catholic counter reformation; and the evangelical
+movement.
 
 ### [HIST 404] Adventist Heritage and Mission (3)
 This course investigates the Seventh-day Adventist church history
@@ -1093,8 +1082,8 @@ with a preliminary review of the backgrounds and foundations of
 the Advent message from apostolic times. It concentrates on the
 church’s beginnings in America, |the 1844 |experience, development
 of the Seventh-day Adventist denomination worldwide, with special
-attention being given to the writings of Ellen G. White. Cross-listed
-as RELT 270.
+attention being given to the writings of Ellen G. White. 
+Cross-listed as RELT 270.
 
 ### [HIST 450] Direct Study Elective (1)
 A course emphasizing individual direct study. The instructor to
@@ -1108,6 +1097,12 @@ explores the development of political ideologies and influence
 groups.
 
 ## Mathematics
+
+### [MATH 053] Algebra Basics for Christian Students (3)
+This course covers all of the foundational ideas in algebra and 
+related topics in pre-algebra and geometry. 
+This course does not apply toward general education or graduation 
+requirements.
 
 ### [MATH 310] Probability and Statistics for Christian Students (4)
 This course includes the following concepts: descriptive statistics,
@@ -1134,32 +1129,35 @@ equations and equalities; polynomial, rational, exponential, and
 logarithmic functions; graphing functions; inverse functions;
 zeros of polynomial and rational functions with approximation
 techniques; solving systems of linear equations, linear inequalities,
-and non-linear equation; binomial theorem. Prerequisite:
-Intermediate Algebra, MATH 114, or an ACT math score |of 21 |or
-higher.
+and non-linear equation; binomial theorem. 
+Prerequisite: [MATH 053, MATH 114, 21 on ACT math score or Placement Exam]
 
 ### [MATH 125] Pre-Calculus for Christian Students (3)
 Relations, functions, transformations, inverse functions, systems
 of linear and quadratic equations, exponential, logarithmic, and
 circular functions. Credit for this course does not apply towards a
-major or minor in mathematics. Prerequisite. [MATH 120]
+major or minor in mathematics. 
+Prerequisite. [MATH 120]
 
-### [MATH 370] Calculus I for Christian Students (3)
+### [MATH 170] Calculus I for Christian Students (3)
 A study of functions of one variable, continuity, inequalities,
 differentiation, integration, exponential, logarithmic, and
 trigonometric functions.
+Prerequisite. [MATH 120]
 
-### [MATH 371] Calculus II for Christian Students (3)
+### [MATH 171] Calculus II for Christian Students (3)
 Precise definitions of limits, calculus of the trigonomic functions,
 further topics in differential and integral calculus, polar coordinates,
 analytic geometry, parametric equations, sequences,
-infinite series, Taylor series. Prerequisite: [MATH 170]
+infinite series, Taylor series. 
+Prerequisite: [MATH 170]
 
 ### [MATH 315] Differential Equations for Christian Students (3)
 Introduction to partial differentiation, dynamical systems, solutions
 of various types of ordinary differential equations, systems of
 linear differential equations, the Laplace transform, applications to
-problems in the physical sciences. Prerequisite: [MATH 171]
+problems in the physical sciences. 
+Prerequisite: [MATH 171]
 
 ### [MATH 318] Linear Algebra for Christian Students (3)
 Finite dimensional vector spaces and the attendant concepts
@@ -1236,7 +1234,7 @@ reading.
 
 ## Practical and Applied Arts
 
-### [agri 110, 111] Agricultural Arts for Christian Students (1,1)
+### [AGRI 110, 111] Agricultural Arts for Christian Students (1,1)
 This course will present basic needs of plants directed more toward
 vegetable and fruit gardens than on field crops. Other areas of
 agriculture will be presented so as to have the student aware of
