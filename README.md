@@ -25,6 +25,8 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
   1. Delete one of the two frames on the page
   2. Increase the width of the remaining column to the entire width of the page
   3. Add a hero image
+5. Save .indd file if desired
+6. Export .pdf file if desired
 
 ## Technologies
 
