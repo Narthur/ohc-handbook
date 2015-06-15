@@ -18,18 +18,10 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 ## Production
 
-### Content
-
-1. Run `bash compile_markdown.sh` within a local copy of the repository
-2. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `handbook.md` into InDesign template
-3. Run [adjustTableWidths](https://gist.github.com/Narthur/ab7ae5fcc6a723e8bf6f) userscript
-
-### Catalog
-
-1. Use [markdownID](http://www.jongware.com/markdownid.html) InDesign script to import `Course Catalog.md` into InDesign template
-2. Run [TablesToText](https://gist.github.com/Narthur/e7ce4da9083f96110197) userscript
-3. Run [removeDoubleTabs](https://gist.github.com/Narthur/fa5960ef8586b23030c2) userscript
-4. Convert department title pages to single-column pages
+1. Pull latest changes from GitHub
+2. Run `bash compile_markdown.sh` within a local copy of the repository
+3. Execute the [`md2id` InDesign userscript](https://github.com/OuachitaHillsMinistries/ohc-handbook-md2id)
+4. Convert course catalog department title pages to single-column pages
   1. Delete one of the two frames on the page
   2. Increase the width of the remaining column to the entire width of the page
   3. Add a hero image
