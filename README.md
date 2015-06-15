@@ -20,7 +20,7 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 1. Pull latest changes from GitHub
 2. Run `bash compile_markdown.sh` within a local copy of the repository
-3. Execute the [`md2id` InDesign userscript](https://github.com/OuachitaHillsMinistries/ohc-handbook-md2id)
+3. Execute the [md2id InDesign userscript](https://github.com/OuachitaHillsMinistries/ohc-handbook-md2id)
 4. Convert course catalog department title pages to single-column pages
   1. Delete one of the two frames on the page
   2. Increase the width of the remaining column to the entire width of the page
