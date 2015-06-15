@@ -1287,6 +1287,9 @@ Illustrator, Photoshop, InDesign, and Keynote/PowerPoint. Students
 must purchase some supplies.
 
 ### [HERB 200] Herbology for Christian Students (1)
+Insight into the use of natural herbs as preventatives and cures for various ailments, 
+from the common cold to serious disorders. Study about the preservation and preparation of
+herbs.
 
 ### [HLSC 120] First Aid and CPR for Christian Students (1)
 Gives individuals the knowledge and skills necessary to recognize
@@ -1304,6 +1307,8 @@ camera with manual capability. Students must purchase some
 supplies. 
 
 ### [MASG 225] Basic Massage for Christian Students (1)
+The students will study the basic concepts of Swedish massage and its healthful effects on
+the body. 
 
 ### [RELB 298] Colporteur Field Service II (3)
 An investigation into the skills of persuasion and making friends
@@ -1348,7 +1353,11 @@ In this class, students will learn how to safely operate woodworking
 tools, design, and create several projects.
 
 ### [TECH 270] Heating and A/C for Christian Students (1)
-
+Introduction to Heating and A/C is a semester course that will take the participant
+through an in-depth introduction to both the most common and the not-so-common heating and
+air conditioning processes. This course will look at the electrical components and the
+operation of the various systems. Various heating and air conditioning techniques that can
+be used in the mission field will also be looked into.
 
 
 
