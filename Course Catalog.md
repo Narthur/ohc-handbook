@@ -50,7 +50,7 @@ learning methods, as well as the provision of numerous opportunities to practice
 |---------|-------------------------------------------------|--------
 |HIST 325 |History of Christianity I                        |3
 |HIST 326 |History of Christianity II                       |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective      |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
@@ -146,7 +146,7 @@ Mathematics, Music, Social Studies
 |---------|-------------------------------------------------|--------
 |HIST 325 |History of Christianity I                        |3
 |HIST 326 |History of Christianity II                       |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective      |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
@@ -247,7 +247,7 @@ Mathematics, Music, Social Studies
 |HIST 325 |History of Christianity I or                     |3
 |HIST 326 |History of Christianity II                       |3
 |HIST 404 |Adventist Heritage and Mission                   |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective      |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||7 Hrs
@@ -337,7 +337,7 @@ communication skills.
 |---------|-------------------------------------------------|--------
 |HIST 325 |History of Christianity I                        |3
 |HIST 326 |History of Christianity II                       |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective      |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
@@ -452,7 +452,7 @@ environment.
 |---------|-------------------------------------------------|--------
 |HIST 325 |History of Christianity I                        |3
 |HIST 326 |History of Christianity II                       |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective      |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
@@ -558,7 +558,7 @@ Arkansas Public School System.
 |---------|-------------------------------------------------|--------
 |HIST 325 |History of Christianity I                        |3
 |HIST 326 |History of Christianity II                       |3
-|PSYC 105 |Intro to Psychology from a Christian Perspective |3
+|PSYC 105 |Intro to Psych from a Christian Perspective |3
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
