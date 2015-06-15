@@ -362,7 +362,7 @@ communication skills.
 |ENGL 252 |Comparative Literature for Christian Students |3
 |RELT 385 |Christian Ethics                              |2
 
-Practical / Applied Arts                                      ||7 Hrs
+|Practical / Applied Arts                                     ||7 Hrs
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
