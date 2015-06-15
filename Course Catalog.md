@@ -753,12 +753,13 @@ Arkansas Public School System.
 |RELT 250     |Principles of the Christian Faith               |3
 |RELT 270     |Adventist Heritage and Mission                  |3
 
-|Social Studies Minor                                                                       ||21  Hrs
+|Social Studies Minor / Emphasis                                                            ||21/24\* Hrs
 |-------------|------------------------------------------------------------------------------|-------------
 |GEOG 280     |Cultural Geography from a Christian Perspective                               |3
 |HIST 275     |US History I from a Christian Perspective                                     |3
 |HIST 276     |US History II from a Christian Perspective                                    |3
-|HIST 327     |History of Christianity I                                                     |3
+|HIST 325     |History of Christianity I                                                     |3
+|HIST 326     |History of Christianity II                                                    |3
 |HIST 404     |Adventist Heritage and Mission                                                |3
 |PLST 250     |American Government from a Christian Perspective                              |3
 |\*\*HIST 450 |Direct Study Elective                                                         |1
