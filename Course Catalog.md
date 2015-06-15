@@ -497,8 +497,6 @@ Practical / Applied Arts                                      ||7 Hrs
 |TECH 250     |Auto Mechanics for Christian Students           |1
 |TECH 260     |Woodworking for Christian Students              |1
 |TECH 270     |Heating and A/C for Christian Students          |1
-\*Required Course
-†Passing challenge exam fulfills this requirement 
 
 |Total |82 hours
 |------|--------
@@ -537,6 +535,9 @@ secondary schools. Completion of this program does not meet
 eligibility requirements for teacher certification in the State of
 Arkansas Public School System.
 
+†Passing challenge exam fulfills this requirement 
+
+\*Required Course
 
 # Bachelor in Elementary Christian Education\*\*
 
@@ -585,7 +586,7 @@ Arkansas Public School System.
 |ENGL 252 |Comparative Literature for Christian Students |3
 |RELT 385 |Christian Ethics                              |2
 
-Practical / Applied Arts                                      ||7 Hrs
+|Practical / Applied Arts                                     ||7 Hrs
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
@@ -603,8 +604,6 @@ Practical / Applied Arts                                      ||7 Hrs
 |TECH 250     |Auto Mechanics for Christian Students           |1
 |TECH 260     |Woodworking for Christian Students              |1
 |TECH 270     |Heating and A/C for Christian Students          |1
-\*Required Course
-†Passing challenge exam fulfills this requirement
 
 |Total |82 Hours
 |------|--------
@@ -645,6 +644,9 @@ secondary schools. Completion of this program does not meet
 eligibility requirements for teacher certification in the State of
 Arkansas Public School System.
 
+†Passing challenge exam fulfills this requirement
+
+\*Required Course
 
 # Minors / Emphases
 
