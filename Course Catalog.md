@@ -469,7 +469,7 @@ environment.
 |BIOL 311  |A Scientific Study of Creation for Christian Students       |2
 |†CPTR 107 |Intro to Computers for Christian Professionals              |3
 |MATH 113  |Personal Finance for Christian Students                     |1
-|MATH 114  |Survey of Mathematics for Christian Students                |3
+|MATH 114  |Survey of Math for Christian Students                       |3
 |MATH 120  |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
@@ -575,7 +575,7 @@ Arkansas Public School System.
 |BIOL 311  |A Scientific Study of Creation for Christian Students       |2
 |†CPTR 107 |Intro to Computers for Christian Professionals              |3
 |MATH 113  |Personal Finance for Christian Students                     |1
-|MATH 114  |Survey of Mathematics for Christian Students                |3
+|MATH 114  |Survey of Math for Christian Students                       |3
 |MATH 120  |College Algebra for Christian Students                      |4
 
 |Humanities                                             ||11 Hrs
