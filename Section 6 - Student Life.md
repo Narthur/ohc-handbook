@@ -202,7 +202,7 @@ Times for general meetings/worships:
 |Vespers         |7:00 p.m. Friday
 |College Meeting |10:50 a.m. Sunday
 
-Any other meetings will be announced with their times
+Any other meetings will be announced with their times.
 
 ## Internal Discipline Policy
 
