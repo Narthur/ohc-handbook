@@ -25,6 +25,7 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
   1. Delete one of the two frames on the page
   2. Increase the width of the remaining column to the entire width of the page
   3. Add a hero image
+4. Add title pages for Majors, Minors/Emphases, and Course Descriptions using `C-TitlePage` master
 5. Save out .indd & .pdf files
 
 ## Technologies
