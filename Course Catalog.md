@@ -1597,13 +1597,13 @@ Prerequisite: [BIOL 151,152]
 
 ## Sciences - Chemistry
 
-### [chem 101,102] General Chemistry I, II for Christian Students (4,4)
+### [CHEM 101,102] General Chemistry I, II for Christian Students (4,4)
 Topics include stoichiometry, atomic and molecular structure,
 bonding, states of matter, solutions, chemical kinetics, chemical
 equilibrium, thermodynamics, acid and base chemistry, descriptive
 and nuclear chemistry. Includes labs. Prerequisite: [MATH 120].
 
-### [chem 311, 312] Organic Chemistry I, II for Christian Students (4,4)
+### [CHEM 311, 312] Organic Chemistry I, II for Christian Students (4,4)
 Class explains the chemistry of carbon-containing compounds with
 emphasis on nomenclature, molecular structure, spectra-structure
 relationships, and a mechanistic approach to organic reactions.
@@ -1618,7 +1618,7 @@ Prerequisite: [CHEM 102, BIOL 152]
 
 ## Sciences - Physics
 
-### [phys 101,102] General Physics I, II for Christian Students (4,4)
+### [PHYS 101,102] General Physics I, II for Christian Students (4,4)
 The algebraic and trigonometric treatment of mechanics, heat,
 sound, light, electricity, and magnetism, and “modern physics”.
 Includes labs. Prerequisite: [MATH 120].
