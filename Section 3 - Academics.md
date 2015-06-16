@@ -9,7 +9,7 @@ Students pursuing a degree at OHC should complete 30-33 semester hours per year 
 
 It is recommended that ESL students take a lighter course load in their first semester at OHC in order to help them adjust to the language differences.
 
-The Admissions Committee may require students to take Foundations of English and/or Foundations of Math classes.
+The Admissions Committee may require students to take Foundations of English and/or Algebra Basics.
 
 ## Transfer Credit
 
@@ -56,7 +56,7 @@ OHC uses the semester system. Grade points are awarded for each class that has b
 
 ## Incomplete Grades
 
-An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an F if the class work is not finished in the prescribed time.
+An incomplete grade, recorded as an “I”, indicates the student was unable to complete class work because of illness or other unavoidable circumstances. Grades of “I” are not given because the class work was unsatisfactory or because the student simply neglected to complete scheduled assignments. When an “I” is received, the work necessary to complete the class must be finished by the date specified on the academic calendar. If the makeup work is of such a nature that additional time is required, the student must seek approval of the instructor and request permission from the Academic Affairs Committee (forms for this request may be obtained in the Registrar’s Office). An incomplete grade will become an "F" if the class work is not finished in the prescribed time.
 
 ## Grade Requirements
 
@@ -99,7 +99,7 @@ Students who feel they have been treated unfairly in regard to their academic pr
 
 Using the work of another student or allowing one’s work to be used by another student jeopardizes not only the teacher-student relationship but also the academic standing of the students involved. Lessons may be discussed with other students; tutors may help to guide a student’s work; and textbooks, encyclopedias, and other resource materials may be used for additional assistance; but the actual response must be the student’s own work.
 
-Exams must be completed in the presence of an approved supervisor without the assistance of books, notes, devices, or outward help unless otherwise specified in the exam directions. The student should have no access to the exam either before or after it is taken. A student who gives information to another student to be used in a dishonest way is equally guilty of dishonesty. Any violation of this policy will be taken before the OHC Academic Affairs Committee for appropriate punitive action.
+Exams must be completed in the presence of an approved supervisor without the assistance of books, notes, devices, or outward help unless otherwise specified in the exam directions. The student should have no access to the exam either before or after it is taken. A student who gives information to another student to be used in a dishonest way is equally guilty of dishonesty. Any violation of this policy will be taken before the OHC Disciplinary Committee for appropriate punitive action.
 
 ## Class Schedule
 
@@ -124,7 +124,7 @@ Students are required to meet with their academic advisors during registration. 
 
 To add or drop a course, students must complete the Change of Registration form available in the library and submit it to the Registrar's Office. The signed form will become effective on the date it is returned to the registrar.
 
-In order for a withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date.) Grades for unofficial course withdrawals will be recorded as an F on the academic transcript.
+In order for a withdrawal to be official this process must be completed by the last published date allowing withdrawal from a class. (Refer to the academic calendar for this date.) Grades for unofficial course withdrawals will be recorded as an "F" on the academic transcript.
 
 There are two withdrawal deadlines on the academic calendar:
 
@@ -145,7 +145,7 @@ In some instances, a student may want to audit a course. If space is available, 
 
 Where a course has enrollment limits, students taking the course for credit will be given priority. Auditing students must understand the instructor is under no obligation to evaluate their work and/or performance. Audits may be recorded on transcripts. Proficiency exams may not be taken after a course is audited.
 
-Some courses, included all vocational classes, may only be audited at the full tuition rate.
+Some courses, including all vocational classes, may only be audited at the full tuition rate.
 
 ## Study Load
 
@@ -172,7 +172,7 @@ An OHC student who wishes to pursue two bachelor’s degrees concurrently must (
 
 In order to complete the semester, each student must take final examinations as scheduled.
 
-It is the student’s responsibility to arrange travel in a manner that will not interfere with the examination schedule. Requests for modification for a student’s final examination schedule, because of unforeseen emergencies, must be arranged through the Academic Affairs Committee. A form may be obtained from the Registrar’s Office.
+It is the student’s responsibility to arrange travel in a manner that will not interfere with the examination schedule. Requests for modification of a student’s final examination schedule, because of unforeseen emergencies, must be arranged through the Academic Affairs Committee. A form may be obtained from the Registrar’s Office.
 
 ## Graduation Contract
 
