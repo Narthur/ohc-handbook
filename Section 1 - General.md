@@ -44,9 +44,6 @@ Our college has been given a focus. “Success in any line demands a definite ai
 ## Operating Principles
 Ouachita Hills College is operated by members of the Seventh-day Adventist Church. We accept the entire Bible as divinely inspired. We also believe in one God and accept Jesus Christ as the Savior of humankind. We honor the seventh-day Sabbath and await Christ’s second return.
 
-## Description of Our Campus
-Ouachita Hills College, operated by Ouachita Ministries, Inc. (a supporting ministry of the Seventh-day Adventist Church), is located on 421 acres on the outskirts of Amity, Arkansas. Ouachita Hills Academy also shares the campus. An orchard, a vineyard, and a large garden beautify the grounds in the spring. The grounds are graced with several ponds, the Antoine River, greenhouses, cabinet shop, auto shop, and other structures related to the practical arts. A complete picture of the beauty of our home can only be gained by making a personal visit. All are welcome.
-
 ## Degrees Offered\*
 The following degrees may be earned through Ouachita Hills College:
 
@@ -60,3 +57,6 @@ The following degrees may be earned through Ouachita Hills College:
 \* Ouachita Hills College has received a Letter of Exemption from Certification issued by the Arkansas Department of Higher Education to offer non-academic or church-related courses and grant non-academic awards or church-related degrees.
 
 ** Completion of this program does not meet eligibility requirements for teacher certification in the State of Arkansas Public School System.
+
+## Description of Our Campus
+Ouachita Hills College, operated by Ouachita Ministries, Inc. (a supporting ministry of the Seventh-day Adventist Church), is located on 421 acres on the outskirts of Amity, Arkansas. Ouachita Hills Academy also shares the campus. An orchard, a vineyard, and a large garden beautify the grounds in the spring. The grounds are graced with several ponds, the Antoine River, greenhouses, cabinet shop, auto shop, and other structures related to the practical arts. A complete picture of the beauty of our home can only be gained by making a personal visit. All are welcome.
