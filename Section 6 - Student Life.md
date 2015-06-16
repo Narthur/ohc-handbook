@@ -237,7 +237,7 @@ A religious meeting in this policy means:
 
 The purpose of the Student Council is to provide a venue for students to give recommendations for improvements or opportunities for service.
 
-The Student Council is made of a total of nine students—one representative from each of the five degree programs offered as well as one representative from each class. The Council meets at least once a month to discuss any improvements that might be made to the campus or programs and new opportunities for service. The Council is accountable to two staff members in case of any questions. Staff members will evaluate all recommendations and choose council members. Council members are expected to show godly leadership skills and a mission-oriented mindset, to be in good standing with classroom responsibilities (including homework completion), and to be punctual for all events.
+The Student Council comprises a total of nine students—one representative from each of the five degree programs offered as well as one representative from each class. The Council meets at least once a month to discuss any improvements that might be made to the campus or programs and new opportunities for service. The Council is accountable to two staff members in case of any questions. Staff members will evaluate all recommendations and choose council members. Council members are expected to show godly leadership skills and a mission-oriented mindset, to be in good standing with classroom responsibilities (including homework completion), and to be punctual for all events.
 
 ## Disciplinary Procedures
 
