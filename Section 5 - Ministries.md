@@ -40,7 +40,7 @@ Students are assigned to local churches based on talents, church needs, skills, 
 
 ## Prison Ministries
 
-The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern have started visiting the prisoners there every Sabbath and invite OHC students to be a part of this special ministry. 
+The Ouachita River Correctional Institution is located about an hour’s drive from the campus and a few minutes from the Malvern SDA Church. Several church members at Malvern visit the prisoners there every Sabbath and invite OHC students to be a part of this special ministry. 
 
 To participate in the prison ministry team, a student must:
 
