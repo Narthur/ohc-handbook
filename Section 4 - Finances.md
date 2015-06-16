@@ -43,7 +43,7 @@ In order to be eligible for the Bible-Work Scholarship Program, the following re
 
 * The student must work in an OHC-approved Bible-work position during the summer (10 weeks) and winter (3 weeks) breaks.
 * Payment of all earnings from the OHC-approved Bible-work position must be paid directly to OHC.
-* The student must have been enrolled at OHC for at least one year prior to applying for this scholarship
+* The student must have been enrolled at OHC for at least one year prior to applying for this scholarship.
 
 If the student is found to be eligible for the Bible-Work Scholarship Program, their earnings will be matched dollar for dollar up to $1,000 per semester. The student will receive money for food, tithe, and offerings from the scholarship funds paid to OHC.
 
@@ -55,8 +55,8 @@ OHC will credit a student's account $500 for every additional student recruited 
 
 For other evangelism ministries (such as Messiah’s Mansion) OHC will match 25% of approved program earnings up to a maximum of $500 per semester. This will be applied to the student’s account if the following requirements are met:
 
-* All earnings from the ministry are paid directly to OHC 
-* The student takes part in the OHC canvassing programs during the school year
+* All earnings from the ministry are paid directly to OHC.
+* The student takes part in the OHC canvassing programs during the school year.
 
 ## Student Financial Responsibility
 
@@ -83,4 +83,4 @@ Tuition refunds are subject to the following schedule:
 
 ## Transcript Requests
 
-Students requesting a transcript should send a written request (via email to registrar@ohc.org, or mail to Registrar, PO Box 170, Amity, AR 71921). First transcript will cost $5.00; all subsequent transcripts are free. Transcripts are not available to students with unpaid accounts.
+Students requesting a transcript should send a written request (via email to registrar@ohc.org, or mail to Registrar, PO Box 170, Amity, AR 71921). First transcript is free; all subsequent transcripts will cost $5.00 each. Transcripts are not available to students with unpaid accounts.
