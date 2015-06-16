@@ -458,7 +458,7 @@ environment.
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
-|-----------|--------------------------------------------------------|--------
+|---------|----------------------------------------------------------|--------
 |CMME 105 |Introduction to Oral Communication for Christian Students |3
 |ENGL 101 |Composition for Christian Students                        |3
 |ENGL 102 |Research and Literature for Christian Students            |3
@@ -481,7 +481,7 @@ environment.
 |ENGL 252 |Comparative Literature for Christian Students |3
 |RELT 385 |Christian Ethics                              |2
 
-Practical / Applied Arts                                      ||7 Hrs
+|Practical / Applied Arts                                     ||7 Hrs
 |-------------|------------------------------------------------|-------
 |\*AGRI 110,1 |Agricultural Arts for Christian Students (I,II) |1,1
 |APTX 110     |Clothing Construction for Christian Students    |1
