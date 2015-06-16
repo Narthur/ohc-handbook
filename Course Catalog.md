@@ -100,7 +100,7 @@ learning methods, as well as the provision of numerous opportunities to practice
 
 ## Core requirements
 
-|Religion                                            ||27 Hrs
+|Religion                                            ||30 Hrs
 |---------|-------------------------------------------|--------
 |RELB 307 |Intro to Old Testament or                  |3
 |RELB 310 |Hebrew Prophets                            |3
@@ -109,8 +109,10 @@ learning methods, as well as the provision of numerous opportunities to practice
 |RELB 345 |Intro to New Testament                     |3
 |RELB 420 |Daniel                                     |3
 |RELB 425 |Revelation                                 |3
+|RELT 255 |Church Leadership and Management           |3
 |RELT 290 |Introduction to Pastoral Counseling        |3
-|RELT 335 |Pauline Theology                           |3
+|RELT 335 |Pauline Theology or                        |3
+|RELB 403 |Acts & General Epistles                    |3
 
 ## Choose One Area of Emphasis or Two Minors:
 
@@ -123,7 +125,7 @@ learning methods, as well as the provision of numerous opportunities to practice
 Biology, Business, Chemistry, Education, English, General Science,
 Mathematics, Music, Social Studies
 
-|Total |126-151 hours
+|Total |129-154 hours
 |------|-------------
 
 
@@ -692,7 +694,7 @@ Arkansas Public School System.
 |EDUC 244 |Intro to Teaching in the Christian School                      |3
 |EDUC 313 |Methods in Teaching Secondary Bible for Christian Schools      |2
 |EDUC 320 |Integrating Technology in the Curriculum for Christian Schools |2
-|EDUC 323 |Teaching in the Christian Secondary Classroom                  |3
+|EDUC 323 |Teaching in the Christian Sec. Classroom                       |3
 |EDUC 324 |Developmental & Educational Christian Psychology               |3
 |EDUC 330 |Senior Project                                                 |1
 |EDUC 353 |Methods in Teaching Secondary Reading for Christian Schools    |2
@@ -701,8 +703,8 @@ Arkansas Public School System.
 
 |English Minor / Emphasis                                                            ||18/24\* Hrs
 |-------------|-----------------------------------------------------------------------|-------------
-|CMME 105     |Introduction to Oral Communication for Christian Students              |3
-|ENGL 102     |Research and Literature for Christian Students                         |3
+|CMME 105     |Introduction to Human Communication for Christian Students             |3
+|ENGL 102     |Research and Lit. for Christian Students                               |3
 |ENGL 148     |Advanced Grammar for Christian Students                                |3
 |ENGL 252     |Comparative Literature for Christian Students                          |3
 |ENGL 330     |Advanced Expository Writing for Christian Students                     |3
@@ -724,7 +726,7 @@ Arkansas Public School System.
 
 |Mathematics Minor / Emphasis                                   ||23/26\* Hrs
 |-------------|--------------------------------------------------|-------------
-|MATH 310     |Probability and Statistics for Christian Students |4
+|MATH 310     |Prob. and Statistics for Christian Students       |4
 |MATH 120     |College Algebra for Christian Students            |4
 |MATH 170     |Calculus I for Christian Students                 |4
 |MATH 171     |Calculus II for Christian Students                |4
@@ -741,7 +743,7 @@ Arkansas Public School System.
 |MUSC 230 |Private Instrumental or Vocal Lessons for Christian Musicians |1-2
 |MUSC 231 |Choir or Orchestra for Christian Musicians                    |1-2
 |MUSC 325 |Basic Conducting for Christian Musicians                      |1
-|MUSC 326 |Instrumental Conducting for Christian Musicians               |1
+|MUSC 326 |Instr. Conducting for Christian Musicians                     |1
 |MUSC 327 |Choral Conducting for Christian Musicians                     |1
 
 |Religion Minor / Emphasis                                    ||21/24\* Hrs
@@ -1154,13 +1156,13 @@ circular functions. Credit for this course does not apply towards a
 major or minor in mathematics. 
 Prerequisite. [MATH 120]
 
-### [MATH 170] Calculus I for Christian Students (3)
+### [MATH 170] Calculus I for Christian Students (4)
 A study of functions of one variable, continuity, inequalities,
 differentiation, integration, exponential, logarithmic, and
 trigonometric functions.
 Prerequisite. [MATH 120]
 
-### [MATH 171] Calculus II for Christian Students (3)
+### [MATH 171] Calculus II for Christian Students (4)
 Precise definitions of limits, calculus of the trigonomic functions,
 further topics in differential and integral calculus, polar coordinates,
 analytic geometry, parametric equations, sequences,
@@ -1309,8 +1311,13 @@ camera with manual capability. Students must purchase some
 supplies. 
 
 ### [MASG 225] Basic Massage for Christian Students (1)
-The students will study the basic concepts of Swedish massage and its healthful effects on
-the body. 
+The students will study the basic concepts of Swedish massage and 
+its healthful effects on the body. 
+
+### [PELF 210] Fitness for Life for Christian Students (1)
+This course challenges the individual to pursue personal health 
+and fitness goals by defining and engaging in healthy behaviors
+and applying principles of nutrition. 
 
 ### [RELB 298] Colporteur Field Service II (3)
 An investigation into the skills of persuasion and making friends
@@ -1360,8 +1367,6 @@ through an in-depth introduction to both the most common and the not-so-common h
 air conditioning processes. This course will look at the electrical components and the
 operation of the various systems. Various heating and air conditioning techniques that can
 be used in the mission field will also be looked into.
-
-
 
 ## Psychology and Sociology
 
@@ -1457,7 +1462,7 @@ Special emphasis is placed on end-time eschatology and the role
 of the Seventh-day Adventist Church.
 
 ### [RELB 425] Revelation (3)
-An in depth study of the prophetic book of Revelation. Special
+An in-depth study of the prophetic book of Revelation. Special
 emphasis is placed on end-time eschatology and the role of the
 Seventh-day Adventist Church.
 
@@ -1478,12 +1483,12 @@ Adventist. Also involves committing Scripture texts to memory as an
 aid in evangelism.
 
 ### [RELT 255] Church Leadership and Management (3)
-Practical everyday tools and skills taught for the church pastor.
-Pointers on fiscal management, ethic, organization of duties
+Practical everyday tools and skills taught for the church leader.
+Included are pointers on fiscal management, ethics, organization of duties
 and delegations, use of volunteers, leadership in committees
 and church-related boards, public relations and advertising,
 and developing and using lay leaders for long-term continuity of
-mission stability included.
+mission stability.
 
 ### [RELT 270] Adventist Heritage and Mission (3)
 This course investigates the Seventh-day Adventist church history
@@ -1491,8 +1496,8 @@ with a preliminary review of the backgrounds and foundations of
 the Advent message from apostolic times. It concentrates on the
 church’s beginnings in America, |the 1844 |experience, development
 of the Seventh-day Adventist denomination worldwide, with special
-attention being given to the writings of Ellen G. White. Cross-listed
-as HIST 404.
+attention being given to the writings of Ellen G. White. 
+Cross-listed as HIST 404.
 
 ### [RELT 285] Biblical Theology and the Sanctuary (3)
 The earthly sanctuary was a daily enactment of the plan of
@@ -1555,7 +1560,7 @@ semester. Includes weekly lab.
 ### [BIOL 105] General Botany for Christian Students (4)
 The study of plants using general principles of biology. Opportunity
 is given to draw personal and spiritual object lessons. Includes
-labs.
+weekly lab.
 
 ### [BIOL 140] The Human Body in Health and Disease for Christian Students (4)
 A study of the structure, function, health and diseases of the
@@ -1570,7 +1575,7 @@ remedies for treating diseases. Includes weekly lab.
 ### [BIOL 151,152] General Biology I, II for Christian Students (4,4)
 Study covers general concepts in genetics, taxonomy, behavior,
 ecology, morphology, and physiology of organisms. It includes units
-contrasting creationistic and evolutionistic theories. Includes lab.
+contrasting creationistic and evolutionistic theories. Includes weekly lab.
 
 ### [BIOL 311] A Scientific Study of Creation for Christian Students (2)
 Class studies the evidences supporting a creation origin of the
@@ -1603,19 +1608,21 @@ Prerequisite: [BIOL 151,152]
 Topics include stoichiometry, atomic and molecular structure,
 bonding, states of matter, solutions, chemical kinetics, chemical
 equilibrium, thermodynamics, acid and base chemistry, descriptive
-and nuclear chemistry. Includes labs. Prerequisite: [MATH 120].
+and nuclear chemistry. Includes weekly lab. 
+Prerequisite: [MATH 120].
 
 ### [CHEM 311, 312] Organic Chemistry I, II for Christian Students (4,4)
 Class explains the chemistry of carbon-containing compounds with
 emphasis on nomenclature, molecular structure, spectra-structure
 relationships, and a mechanistic approach to organic reactions.
-Includes labs. Prerequisite: [CHEM 102}
+Includes weekly lab. 
+Prerequisite: [CHEM 102}
 
 ### [CHEM 350] Biochemistry for Christian Students (4)
 Study of the fundamental principles of enzyme kinetics and
 mechanism based on the structure and chemistry of bimolecular
 including amino acids, carbohydrates, lipids, proteins, nucleotides,
-nucleic acids, and biological membranes. Includes labs.
+nucleic acids, and biological membranes. Includes weekly lab.
 Prerequisite: [CHEM 102, BIOL 152]
 
 ## Sciences - Physics
@@ -1623,4 +1630,5 @@ Prerequisite: [CHEM 102, BIOL 152]
 ### [PHYS 101,102] General Physics I, II for Christian Students (4,4)
 The algebraic and trigonometric treatment of mechanics, heat,
 sound, light, electricity, and magnetism, and “modern physics”.
-Includes labs. Prerequisite: [MATH 120].
+Includes weekly lab. 
+Prerequisite: [MATH 120].
