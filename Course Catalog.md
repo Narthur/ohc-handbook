@@ -395,7 +395,7 @@ communication skills.
 |ACCT 212 |Principles of Accounting II for Christian Business Professionals      |3
 |BUAD 300 |Small Business Management for Christian Business Professionals        |3
 |BUAD 375 |Business Law and Christian Ethics                                     |3
-|CPTR 210 |Computer Applications for Christian Businesses                        |3
+|CPTR 210 |Comp Applications for Christian Businesses                            |3
 |ECON 265 |Principles of Economics I Macro for Christian Business Professionals  |3
 |ECON 266 |Principles of Economics II Micro for Christian Business Professionals |3
 |FNCE 290 |Christian Business Finance                                            |3
@@ -405,7 +405,7 @@ communication skills.
 
 |Cognates                                                   ||7 Hrs
 |---------|--------------------------------------------------|--------
-|MATH 310 |Probability and Statistics for Christian Students |4
+|MATH 310 |Prob and Statistics for Christian Students        |4
 |RELT 255 |Church Leadership and Management                  |3
 
 |Electives (Upper Division) |3 Hours
@@ -565,10 +565,10 @@ Arkansas Public School System.
 |SOCI 212 |Sociology, the Family and the Adventist Home     |3
 
 |English / Communication                                            ||13 Hrs
-|-----------|--------------------------------------------------------|--------
+|---------|----------------------------------------------------------|--------
 |CMME 105 |Introduction to Oral Communication for Christian Students |3
 |ENGL 101 |Composition for Christian Students                        |3
-|ENGL 102 |Research and Literature for Christian Students            |3
+|ENGL 102 |Research and Lit for Christian Students                   |3
 |ENGL 330 |Advanced Expository Writing for Christian Students        |3
 |SLSS 011 |Strategies for Christian Student Success                  |1
 
@@ -694,7 +694,7 @@ Arkansas Public School System.
 |EDUC 244 |Intro to Teaching in the Christian School                      |3
 |EDUC 313 |Methods in Teaching Secondary Bible for Christian Schools      |2
 |EDUC 320 |Integrating Technology in the Curriculum for Christian Schools |2
-|EDUC 323 |Teaching in the Christian Sec. Classroom                       |3
+|EDUC 323 |Teaching in the Christian Sec Classroom                       |3
 |EDUC 324 |Developmental & Educational Christian Psychology               |3
 |EDUC 330 |Senior Project                                                 |1
 |EDUC 353 |Methods in Teaching Secondary Reading for Christian Schools    |2
@@ -704,7 +704,7 @@ Arkansas Public School System.
 |English Minor / Emphasis                                                            ||18/24\* Hrs
 |-------------|-----------------------------------------------------------------------|-------------
 |CMME 105     |Introduction to Human Communication for Christian Students             |3
-|ENGL 102     |Research and Lit. for Christian Students                               |3
+|ENGL 102     |Research and Lit for Christian Students                               |3
 |ENGL 148     |Advanced Grammar for Christian Students                                |3
 |ENGL 252     |Comparative Literature for Christian Students                          |3
 |ENGL 330     |Advanced Expository Writing for Christian Students                     |3
@@ -726,7 +726,7 @@ Arkansas Public School System.
 
 |Mathematics Minor / Emphasis                                   ||23/26\* Hrs
 |-------------|--------------------------------------------------|-------------
-|MATH 310     |Prob. and Statistics for Christian Students       |4
+|MATH 310     |Prob and Statistics for Christian Students       |4
 |MATH 120     |College Algebra for Christian Students            |4
 |MATH 170     |Calculus I for Christian Students                 |4
 |MATH 171     |Calculus II for Christian Students                |4
@@ -743,11 +743,11 @@ Arkansas Public School System.
 |MUSC 230 |Private Instrumental or Vocal Lessons for Christian Musicians |1-2
 |MUSC 231 |Choir or Orchestra for Christian Musicians                    |1-2
 |MUSC 325 |Basic Conducting for Christian Musicians                      |1
-|MUSC 326 |Instr. Conducting for Christian Musicians                     |1
+|MUSC 326 |Instr Conducting for Christian Musicians                      |1
 |MUSC 327 |Choral Conducting for Christian Musicians                     |1
 
 |Religion Minor / Emphasis                                    ||21/24\* Hrs
-|---------|------------------------------------------------    |-------------
+|-------------|------------------------------------------------|-------------
 |RELB 160     |Jesus and the Gospels                           |3
 |RELB 307     |Intro to the Old Testament                      |3
 |\*\*RELB 344 |Bible Study & Hermeneutics                      |3
@@ -831,7 +831,9 @@ biblical ethics and principles of financial analysis, estimation funds
 requirements, short and long-term loan arrangements, capital
 structure planning, and securities issues. Emphasis will also be
 placed on the management of finances in supporting ministry
-organizations of the Seventh-day Adventist Church. Prerequisite: [ACCT212]
+organizations of the Seventh-day Adventist Church. 
+
+Prerequisite: [ACCT212]
 
 ### [MGMT 333] Christian Personnel Management (3)
 This course incorporates the Christian principles, methods, and
@@ -928,7 +930,9 @@ This course is designed to empower teachers to integrate modern
 technology in teaching areas. It includes the development and
 presentation of lesson plans utilizing multimedia materials,
 exploration of internet resources, and web and home page
-development. Prerequisite: [CPTR 107]
+development. 
+
+Prerequisite: [CPTR 107]
 
 ### [EDUC 322] Multi-Grade Classroom Techniques for Christian Schools (2)
 This class focuses on techniques and management strategies to
@@ -954,14 +958,19 @@ Project assigned by chair of Education Department.
 ### [EDUC 332] Directed Teaching in the Christian Elementary Classroom (10)
 This course requires student teaching in an approved Christian
 elementary school in a multi-graded classroom for a full semester.
+
 Prerequisite: All core education courses must be completed.
+
 Prerequisite: [Satisfactory evaluation of readiness].
 
 ### [EDUC 334] Directed Teaching in the Christian Secondary Classroom (10)
 This class requires students teaching for a full semester in an
 approved Christian secondary school setting under the supervision
-of approved teachers. Prerequisite: All core education courses must
-be completed. Prerequisite: [Satisfactory evaluation of readiness].
+of approved teachers.
+
+Prerequisite: All core education courses must be completed.
+
+Prerequisite: [Satisfactory evaluation of readiness].
 
 ### [EDUC 342] Methods in Teaching Elementary Health and P.E. for Christian Schools (2)
 This course focuses on theory, techniques and management
@@ -1022,6 +1031,7 @@ essays.
 ### [ENGL 102] Research and Literature for Christian Students (3)
 A writing course designed to teach the student how to plan,
 organize and write a research paper using MLA format.
+
 Prerequisite: [ENGL 101]
 
 ### [ENGL 148] Advanced Grammar for Christian Students (3)
@@ -1035,6 +1045,7 @@ certification in English.
 A survey of literature designed to provide the student with
 opportunity to read, analyze, evaluate, compare and discuss the
 works of American, English, and biblical authors.
+
 Prerequisite: [ENGL 102]
 
 ### [ENGL 320] John Milton and His Christian Epic (3)
@@ -1047,6 +1058,7 @@ completing the written assignments and a 10-page term paper.
 An advanced writing course designed to improve critical
 reading, thinking and writing skills. Description, reporting,
 explanation, process analysis and persuasion will be explored.
+
 Prerequisite: [ENGL 101]
 
 ### [JOUR 250] Journalism for Christian Students (3)
@@ -1055,6 +1067,7 @@ radio, and television), public relations, press releases, basic
 features and editorials, the importance of the audience for any
 written communications as well as the values of timeliness,
 objectivity, and fairness critical to any communication career.
+
 Prerequisite: [ENGL 101]
 
 ### [SLSS 011] Strategies for Christian Student Success (1)
@@ -1147,45 +1160,52 @@ logarithmic functions; graphing functions; inverse functions;
 zeros of polynomial and rational functions with approximation
 techniques; solving systems of linear equations, linear inequalities,
 and non-linear equation; binomial theorem. 
+
 Prerequisite: [MATH 053, MATH 114, 21 on ACT math score or Placement Exam]
 
 ### [MATH 125] Pre-Calculus for Christian Students (3)
 Relations, functions, transformations, inverse functions, systems
 of linear and quadratic equations, exponential, logarithmic, and
 circular functions. Credit for this course does not apply towards a
-major or minor in mathematics. 
+major or minor in mathematics.
+
 Prerequisite. [MATH 120]
 
 ### [MATH 170] Calculus I for Christian Students (4)
 A study of functions of one variable, continuity, inequalities,
 differentiation, integration, exponential, logarithmic, and
 trigonometric functions.
+
 Prerequisite. [MATH 120]
 
 ### [MATH 171] Calculus II for Christian Students (4)
 Precise definitions of limits, calculus of the trigonomic functions,
 further topics in differential and integral calculus, polar coordinates,
 analytic geometry, parametric equations, sequences,
-infinite series, Taylor series. 
+infinite series, Taylor series.
+
 Prerequisite: [MATH 170]
 
 ### [MATH 315] Differential Equations for Christian Students (3)
 Introduction to partial differentiation, dynamical systems, solutions
 of various types of ordinary differential equations, systems of
 linear differential equations, the Laplace transform, applications to
-problems in the physical sciences. 
+problems in the physical sciences.
+
 Prerequisite: [MATH 171]
 
 ### [MATH 318] Linear Algebra for Christian Students (3)
 Finite dimensional vector spaces and the attendant concepts
 of systems of linear equations, linear transformations, matrices,
 determinants, eigenvalues and eigenvectors, inner product spaces.
+
 Prerequisite: [MATH 170]
 
 ### [MATH 415] Geometry for Christian Students (3)
 This course teaches the basic theory in the foundations of
 geometry. Metric and non-metric properties of Euclidean, non-
 Euclidean, and projective geometries. Applications of geometry.
+
 Prerequisite: [MATH 170]
 
 ## Music
@@ -1435,6 +1455,7 @@ contemporary world.
 Supervised field work under an experienced minister as
 coordinated by the department. The field work is designed to
 give practical experience in a wide variety of pastoral situations.
+
 Prerequisite: [Satisfactory evaluation of readiness].
 
 ### [RELB 330] Public Evangelism (3)
@@ -1587,11 +1608,13 @@ their application in a number of fields of study, including medicine,
 population genetics, development and biotechnology. Core concepts include 
 genetic inheritance, the structure of genes and regulatory elements, and 
 control of gene expression. Includes weekly lab.
+
 Prerequisite: [BIOL 151,152]
 
 ### [BIOL 340] Microbiology for Christian Students (4)
 This is a study of microorganisms with emphasis on those of
 medical, industrial and environmental importance. Includes labs.
+
 Prerequisite: [BIOL 151,152]
 
 ### [BIOL 348] Developmental Biology for Christian Students (3)
@@ -1600,6 +1623,7 @@ cell is a delicate process that was shrouded in mystery until nearly the
 20th century. Major advances in the fields of embryology and genetics 
 have brought us close to understanding the intricate steps involved in 
 shaping a new life.
+
 Prerequisite: [BIOL 151,152]
 
 ## Sciences - Chemistry
@@ -1609,6 +1633,7 @@ Topics include stoichiometry, atomic and molecular structure,
 bonding, states of matter, solutions, chemical kinetics, chemical
 equilibrium, thermodynamics, acid and base chemistry, descriptive
 and nuclear chemistry. Includes weekly lab. 
+
 Prerequisite: [MATH 120].
 
 ### [CHEM 311, 312] Organic Chemistry I, II for Christian Students (4,4)
@@ -1616,6 +1641,7 @@ Class explains the chemistry of carbon-containing compounds with
 emphasis on nomenclature, molecular structure, spectra-structure
 relationships, and a mechanistic approach to organic reactions.
 Includes weekly lab. 
+
 Prerequisite: [CHEM 102}
 
 ### [CHEM 350] Biochemistry for Christian Students (4)
@@ -1623,6 +1649,7 @@ Study of the fundamental principles of enzyme kinetics and
 mechanism based on the structure and chemistry of bimolecular
 including amino acids, carbohydrates, lipids, proteins, nucleotides,
 nucleic acids, and biological membranes. Includes weekly lab.
+
 Prerequisite: [CHEM 102, BIOL 152]
 
 ## Sciences - Physics
@@ -1631,4 +1658,5 @@ Prerequisite: [CHEM 102, BIOL 152]
 The algebraic and trigonometric treatment of mechanics, heat,
 sound, light, electricity, and magnetism, and “modern physics”.
 Includes weekly lab. 
+
 Prerequisite: [MATH 120].
