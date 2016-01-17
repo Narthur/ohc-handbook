@@ -32,4 +32,4 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 
 ## Dependencies
 
-* Pandoc
+* [Pandoc](http://pandoc.org/index.html)
