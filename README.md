@@ -30,10 +30,6 @@ The handbook for Ouachita Hills College in Amity, Arkansas.
 7. Add Table of Contents
 8. Save out .indd & .pdf files
 
-## Technologies
+## Dependencies
 
-* Markdown
-* GIT
-* markdownID
 * Pandoc
-* InDesign
