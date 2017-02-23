@@ -6,7 +6,7 @@ Always be consistent.
 
 ## Voice
 
-Write in third personnever first or second.
+Write in third person never first or second.
 
 ## Lists
 
